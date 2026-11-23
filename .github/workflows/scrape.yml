@@ -21,6 +21,10 @@ on:
         description: "Nur diese Liga-IDs (kommagetrennt, leer = alle)"
         type: string
         default: ""
+      test_push:
+        description: "Nur eine Test-Push-Nachricht senden (keine Daten laden)"
+        type: boolean
+        default: false
       diag_pages:
         description: "Nur Roh-HTML dieser Seiten speichern (Diagnose, kommagetrennt)"
         type: string
@@ -48,6 +52,7 @@ jobs:
           SCHEDULE: ${{ github.event.schedule }}
         run: |
           RUN=true
+          if [ "${{ github.event.inputs.test_push }}" = "true" ]; then RUN=false; fi
           if [ "${{ github.event_name }}" = "schedule" ]; then
             OFFSET=$(TZ=Europe/Berlin date +%z)   # +0100 Winter, +0200 Sommer
             if [ "$SCHEDULE" = "0 9 * * 1" ] && [ "$OFFSET" != "+0200" ]; then RUN=false; fi
@@ -57,7 +62,14 @@ jobs:
           echo "Lauf ausführen: $RUN (Berlin $(TZ=Europe/Berlin date '+%d.%m.%Y %H:%M %z'))"
 
       - uses: actions/checkout@v4
-        if: steps.gate.outputs.run == 'true'
+        if: steps.gate.outputs.run == 'true' || github.event.inputs.test_push == 'true'
+
+      - name: Test-Push senden
+        if: github.event.inputs.test_push == 'true'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node scripts/notify.mjs --test
 
       - uses: actions/setup-python@v5
         if: steps.gate.outputs.run == 'true'

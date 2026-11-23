@@ -45,6 +45,15 @@ const save = () =>
 const topic = process.env.NTFY_TOPIC;
 const weekly = process.env.WEEKLY === "true";
 
+if (process.argv.includes("--test")) {
+  if (!topic) {
+    console.error("NTFY_TOPIC ist nicht gesetzt – bitte das Repository-Secret prüfen.");
+    process.exit(1);
+  }
+  await send("Spielbericht-Prüfung: Testnachricht", `Die Push-Benachrichtigung ist eingerichtet. Aktuell bestehen ${findings.filter((f) => f.severity === "verstoss").length} Verstöße und ${findings.filter((f) => f.severity === "hinweis").length} Hinweise in der Saison ${data.meta?.season}. Antippen öffnet die App.`, 3, ["white_check_mark"]);
+  process.exit(0);
+}
+
 // Kennzahlen dieses Laufs für die Wochenmeldung
 const runAt = data.meta?.generated_at;
 const newReports = Object.values(data.reports).filter((r) => r.first_fetched_at && r.first_fetched_at === runAt).length;
@@ -102,6 +111,9 @@ async function send(t, body, priority, tags) {
       click: process.env.APP_URL || "https://he1nzharald-tu.github.io/spielbericht-pruefung/",
     }),
   });
-  if (!res.ok) console.error("ntfy-Fehler:", res.status, await res.text());
+  if (!res.ok) {
+    console.error("ntfy-Fehler:", res.status, await res.text());
+    process.exitCode = 1;
+  }
   else console.log("Push gesendet.");
 }
