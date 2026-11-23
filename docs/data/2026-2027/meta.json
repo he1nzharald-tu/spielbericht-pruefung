@@ -1,0 +1,154 @@
+{
+ "season": "2026/2027",
+ "generated_at": "2026-11-23T09:06:01Z",
+ "mode": "full",
+ "last_full_at": "2026-11-23T09:06:01Z",
+ "requests": 82,
+ "reports_fetched": 60,
+ "counts": {
+  "leagues": 2,
+  "teams": 19,
+  "matches": 162,
+  "reports": 60
+ },
+ "errors": [],
+ "warnings": [],
+ "leagues": [
+  {
+   "id": 570,
+   "code": "VL",
+   "name": "Verbandsliga",
+   "competition": "kombi",
+   "level": 1
+  },
+  {
+   "id": 571,
+   "code": "LL",
+   "name": "Landesliga",
+   "competition": "kombi",
+   "level": 2
+  },
+  {
+   "id": 573,
+   "code": "BL A",
+   "name": "Bezirksliga A",
+   "competition": "kombi",
+   "level": 3
+  },
+  {
+   "id": 568,
+   "code": "BL B",
+   "name": "Bezirksliga B",
+   "competition": "kombi",
+   "level": 3
+  },
+  {
+   "id": 569,
+   "code": "KL A",
+   "name": "Kreisliga A",
+   "competition": "kombi",
+   "level": 4
+  },
+  {
+   "id": 574,
+   "code": "KL B",
+   "name": "Kreisliga B",
+   "competition": "kombi",
+   "level": 4
+  },
+  {
+   "id": 576,
+   "code": "KK A",
+   "name": "Kreisklasse A",
+   "competition": "kombi",
+   "level": 5
+  },
+  {
+   "id": 577,
+   "code": "KK B",
+   "name": "Kreisklasse B",
+   "competition": "kombi",
+   "level": 5
+  },
+  {
+   "id": 575,
+   "code": "KK C",
+   "name": "Kreisklasse C",
+   "competition": "kombi",
+   "level": 5
+  },
+  {
+   "id": 579,
+   "code": "SE LL",
+   "name": "Senioren Landesliga",
+   "competition": "senioren",
+   "level": 1
+  },
+  {
+   "id": 572,
+   "code": "SE BZL",
+   "name": "Senioren Bezirksliga",
+   "competition": "senioren",
+   "level": 2
+  },
+  {
+   "id": 578,
+   "code": "PokM",
+   "name": "Pokal-Mannschaft",
+   "competition": "pokal",
+   "level": 1
+  }
+ ],
+ "races": {
+  "kombi": {
+   "1": {
+    "14/1": 100,
+    "8-Ball": 6,
+    "9-Ball": 7,
+    "10-Ball": 6
+   },
+   "2": {
+    "14/1": 75,
+    "8-Ball": 5,
+    "9-Ball": 6,
+    "10-Ball": 5
+   },
+   "3": {
+    "14/1": 75,
+    "8-Ball": 4,
+    "9-Ball": 5,
+    "10-Ball": 4
+   },
+   "4": {
+    "14/1": 50,
+    "8-Ball": 3,
+    "9-Ball": 4,
+    "10-Ball": 3
+   },
+   "5": {
+    "14/1": 30,
+    "8-Ball": 3,
+    "9-Ball": 4,
+    "10-Ball": 3
+   }
+  },
+  "senioren": {
+   "1": {
+    "8-Ball": 4,
+    "9-Ball": 5,
+    "10-Ball": 4
+   },
+   "2": {
+    "8-Ball": 3,
+    "9-Ball": 4,
+    "10-Ball": 3
+   }
+  },
+  "pokal": {
+   "1": {
+    "8-Ball": 2
+   }
+  }
+ },
+ "springer_regel": true
+}

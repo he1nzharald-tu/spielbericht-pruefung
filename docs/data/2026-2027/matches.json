@@ -1,0 +1,2130 @@
+[
+ {
+  "id": 55113,
+  "league_id": 569,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55113"
+ },
+ {
+  "id": 55114,
+  "league_id": 569,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55114"
+ },
+ {
+  "id": 55115,
+  "league_id": 569,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55115"
+ },
+ {
+  "id": 55116,
+  "league_id": 569,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55116"
+ },
+ {
+  "id": 55118,
+  "league_id": 569,
+  "st": 2,
+  "date": "2026-10-10",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55118"
+ },
+ {
+  "id": 55119,
+  "league_id": 569,
+  "st": 2,
+  "date": "2026-09-26",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55119"
+ },
+ {
+  "id": 55120,
+  "league_id": 569,
+  "st": 2,
+  "date": "2026-09-25",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55120"
+ },
+ {
+  "id": 55121,
+  "league_id": 569,
+  "st": 2,
+  "date": "2026-10-10",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55121"
+ },
+ {
+  "id": 55123,
+  "league_id": 569,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55123"
+ },
+ {
+  "id": 55124,
+  "league_id": 569,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55124"
+ },
+ {
+  "id": 55125,
+  "league_id": 569,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   0,
+   8
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55125"
+ },
+ {
+  "id": 55126,
+  "league_id": 569,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55126"
+ },
+ {
+  "id": 55128,
+  "league_id": 569,
+  "st": 4,
+  "date": "2026-10-16",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55128"
+ },
+ {
+  "id": 55129,
+  "league_id": 569,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55129"
+ },
+ {
+  "id": 55130,
+  "league_id": 569,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55130"
+ },
+ {
+  "id": 55131,
+  "league_id": 569,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55131"
+ },
+ {
+  "id": 55133,
+  "league_id": 569,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55133"
+ },
+ {
+  "id": 55134,
+  "league_id": 569,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55134"
+ },
+ {
+  "id": 55136,
+  "league_id": 569,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55136"
+ },
+ {
+  "id": 55137,
+  "league_id": 569,
+  "st": 5,
+  "date": "2026-12-19",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55137"
+ },
+ {
+  "id": 55138,
+  "league_id": 569,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55138"
+ },
+ {
+  "id": 55140,
+  "league_id": 569,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   7,
+   1
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55140"
+ },
+ {
+  "id": 55141,
+  "league_id": 569,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55141"
+ },
+ {
+  "id": 55142,
+  "league_id": 569,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55142"
+ },
+ {
+  "id": 55143,
+  "league_id": 569,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55143"
+ },
+ {
+  "id": 55144,
+  "league_id": 569,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55144"
+ },
+ {
+  "id": 55145,
+  "league_id": 569,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55145"
+ },
+ {
+  "id": 55147,
+  "league_id": 569,
+  "st": 7,
+  "date": "2026-11-20",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55147"
+ },
+ {
+  "id": 55149,
+  "league_id": 569,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55149"
+ },
+ {
+  "id": 55150,
+  "league_id": 569,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55150"
+ },
+ {
+  "id": 55151,
+  "league_id": 569,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55151"
+ },
+ {
+  "id": 55152,
+  "league_id": 569,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55152"
+ },
+ {
+  "id": 55153,
+  "league_id": 569,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55153"
+ },
+ {
+  "id": 55155,
+  "league_id": 569,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55155"
+ },
+ {
+  "id": 55156,
+  "league_id": 569,
+  "st": 9,
+  "date": "2026-12-11",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55156"
+ },
+ {
+  "id": 55157,
+  "league_id": 569,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55157"
+ },
+ {
+  "id": 55158,
+  "league_id": 569,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55158"
+ },
+ {
+  "id": 55159,
+  "league_id": 569,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55159"
+ },
+ {
+  "id": 55160,
+  "league_id": 569,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55160"
+ },
+ {
+  "id": 55161,
+  "league_id": 569,
+  "st": 10,
+  "date": "2027-01-15",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55161"
+ },
+ {
+  "id": 55163,
+  "league_id": 569,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55163"
+ },
+ {
+  "id": 55164,
+  "league_id": 569,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55164"
+ },
+ {
+  "id": 55165,
+  "league_id": 569,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55165"
+ },
+ {
+  "id": 55166,
+  "league_id": 569,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55166"
+ },
+ {
+  "id": 55168,
+  "league_id": 569,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55168"
+ },
+ {
+  "id": 55169,
+  "league_id": 569,
+  "st": 12,
+  "date": "2027-02-26",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55169"
+ },
+ {
+  "id": 55170,
+  "league_id": 569,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55170"
+ },
+ {
+  "id": 55171,
+  "league_id": 569,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55171"
+ },
+ {
+  "id": 55173,
+  "league_id": 569,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55173"
+ },
+ {
+  "id": 55174,
+  "league_id": 569,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55174"
+ },
+ {
+  "id": 55175,
+  "league_id": 569,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55175"
+ },
+ {
+  "id": 55176,
+  "league_id": 569,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55176"
+ },
+ {
+  "id": 55178,
+  "league_id": 569,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55178"
+ },
+ {
+  "id": 55179,
+  "league_id": 569,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55179"
+ },
+ {
+  "id": 55181,
+  "league_id": 569,
+  "st": 14,
+  "date": "2027-04-16",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55181"
+ },
+ {
+  "id": 55182,
+  "league_id": 569,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55182"
+ },
+ {
+  "id": 55183,
+  "league_id": 569,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55183"
+ },
+ {
+  "id": 55185,
+  "league_id": 569,
+  "st": 15,
+  "date": "2027-04-23",
+  "time": "20:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55185"
+ },
+ {
+  "id": 55186,
+  "league_id": 569,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55186"
+ },
+ {
+  "id": 55187,
+  "league_id": 569,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55187"
+ },
+ {
+  "id": 55188,
+  "league_id": 569,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55188"
+ },
+ {
+  "id": 55189,
+  "league_id": 569,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55189"
+ },
+ {
+  "id": 55190,
+  "league_id": 569,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55190"
+ },
+ {
+  "id": 55192,
+  "league_id": 569,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55192"
+ },
+ {
+  "id": 55194,
+  "league_id": 569,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55194"
+ },
+ {
+  "id": 55195,
+  "league_id": 569,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55195"
+ },
+ {
+  "id": 55196,
+  "league_id": 569,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55196"
+ },
+ {
+  "id": 55197,
+  "league_id": 569,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55197"
+ },
+ {
+  "id": 55198,
+  "league_id": 569,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55198"
+ },
+ {
+  "id": 55200,
+  "league_id": 569,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55200"
+ },
+ {
+  "id": 55201,
+  "league_id": 569,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55201"
+ },
+ {
+  "id": 55202,
+  "league_id": 569,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-569-0-55202"
+ },
+ {
+  "id": 54843,
+  "league_id": 571,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   1,
+   7
+  ],
+  "memo": [
+   "Springer Sparacio 1044"
+  ],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54843"
+ },
+ {
+  "id": 54844,
+  "league_id": 571,
+  "st": 1,
+  "date": "2026-10-10",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54844"
+ },
+ {
+  "id": 54845,
+  "league_id": 571,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54845"
+ },
+ {
+  "id": 54846,
+  "league_id": 571,
+  "st": 1,
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54846"
+ },
+ {
+  "id": 54847,
+  "league_id": 571,
+  "st": 1,
+  "date": "2026-09-19",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [
+   "Springer Romich Jacob 1818"
+  ],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54847"
+ },
+ {
+  "id": 54848,
+  "league_id": 571,
+  "st": 2,
+  "date": "2026-09-26",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   7,
+   1
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54848"
+ },
+ {
+  "id": 54849,
+  "league_id": 571,
+  "st": 2,
+  "date": "2026-10-24",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54849"
+ },
+ {
+  "id": 54850,
+  "league_id": 571,
+  "st": 2,
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54850"
+ },
+ {
+  "id": 54851,
+  "league_id": 571,
+  "st": 2,
+  "date": "2026-09-05",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54851"
+ },
+ {
+  "id": 54852,
+  "league_id": 571,
+  "st": 2,
+  "date": "2026-09-26",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54852"
+ },
+ {
+  "id": 54853,
+  "league_id": 571,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54853"
+ },
+ {
+  "id": 54854,
+  "league_id": 571,
+  "st": 3,
+  "date": "2026-09-05",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   7,
+   1
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54854"
+ },
+ {
+  "id": 54855,
+  "league_id": 571,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54855"
+ },
+ {
+  "id": 54856,
+  "league_id": 571,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54856"
+ },
+ {
+  "id": 54857,
+  "league_id": 571,
+  "st": 3,
+  "date": "2026-10-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54857"
+ },
+ {
+  "id": 54858,
+  "league_id": 571,
+  "st": 4,
+  "date": "2026-11-14",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   7,
+   1
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54858"
+ },
+ {
+  "id": 54859,
+  "league_id": 571,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54859"
+ },
+ {
+  "id": 54860,
+  "league_id": 571,
+  "st": 4,
+  "date": "2026-10-24",
+  "time": "18:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54860"
+ },
+ {
+  "id": 54861,
+  "league_id": 571,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "12:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54861"
+ },
+ {
+  "id": 54862,
+  "league_id": 571,
+  "st": 4,
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54862"
+ },
+ {
+  "id": 54863,
+  "league_id": 571,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   2,
+   6
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54863"
+ },
+ {
+  "id": 54864,
+  "league_id": 571,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54864"
+ },
+ {
+  "id": 54865,
+  "league_id": 571,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   4,
+   4
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54865"
+ },
+ {
+  "id": 54866,
+  "league_id": 571,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54866"
+ },
+ {
+  "id": 54867,
+  "league_id": 571,
+  "st": 5,
+  "date": "2026-10-31",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54867"
+ },
+ {
+  "id": 54868,
+  "league_id": 571,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54868"
+ },
+ {
+  "id": 54869,
+  "league_id": 571,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54869"
+ },
+ {
+  "id": 54870,
+  "league_id": 571,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   6,
+   2
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54870"
+ },
+ {
+  "id": 54871,
+  "league_id": 571,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54871"
+ },
+ {
+  "id": 54872,
+  "league_id": 571,
+  "st": 6,
+  "date": "2026-11-07",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   5,
+   3
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54872"
+ },
+ {
+  "id": 54873,
+  "league_id": 571,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54873"
+ },
+ {
+  "id": 54874,
+  "league_id": 571,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   3,
+   5
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54874"
+ },
+ {
+  "id": 54875,
+  "league_id": 571,
+  "st": 7,
+  "date": "2026-11-21",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": [
+   8,
+   0
+  ],
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54875"
+ },
+ {
+  "id": 54876,
+  "league_id": 571,
+  "st": 7,
+  "date": "2026-12-05",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54876"
+ },
+ {
+  "id": 54877,
+  "league_id": 571,
+  "st": 7,
+  "date": "2026-11-29",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54877"
+ },
+ {
+  "id": 54878,
+  "league_id": 571,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54878"
+ },
+ {
+  "id": 54879,
+  "league_id": 571,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54879"
+ },
+ {
+  "id": 54880,
+  "league_id": 571,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54880"
+ },
+ {
+  "id": 54881,
+  "league_id": 571,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54881"
+ },
+ {
+  "id": 54882,
+  "league_id": 571,
+  "st": 8,
+  "date": "2026-11-28",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54882"
+ },
+ {
+  "id": 54883,
+  "league_id": 571,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54883"
+ },
+ {
+  "id": 54884,
+  "league_id": 571,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54884"
+ },
+ {
+  "id": 54885,
+  "league_id": 571,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54885"
+ },
+ {
+  "id": 54886,
+  "league_id": 571,
+  "st": 9,
+  "date": "2027-01-02",
+  "time": "12:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54886"
+ },
+ {
+  "id": 54887,
+  "league_id": 571,
+  "st": 9,
+  "date": "2026-12-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54887"
+ },
+ {
+  "id": 54888,
+  "league_id": 571,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54888"
+ },
+ {
+  "id": 54889,
+  "league_id": 571,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54889"
+ },
+ {
+  "id": 54890,
+  "league_id": 571,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54890"
+ },
+ {
+  "id": 54891,
+  "league_id": 571,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54891"
+ },
+ {
+  "id": 54892,
+  "league_id": 571,
+  "st": 10,
+  "date": "2027-01-16",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54892"
+ },
+ {
+  "id": 54893,
+  "league_id": 571,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54893"
+ },
+ {
+  "id": 54894,
+  "league_id": 571,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54894"
+ },
+ {
+  "id": 54895,
+  "league_id": 571,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54895"
+ },
+ {
+  "id": 54896,
+  "league_id": 571,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54896"
+ },
+ {
+  "id": 54897,
+  "league_id": 571,
+  "st": 11,
+  "date": "2027-01-23",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54897"
+ },
+ {
+  "id": 54898,
+  "league_id": 571,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54898"
+ },
+ {
+  "id": 54899,
+  "league_id": 571,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54899"
+ },
+ {
+  "id": 54900,
+  "league_id": 571,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54900"
+ },
+ {
+  "id": 54901,
+  "league_id": 571,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54901"
+ },
+ {
+  "id": 54902,
+  "league_id": 571,
+  "st": 12,
+  "date": "2027-02-27",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54902"
+ },
+ {
+  "id": 54903,
+  "league_id": 571,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54903"
+ },
+ {
+  "id": 54904,
+  "league_id": 571,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54904"
+ },
+ {
+  "id": 54905,
+  "league_id": 571,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54905"
+ },
+ {
+  "id": 54906,
+  "league_id": 571,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54906"
+ },
+ {
+  "id": 54907,
+  "league_id": 571,
+  "st": 13,
+  "date": "2027-04-03",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54907"
+ },
+ {
+  "id": 54908,
+  "league_id": 571,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54908"
+ },
+ {
+  "id": 54909,
+  "league_id": 571,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54909"
+ },
+ {
+  "id": 54910,
+  "league_id": 571,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54910"
+ },
+ {
+  "id": 54911,
+  "league_id": 571,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54911"
+ },
+ {
+  "id": 54912,
+  "league_id": 571,
+  "st": 14,
+  "date": "2027-04-17",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54912"
+ },
+ {
+  "id": 54913,
+  "league_id": 571,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54913"
+ },
+ {
+  "id": 54914,
+  "league_id": 571,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54914"
+ },
+ {
+  "id": 54915,
+  "league_id": 571,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54915"
+ },
+ {
+  "id": 54916,
+  "league_id": 571,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54916"
+ },
+ {
+  "id": 54917,
+  "league_id": 571,
+  "st": 15,
+  "date": "2027-04-24",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54917"
+ },
+ {
+  "id": 54918,
+  "league_id": 571,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54918"
+ },
+ {
+  "id": 54919,
+  "league_id": 571,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54919"
+ },
+ {
+  "id": 54920,
+  "league_id": 571,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54920"
+ },
+ {
+  "id": 54921,
+  "league_id": 571,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54921"
+ },
+ {
+  "id": 54922,
+  "league_id": 571,
+  "st": 16,
+  "date": "2027-05-01",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54922"
+ },
+ {
+  "id": 54923,
+  "league_id": 571,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54923"
+ },
+ {
+  "id": 54924,
+  "league_id": 571,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54924"
+ },
+ {
+  "id": 54925,
+  "league_id": 571,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "14:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54925"
+ },
+ {
+  "id": 54926,
+  "league_id": 571,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54926"
+ },
+ {
+  "id": 54927,
+  "league_id": 571,
+  "st": 17,
+  "date": "2027-05-22",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54927"
+ },
+ {
+  "id": 54928,
+  "league_id": 571,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54928"
+ },
+ {
+  "id": 54929,
+  "league_id": 571,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54929"
+ },
+ {
+  "id": 54930,
+  "league_id": 571,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54930"
+ },
+ {
+  "id": 54931,
+  "league_id": 571,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "15:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54931"
+ },
+ {
+  "id": 54932,
+  "league_id": 571,
+  "st": 18,
+  "date": "2027-06-12",
+  "time": "16:00",
+  "home_id": null,
+  "away_id": null,
+  "result": null,
+  "memo": [],
+  "url": "sb_spielbericht.php?p=13--2026/2027-571-0-54932"
+ }
+]

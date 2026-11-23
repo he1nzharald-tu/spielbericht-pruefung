@@ -1,0 +1,7316 @@
+{
+ "54843": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Hermann-Josef Himmler",
+    "away": "Carsten Lehmann",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     58
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Sebastian Bock",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Meinhart Adrian",
+    "away": "Sabine Sparacio",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Deni",
+    "away": "Vincent Breuer",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Hans Peter Deni",
+    "away": "Sebastian Bock",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     12,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Meinhart Adrian",
+    "away": "Sabine Sparacio",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Vincent Breuer",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Hermann-Josef Himmler",
+    "away": "Carsten Lehmann",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   1,
+   7
+  ],
+  "description": "Springer Sparacio 1044",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-09-20T08:32",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54843,
+  "hash": "2ad7cbf1788a4535",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54844": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Rafael Marx",
+    "away": "Frank Stefani",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "David Richter",
+    "away": "Mario dos Santos",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Thomas Engert",
+    "away": "Marius Burchardt",
+    "score": [
+     6,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Stefan Nipps",
+    "away": "Dimiter Jordanov",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Thomas Engert",
+    "away": "Marius Burchardt",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     10
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Christian Niederau",
+    "away": "Dimiter Jordanov",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Rafael Marx",
+    "away": "Mario dos Santos",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "David Richter",
+    "away": "Frank Stefani",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Stefan Nipps",
+  "captured_at": "2026-10-10T20:05",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54844,
+  "hash": "58c289246346da34",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54845": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Viktor Pucihar",
+    "away": "Marc Schäfer",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     39,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Ibrahim Ayir",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Sascha Brandt",
+    "away": "Norbert Carle",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Marko Djetelic",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Sascha Brandt",
+    "away": "Marko Djetelic",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     66
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Viktor Pucihar",
+    "away": "Marc Schäfer",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Ibrahim Ayir",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Norbert Carle",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Viktor Pucihar",
+  "captured_at": "2026-09-19T20:43",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54845,
+  "hash": "29a573d80080bc56",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54846": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Frank Willmann",
+    "away": "Harald Heck",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     61
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Willmann",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Achim Ohnesorg",
+    "away": "Volker Chmielus",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jens Rittmeyer",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Karl-Heinz Willmann",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     58,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Achim Ohnesorg",
+    "away": "Volker Chmielus",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Jens Rittmeyer",
+    "away": "Harald Heck",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Frank Willmann",
+    "away": "Werner Scheulen",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Jens Rittmeyer",
+  "captured_at": "2026-10-24T20:05",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54846,
+  "hash": "48896bed4ba03e79",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54847": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Momean Zakaria",
+    "away": "Jakob Romich",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     23
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Frank Köthe",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Atila Arslanbas",
+    "away": "Michael Hülscher",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Perry Vissers",
+    "away": "Thomas Beus",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Perry Vissers",
+    "away": "Thomas Beus",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     36,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Momean Zakaria",
+    "away": "Michael Hülscher",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Frank Köthe",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Atila Arslanbas",
+    "away": "Jakob Romich",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "Springer Romich Jacob 1818",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-09-20T13:20",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54847,
+  "hash": "fcafe96d8c6cf91a",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54848": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marius Burchardt",
+    "away": "Hans Peter Deni",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     37
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Mario dos Santos",
+    "away": "Jakob Romich",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Frank Stefani",
+    "away": "Meinhart Adrian",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Hermann-Josef Himmler",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Frank Stefani",
+    "away": "Hermann-Josef Himmler",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     49,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marius Burchardt",
+    "away": "Patrick Bridoux",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Jakob Romich",
+    "score": [
+     6,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Mario dos Santos",
+    "away": "Meinhart Adrian",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   7,
+   1
+  ],
+  "description": "",
+  "captured_by": "Frank Stefani",
+  "captured_at": "2026-09-26T20:44",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54848,
+  "hash": "642b0e28d6d2ec8d",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54849": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marc Schäfer",
+    "away": "David Richter",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     62,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Tobias Stärk",
+    "away": "Christian Niederau",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Norbert Carle",
+    "away": "Rafael Marx",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Ibrahim Ayir",
+    "away": "Thomas Engert",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Tobias Stärk",
+    "away": "Thomas Engert",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     3,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Ibrahim Ayir",
+    "away": "Rafael Marx",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Marc Schäfer",
+    "away": "Christian Niederau",
+    "score": [
+     6,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Norbert Carle",
+    "away": "David Richter",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Marc Schäfer",
+  "captured_at": "2026-10-24T17:46",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54849,
+  "hash": "6a49a6a761fe28a0",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54850": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Harald Heck",
+    "away": "Sascha Brandt",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     74,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Werner Scheulen",
+    "away": "Thomas Jaquemot",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Volker Chmielus",
+    "away": "Viktor Pucihar",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Karl-Heinz Hamacher",
+    "away": "Stefan Stoffels",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Karl-Heinz Hamacher",
+    "away": "Thomas Jaquemot",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     61
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Volker Chmielus",
+    "away": "Viktor Pucihar",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Harald Heck",
+    "away": "Stefan Stoffels",
+    "score": [
+     6,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Werner Scheulen",
+    "away": "Sascha Brandt",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Werner Ertel",
+  "captured_at": "2026-10-25T20:39",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54850,
+  "hash": "2aa28fec604054b9",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54851": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Dieter Finner",
+    "away": "Patrick Pickart",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     71
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Ralf Göttling",
+    "away": "Achim Krieger",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Frank Köthe",
+    "away": "Achim Ohnesorg",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Michael Hülscher",
+    "away": "Jens Rittmeyer",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Ralf Göttling",
+    "away": "Achim Krieger",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     21,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Frank Köthe",
+    "away": "Jens Rittmeyer",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Michael Hülscher",
+    "away": "Patrick Pickart",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Dieter Finner",
+    "away": "Achim Ohnesorg",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-09-06T00:02",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54851,
+  "hash": "76ea6bbf2c458e17",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54852": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Sebastian Bock",
+    "away": "Momean Zakaria",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     39,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Carsten Lehmann",
+    "away": "Reiner Wohlrab",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Andre Prost",
+    "away": "Atila Arslanbas",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Vincent Breuer",
+    "away": "Perry Vissers",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Carsten Lehmann",
+    "away": "Atila Arslanbas",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     61
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sebastian Bock",
+    "away": "Momean Zakaria",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Vincent Breuer",
+    "away": "Perry Vissers",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Andre Prost",
+    "away": "Reiner Wohlrab",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Sebastian Bock",
+  "captured_at": "2026-09-26T19:08",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54852,
+  "hash": "a44a7d5e99af49a8",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54853": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Rainer Becker",
+    "away": "Norbert Carle",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     68,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Joannis Palapoukidis",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Meinhart Adrian",
+    "away": "Tobias Stärk",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Deni",
+    "away": "Ibrahim Ayir",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Jakob Romich",
+    "away": "Tobias Stärk",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     70,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Meinhart Adrian",
+    "away": "Ibrahim Ayir",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Joannis Palapoukidis",
+    "score": [
+     6,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Rainer Becker",
+    "away": "Norbert Carle",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Hermann-Josef Himmler",
+  "captured_at": "2026-10-03T21:15",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54853,
+  "hash": "c07bfbb09a79f6dd",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54854": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Rafael Marx",
+    "away": "Harald Heck",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     68
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Engert",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Stefan Nipps",
+    "away": "Volker Chmielus",
+    "score": [
+     6,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "David Richter",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Thomas Engert",
+    "away": "Volker Chmielus",
+    "score": [
+     1,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Stefan Nipps",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "David Richter",
+    "away": "Harald Heck",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Christian Niederau",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   7,
+   1
+  ],
+  "description": "",
+  "captured_by": "Stefan Nipps",
+  "captured_at": "2026-09-05T19:09",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54854,
+  "hash": "dca4cd8451284630",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54855": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Viktor Pucihar",
+    "away": "Dieter Finner",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Thomas Beus",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Frank Köthe",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Sascha Brandt",
+    "away": "Michael Hülscher",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Thomas Jaquemot",
+    "away": "Thomas Beus",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     72
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Viktor Pucihar",
+    "away": "Frank Köthe",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Sascha Brandt",
+    "away": "Michael Hülscher",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Dieter Finner",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Viktor Pucihar",
+  "captured_at": "2026-10-03T21:39",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54855,
+  "hash": "f42aeb3cbced73f6",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54856": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Frank Willmann",
+    "away": "Carsten Lehmann",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     61,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Willmann",
+    "away": "Sebastian Bock",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Patrick Pickart",
+    "away": "Andre Prost",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jens Rittmeyer",
+    "away": "Roman Morid",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Patrick Pickart",
+    "away": "Sebastian Bock",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     40,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Jens Rittmeyer",
+    "away": "Carsten Lehmann",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Karl-Heinz Willmann",
+    "away": "Roman Morid",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Frank Willmann",
+    "away": "Andre Prost",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Jens Rittmeyer",
+  "captured_at": "2026-10-03T22:37",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54856,
+  "hash": "610c6a33f05d46d2",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54857": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Lukas Krott",
+    "away": "Frank Stefani",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     38
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Perry Vissers",
+    "away": "Mario dos Santos",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Marius Burchardt",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Momean Zakaria",
+    "away": "Dimiter Jordanov",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Momean Zakaria",
+    "away": "Marius Burchardt",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     69,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Lukas Krott",
+    "away": "Dimiter Jordanov",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Perry Vissers",
+    "away": "Mario dos Santos",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Frank Stefani",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Marcel Königs",
+  "captured_at": "2026-10-03T21:37",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54857,
+  "hash": "073db1ad5fb46012",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54858": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Harald Heck",
+    "away": "Jakob Romich",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     54
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Werner Scheulen",
+    "away": "Patrick Bridoux",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Volker Chmielus",
+    "away": "Rainer Becker",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Karl-Heinz Hamacher",
+    "away": "Meinhart Adrian",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Karl-Heinz Hamacher",
+    "away": "Hermann-Josef Himmler",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     71,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Volker Chmielus",
+    "away": "Jakob Romich",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Harald Heck",
+    "away": "Meinhart Adrian",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Werner Scheulen",
+    "away": "Rainer Becker",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   7,
+   1
+  ],
+  "description": "",
+  "captured_by": "Werner Ertel",
+  "captured_at": "2026-11-14T23:54",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54858,
+  "hash": "07421c9319097d86",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54859": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Dieter Finner",
+    "away": "Thomas Engert",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     43,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Michael Hülscher",
+    "away": "Stefan Nipps",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Thomas Beus",
+    "away": "Rafael Marx",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Frank Köthe",
+    "away": "David Richter",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Frank Köthe",
+    "away": "Stefan Nipps",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     71
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Dieter Finner",
+    "away": "Thomas Engert",
+    "score": [
+     0,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Michael Hülscher",
+    "away": "David Richter",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Thomas Beus",
+    "away": "Rafael Marx",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Dieter Finner",
+  "captured_at": "2026-10-18T09:54",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54859,
+  "hash": "be725675e18e7e82",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54860": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Sebastian Bock",
+    "away": "Thomas Jaquemot",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     47
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Carsten Lehmann",
+    "away": "Viktor Pucihar",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Roman Morid",
+    "away": "Stefan Stoffels",
+    "score": [
+     3,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Andre Prost",
+    "away": "Sascha Brandt",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Roman Morid",
+    "away": "Sascha Brandt",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     65,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sebastian Bock",
+    "away": "Stefan Stoffels",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Andre Prost",
+    "away": "Viktor Pucihar",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Carsten Lehmann",
+    "away": "Thomas Jaquemot",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Sebastian Bock",
+  "captured_at": "2026-10-24T22:42",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54860,
+  "hash": "c2fffa0ace894e6c",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54861": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marius Burchardt",
+    "away": "Frank Willmann",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     29
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Mario dos Santos",
+    "away": "Karl-Heinz Willmann",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Achim Ohnesorg",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Frank Stefani",
+    "away": "Jens Rittmeyer",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Frank Stefani",
+    "away": "Karl-Heinz Willmann",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     47
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marius Burchardt",
+    "away": "Achim Ohnesorg",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Mario dos Santos",
+    "away": "Jens Rittmeyer",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Frank Willmann",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Frank Stefani",
+  "captured_at": "2026-10-17T16:46",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54861,
+  "hash": "ec3fcd7128e7c0e5",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54862": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marc Schäfer",
+    "away": "Perry Vissers",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     57,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Joannis Palapoukidis",
+    "away": "Lukas Krott",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Norbert Carle",
+    "away": "Reiner Wohlrab",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Marko Djetelic",
+    "away": "Atila Arslanbas",
+    "score": [
+     0,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Norbert Carle",
+    "away": "Lukas Krott",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     43
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marko Djetelic",
+    "away": "Perry Vissers",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Tobias Stärk",
+    "away": "Atila Arslanbas",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Marc Schäfer",
+    "away": "Reiner Wohlrab",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Marc Schäfer",
+  "captured_at": "2026-10-18T01:48",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54862,
+  "hash": "b9851084758209c0",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54863": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Hermann-Josef Himmler",
+    "away": "Thomas Beus",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     71
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Frank Köthe",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Rainer Becker",
+    "away": "Dieter Finner",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jakob Romich",
+    "away": "Michael Hülscher",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Hans Peter Deni",
+    "away": "Dieter Finner",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     47,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Jakob Romich",
+    "away": "Thomas Beus",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Meinhart Adrian",
+    "away": "Frank Köthe",
+    "score": [
+     3,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Hermann-Josef Himmler",
+    "away": "Michael Thönnissen",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Hermann-Josef Himmler",
+  "captured_at": "2026-10-31T21:27",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54863,
+  "hash": "d4354dd56fbceb84",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54864": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Thomas Engert",
+    "away": "Patrick Pickart",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     6
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Stefan Nipps",
+    "away": "Jens Rittmeyer",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Christian Niederau",
+    "away": "Karl-Heinz Willmann",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "David Richter",
+    "away": "Frank Willmann",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "David Richter",
+    "away": "Frank Willmann",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     59,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Thomas Engert",
+    "away": "Karl-Heinz Willmann",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Stefan Nipps",
+    "away": "Achim Ohnesorg",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Christian Niederau",
+    "away": "Patrick Pickart",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Stefan Nipps",
+  "captured_at": "2026-10-31T19:06",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54864,
+  "hash": "b578628c1dd0a97f",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54865": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Viktor Pucihar",
+    "away": "Perry Vissers",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     57
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Reiner Wohlrab",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Atila Arslanbas",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Sascha Brandt",
+    "away": "Detlev Herf",
+    "score": [
+     0,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Thomas Jaquemot",
+    "away": "Atila Arslanbas",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     47,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sascha Brandt",
+    "away": "Perry Vissers",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "",
+    "away": "Detlev Herf",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Viktor Pucihar",
+    "away": "Reiner Wohlrab",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Viktor Pucihar",
+  "captured_at": "2026-10-31T21:21",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54865,
+  "hash": "0b23ce930a3e9904",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54866": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marius Burchardt",
+    "away": "Harald Heck",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     19
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Mario dos Santos",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Volker Chmielus",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Frank Stefani",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Frank Stefani",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     51,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marius Burchardt",
+    "away": "Volker Chmielus",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Mario dos Santos",
+    "away": "Harald Heck",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Dimiter Jordanov",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Frank Stefani",
+  "captured_at": "2026-10-31T20:56",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54866,
+  "hash": "e329db7b31b7bab4",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54867": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Sebastian Bock",
+    "away": "Janne Riihijärvi",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     46
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Carsten Lehmann",
+    "away": "Joannis Palapoukidis",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Roman Morid",
+    "away": "Norbert Carle",
+    "score": [
+     1,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Vincent Breuer",
+    "away": "Thorsten Ley",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Roman Morid",
+    "away": "Norbert Carle",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     60
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sebastian Bock",
+    "away": "Janne Riihijärvi",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Vincent Breuer",
+    "away": "Thorsten Ley",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Carsten Lehmann",
+    "away": "Joannis Palapoukidis",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Sebastian Bock",
+  "captured_at": "2026-10-31T18:58",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54867,
+  "hash": "0e90059ade16fa03",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54868": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Stefan Nipps",
+    "away": "Sebastian Bock",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     42
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "David Richter",
+    "away": "Roman Morid",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Thomas Engert",
+    "away": "Andre Prost",
+    "score": [
+     6,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Rafael Marx",
+    "away": "Carsten Lehmann",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Thomas Engert",
+    "away": "Roman Morid",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     36
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Stefan Nipps",
+    "away": "Andre Prost",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Rafael Marx",
+    "away": "Vincent Breuer",
+    "score": [
+     3,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "David Richter",
+    "away": "Sebastian Bock",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Christian Horn",
+  "captured_at": "2026-11-07T16:53",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54868,
+  "hash": "30fa77a7cde09f43",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54869": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Momean Zakaria",
+    "away": "Hans Peter Deni",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     12
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Lukas Krott",
+    "away": "Patrick Bridoux",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Rainer Becker",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Atila Arslanbas",
+    "away": "Hermann-Josef Himmler",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Lukas Krott",
+    "away": "Rainer Becker",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     38
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Momean Zakaria",
+    "away": "Jakob Romich",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Perry Vissers",
+    "away": "Hermann-Josef Himmler",
+    "score": [
+     3,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Reiner Wohlrab",
+    "away": "Patrick Bridoux",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Marcel Königs",
+  "captured_at": "2026-11-07T22:26",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54869,
+  "hash": "a1dc3c1fe6ba4f96",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54870": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Hülscher",
+    "away": "Norbert Schaffrath",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     53
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Beus",
+    "away": "Werner Scheulen",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Frank Köthe",
+    "away": "Volker Chmielus",
+    "score": [
+     6,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Dieter Finner",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Dieter Finner",
+    "away": "Karl-Heinz Hamacher",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     53
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Frank Köthe",
+    "away": "Volker Chmielus",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Michael Hülscher",
+    "away": "Norbert Schaffrath",
+    "score": [
+     6,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Thomas Beus",
+    "away": "Werner Scheulen",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Dieter Finner",
+  "captured_at": "2026-11-07T20:12",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54870,
+  "hash": "ad4be8c2906a916d",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54871": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Offermann",
+    "away": "Sascha Brandt",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     36
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Jens Rittmeyer",
+    "away": "Thomas Jaquemot",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Karl-Heinz Willmann",
+    "away": "Viktor Pucihar",
+    "score": [
+     5,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Frank Willmann",
+    "away": "Stefan Stoffels",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Jens Rittmeyer",
+    "away": "Thomas Jaquemot",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     60,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Willmann",
+    "away": "Sascha Brandt",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Achim Ohnesorg",
+    "away": "Stefan Stoffels",
+    "score": [
+     3,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Michael Offermann",
+    "away": "Viktor Pucihar",
+    "score": [
+     5,
+     0
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Jens Rittmeyer",
+  "captured_at": "2026-11-08T09:11",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54871,
+  "hash": "dc7fd3c3f57f642f",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54872": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marc Schäfer",
+    "away": "Marius Burchardt",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     63
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Marko Djetelic",
+    "away": "Mario dos Santos",
+    "score": [
+     2,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Norbert Carle",
+    "away": "Frank Stefani",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Ibrahim Ayir",
+    "away": "Dimiter Jordanov",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Marko Djetelic",
+    "away": "Frank Stefani",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     66
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Ibrahim Ayir",
+    "away": "Marius Burchardt",
+    "score": [
+     4,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Marc Schäfer",
+    "away": "Dimiter Jordanov",
+    "score": [
+     6,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Norbert Carle",
+    "away": "Mario dos Santos",
+    "score": [
+     5,
+     4
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Marc Schäfer",
+  "captured_at": "2026-11-07T21:24",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54872,
+  "hash": "6e61b9c94e5c2a3f",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54873": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Patrick Bridoux",
+    "away": "Stefan Nipps",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     66
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Rainer Becker",
+    "away": "David Richter",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Hermann-Josef Himmler",
+    "away": "Thomas Engert",
+    "score": [
+     2,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Deni",
+    "away": "Rafael Marx",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Hans Peter Deni",
+    "away": "Thomas Engert",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     20,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Patrick Bridoux",
+    "away": "Rafael Marx",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Rainer Becker",
+    "away": "Stefan Nipps",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Hermann-Josef Himmler",
+    "away": "David Richter",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Hermann-Josef Himmler",
+  "captured_at": "2026-11-21T20:58",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54873,
+  "hash": "a37183d594b5f3c2",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54874": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Sascha Brandt",
+    "away": "Frank Stefani",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     55,
+     75
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Mario dos Santos",
+    "score": [
+     1,
+     5
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Viktor Pucihar",
+    "away": "Marius Burchardt",
+    "score": [
+     4,
+     6
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Dimiter Jordanov",
+    "score": [
+     6,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Viktor Pucihar",
+    "away": "Marius Burchardt",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     55,
+     75
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sascha Brandt",
+    "away": "Dimiter Jordanov",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Stefan Stoffels",
+    "away": "Mario dos Santos",
+    "score": [
+     6,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Thomas Jaquemot",
+    "away": "Frank Stefani",
+    "score": [
+     3,
+     5
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Viktor Pucihar",
+  "captured_at": "2026-11-22T10:19",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54874,
+  "hash": "ded58d4e0d87d4c6",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "54875": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Carsten Lehmann",
+    "away": "Thomas Beus",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     12
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Sebastian Bock",
+    "away": "Dieter Finner",
+    "score": [
+     5,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Andre Prost",
+    "away": "Frank Köthe",
+    "score": [
+     6,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Roman Morid",
+    "away": "Michael Hülscher",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Roman Morid",
+    "away": "Dieter Finner",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     75,
+     52
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Andre Prost",
+    "away": "Frank Köthe",
+    "score": [
+     5,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Sebastian Bock",
+    "away": "Michael Hülscher",
+    "score": [
+     6,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Vincent Breuer",
+    "away": "Thomas Beus",
+    "score": [
+     5,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   8,
+   0
+  ],
+  "description": "",
+  "captured_by": "Sebastian Bock",
+  "captured_at": "2026-11-22T09:27",
+  "zu_null": false,
+  "team_ids": [
+   5420,
+   5284
+  ],
+  "id": 54875,
+  "hash": "e66b9cc4f323ae67",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55113": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Klagmann",
+    "away": "Sarah Wedekind",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     11
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Mehmet Yilmaz",
+    "away": "Sascha Poth",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Peter Skowronek",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Marko Gelo",
+    "away": "Heiko Zöllner",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Mehmet Yilmaz",
+    "away": "Hans Peter Pohl",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     22
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marko Gelo",
+    "away": "Peter Skowronek",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Michael Klagmann",
+    "away": "Sarah Wedekind",
+    "score": [
+     1,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Sascha Poth",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Jörg Schrötler",
+  "captured_at": "2026-09-20T13:36",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55113,
+  "hash": "5dfcde36eefbd6c7",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55114": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Straeck",
+    "away": "Wilfried Plum",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     38,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Holger Kratz",
+    "away": "Vanessa Claßen",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "",
+    "away": "Uwe Gleich",
+    "score": [
+     0,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Werner Ertel",
+    "away": "Dirk Esser",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "",
+    "away": "Vanessa Claßen",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     0,
+     1
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Straeck",
+    "away": "Wilfried Plum",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Werner Ertel",
+    "away": "Dirk Esser",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Holger Kratz",
+    "away": "Uwe Gleich",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Werner Ertel",
+  "captured_at": "2026-09-19T18:26",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55114,
+  "hash": "d75272a429adc71a",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55115": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Thomas Henshen",
+    "away": "Ralf Busacker",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     46
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Markus Robers",
+    "away": "Michael Santamaria",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "",
+    "away": "Max Hodenius",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Hans Peter Göttgens",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "",
+    "away": "Josef Wiechowski",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     0,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Max Hodenius",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Thomas Henshen",
+    "away": "Hans Peter Göttgens",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Markus Robers",
+    "away": "Michael Santamaria",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Henrik Hammer",
+  "captured_at": "2026-09-19T17:16",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55115,
+  "hash": "1d2f873c3ae35d24",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55116": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Dennis Blaskowski",
+    "away": "Roland Schleicher",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     30,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Timo Martin",
+    "away": "Sascha Walter",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Viktor Haas",
+    "away": "Bernd Bülles",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Anika Eßer",
+    "away": "Nikolai Huppertz",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Timo Martin",
+    "away": "Nikolai Huppertz",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     21
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Stefanie Thelen",
+    "away": "Roland Schleicher",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Dennis Blaskowski",
+    "away": "Sascha Walter",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Viktor Haas",
+    "away": "Bernd Bülles",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Timo Martin",
+  "captured_at": "2026-09-19T20:38",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55116,
+  "hash": "b8b31a0343086a12",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55118": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Dirk Esser",
+    "away": "Michael Klagmann",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     36,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Vanessa Claßen",
+    "away": "Mehmet Yilmaz",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Uwe Gleich",
+    "away": "Jörg Schrötler",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Wilfried Plum",
+    "away": "Manfred Knott",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Wilfried Plum",
+    "away": "Mehmet Yilmaz",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     44,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Uwe Gleich",
+    "away": "Michael Klagmann",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Dirk Esser",
+    "away": "Manfred Knott",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Vanessa Claßen",
+    "away": "Jörg Schrötler",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Uwe Gleich",
+  "captured_at": "2026-10-10T21:39",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55118,
+  "hash": "637e785a2017bb5a",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55119": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Max Hodenius",
+    "away": "Michael Straeck",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     33,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Ralf Busacker",
+    "away": "Johannes Viola",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Michael Santamaria",
+    "away": "Michael Scholl",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Göttgens",
+    "away": "Manuela Schaffrath",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Ralf Busacker",
+    "away": "Johannes Viola",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     20
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Santamaria",
+    "away": "Michael Straeck",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Hans Peter Göttgens",
+    "away": "Manuela Schaffrath",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Josef Wiechowski",
+    "away": "Michael Scholl",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-09-27T17:25",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55119,
+  "hash": "4a5f6ad05ce20b25",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55120": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Roland Schleicher",
+    "away": "Gregor Schmetz",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     29,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Sascha Walter",
+    "away": "David Stadler",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Bernd Bülles",
+    "away": "Markus Robers",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jan Schilder",
+    "away": "Marion Lentzen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Jan Schilder",
+    "away": "David Stadler",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     43
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Roland Schleicher",
+    "away": "Gregor Schmetz",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Sascha Walter",
+    "away": "Marion Lentzen",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Bernd Bülles",
+    "away": "Markus Robers",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Bernd Bülles",
+  "captured_at": "2026-09-26T12:39",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55120,
+  "hash": "8e76d53df87b62d3",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55121": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Andreas Behlen",
+    "away": "Stefanie Thelen",
+    "score": [
+     1,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Monat",
+    "away": "Viktor Haas",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Daniel Behlen",
+    "away": "Anika Eßer",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Marcus Monat",
+    "away": "Dennis Blaskowski",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Marcus Monat",
+    "away": "Dennis Blaskowski",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     17
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Andreas Behlen",
+    "away": "Anika Eßer",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Natalie Monat",
+    "away": "Stefanie Thelen",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Karl-Heinz Monat",
+    "away": "Viktor Haas",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Marcus Monat",
+  "captured_at": "2026-10-10T19:09",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55121,
+  "hash": "560dfb0fa0916011",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55123": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Klagmann",
+    "away": "Ralf Busacker",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     18
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Mehmet Yilmaz",
+    "away": "Michael Santamaria",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Marko Gelo",
+    "away": "Alexander Müller",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Hans Peter Göttgens",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Mehmet Yilmaz",
+    "away": "Alexander Müller",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     48
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Klagmann",
+    "away": "Ralf Busacker",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Hans Peter Göttgens",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Marko Gelo",
+    "away": "Michael Santamaria",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Jörg Schrötler",
+  "captured_at": "2026-10-03T20:41",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55123,
+  "hash": "dded85e646ae5c41",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55124": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Alexander Gruß",
+    "away": "Roland Schleicher",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     25
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Holger Kratz",
+    "away": "Nikolai Huppertz",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Werner Ertel",
+    "away": "Bernd Bülles",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Michael Scholl",
+    "away": "Sascha Walter",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Werner Ertel",
+    "away": "Nikolai Huppertz",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     36
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Alexander Gruß",
+    "away": "Roland Schleicher",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Michael Scholl",
+    "away": "Sascha Walter",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Holger Kratz",
+    "away": "Bernd Bülles",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Werner Ertel",
+  "captured_at": "2026-10-03T19:51",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55124,
+  "hash": "7d4c2bd7763d9f0b",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55125": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Wölfel",
+    "away": "Marcus Monat",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     8,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Markus Robers",
+    "away": "Andreas Behlen",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Daniel Behlen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "",
+    "away": "Daniel Behlen",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     0,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Wölfel",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Andreas Behlen",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Markus Robers",
+    "away": "Marcus Monat",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   0,
+   8
+  ],
+  "description": "",
+  "captured_by": "Henrik Hammer",
+  "captured_at": "2026-10-03T20:05",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55125,
+  "hash": "784647bef941f3da",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55126": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Dennis Blaskowski",
+    "away": "Sarah Wedekind",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     31,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Timo Martin",
+    "away": "Sascha Poth",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Viktor Haas",
+    "away": "Peter Skowronek",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Anika Eßer",
+    "away": "Hans Peter Pohl",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Timo Martin",
+    "away": "Sascha Poth",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     49,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Dennis Blaskowski",
+    "away": "Hans Peter Pohl",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Anika Eßer",
+    "away": "Sarah Wedekind",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Viktor Haas",
+    "away": "Peter Skowronek",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Timo Martin",
+  "captured_at": "2026-10-03T21:32",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55126,
+  "hash": "eea078ebf5710e46",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55128": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Nikolai Huppertz",
+    "away": "Michael Klagmann",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     0,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Roland Schleicher",
+    "away": "Mehmet Yilmaz",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Oliver Bülles",
+    "away": "Jörg Schrötler",
+    "score": [
+     4,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Sascha Walter",
+    "away": "Marko Gelo",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Roland Schleicher",
+    "away": "Mehmet Yilmaz",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     42
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sascha Walter",
+    "away": "Michael Klagmann",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Bernd Bülles",
+    "away": "Marko Gelo",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Oliver Bülles",
+    "away": "Jörg Schrötler",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   4,
+   4
+  ],
+  "description": "",
+  "captured_by": "Roland Schleicher",
+  "captured_at": "2026-10-16T23:37",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55128,
+  "hash": "ab1e2e7fcedf4d9d",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55129": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marcus Monat",
+    "away": "Alexander Gruß",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     28
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Monat",
+    "away": "Manuela Schaffrath",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Andreas Behlen",
+    "away": "Holger Kratz",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Daniel Behlen",
+    "away": "Werner Ertel",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Karl-Heinz Monat",
+    "away": "Werner Ertel",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     4
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Marcus Monat",
+    "away": "Alexander Gruß",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Daniel Behlen",
+    "away": "Johannes Viola",
+    "score": [
+     4,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Natalie Monat",
+    "away": "Holger Kratz",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Marcus Monat",
+  "captured_at": "2026-10-17T18:54",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55129,
+  "hash": "9311b0fb3ca0f8a8",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55130": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Sarah Wedekind",
+    "away": "Thomas Henshen",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     21,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Sascha Poth",
+    "away": "Simon Metzdorf",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Peter Skowronek",
+    "away": "Marion Lentzen",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Pohl",
+    "away": "David Stadler",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Sascha Poth",
+    "away": "Ingo Winzen",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     20
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Peter Skowronek",
+    "away": "David Stadler",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Sarah Wedekind",
+    "away": "Simon Metzdorf",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Heiko Zöllner",
+    "away": "Thomas Henshen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-10-18T16:15",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55130,
+  "hash": "1314ffcdd8e5dda1",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55131": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Andreas Heinrichs",
+    "away": "Dennis Blaskowski",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     37
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Wilfried Plum",
+    "away": "Timo Martin",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Uwe Gleich",
+    "away": "Viktor Haas",
+    "score": [
+     1,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Dirk Esser",
+    "away": "Anika Eßer",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Wilfried Plum",
+    "away": "Timo Martin",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     40
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Andreas Heinrichs",
+    "away": "Anika Eßer",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Dirk Esser",
+    "away": "Stefanie Thelen",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Uwe Gleich",
+    "away": "Viktor Haas",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Uwe Gleich",
+  "captured_at": "2026-10-18T11:26",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55131,
+  "hash": "60715e90490c7843",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55133": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Klagmann",
+    "away": "Marcus Monat",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     37,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Marko Gelo",
+    "away": "Andreas Behlen",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Mehmet Yilmaz",
+    "away": "Natalie Monat",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Mehmet Yilmaz",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     26,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Klagmann",
+    "away": "Andreas Behlen",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Hans-Hubert Hoven",
+    "away": "Natalie Monat",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Marko Gelo",
+    "away": "Marcus Monat",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   3,
+   5
+  ],
+  "description": "",
+  "captured_by": "Jörg Schrötler",
+  "captured_at": "2026-10-31T22:22",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55133,
+  "hash": "d023c295d1eeead9",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55134": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Alexander Gruß",
+    "away": "Timo Martin",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     7,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Manuela Schaffrath",
+    "away": "Dennis Blaskowski",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Michael Scholl",
+    "away": "Viktor Haas",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Werner Ertel",
+    "away": "Anika Eßer",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Manuela Schaffrath",
+    "away": "Dennis Blaskowski",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     44,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Alexander Gruß",
+    "away": "Viktor Haas",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Werner Ertel",
+    "away": "Anika Eßer",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Michael Scholl",
+    "away": "Timo Martin",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Werner Ertel",
+  "captured_at": "2026-10-31T20:08",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55134,
+  "hash": "a81a8761590334ce",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55136": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Andreas Heinrichs",
+    "away": "Nikolai Huppertz",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     20
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Vanessa Claßen",
+    "away": "Roland Schleicher",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Dirk Esser",
+    "away": "Oliver Bülles",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Uwe Gleich",
+    "away": "Sascha Walter",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Dirk Esser",
+    "away": "Roland Schleicher",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     43,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Andreas Heinrichs",
+    "away": "Nikolai Huppertz",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Uwe Gleich",
+    "away": "Sascha Walter",
+    "score": [
+     4,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Vanessa Claßen",
+    "away": "Oliver Bülles",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Uwe Gleich",
+  "captured_at": "2026-11-01T02:29",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55136,
+  "hash": "172781de0a4cdfc9",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55138": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Straeck",
+    "away": "Sascha Poth",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     27
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Alexander Gruß",
+    "away": "Peter Skowronek",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Werner Ertel",
+    "away": "Sarah Wedekind",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Holger Kratz",
+    "away": "Hans Peter Pohl",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Alexander Gruß",
+    "away": "Sarah Wedekind",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     31
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Holger Kratz",
+    "away": "Hans Peter Pohl",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Johannes Viola",
+    "away": "Peter Skowronek",
+    "score": [
+     1,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Michael Straeck",
+    "away": "Hans Peter Pohl",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Wolfgang Romich",
+  "captured_at": "2026-11-07T21:33",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55138,
+  "hash": "45b756e65a031810",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55140": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Karl-Heinz Monat",
+    "away": "Jan Schilder",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     26
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Andreas Behlen",
+    "away": "Roland Schleicher",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Marcus Monat",
+    "away": "Sascha Walter",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Daniel Behlen",
+    "away": "Nikolai Huppertz",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Andreas Behlen",
+    "away": "Sascha Walter",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     41
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Karl-Heinz Monat",
+    "away": "Nikolai Huppertz",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Daniel Behlen",
+    "away": "Jan Schilder",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Natalie Monat",
+    "away": "Roland Schleicher",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   7,
+   1
+  ],
+  "description": "",
+  "captured_by": "Marcus Monat",
+  "captured_at": "2026-11-07T19:20",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55140,
+  "hash": "a1bb91bc8a20ca62",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55141": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Timo Martin",
+    "away": "Thomas Henshen",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     47
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Anika Eßer",
+    "away": "Simon Metzdorf",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Dennis Blaskowski",
+    "away": "David Stadler",
+    "score": [
+     3,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Viktor Haas",
+    "away": "Marion Lentzen",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Dennis Blaskowski",
+    "away": "Marion Lentzen",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     44,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Timo Martin",
+    "away": "David Stadler",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Viktor Haas",
+    "away": "Thomas Henshen",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Anika Eßer",
+    "away": "Simon Metzdorf",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Timo Martin",
+  "captured_at": "2026-11-07T20:02",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55141,
+  "hash": "04a7eb7df4464c02",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55142": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Alexander Müller",
+    "away": "Wilfried Plum",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     18
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Ralf Busacker",
+    "away": "Vanessa Claßen",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Hans Peter Göttgens",
+    "away": "Dirk Esser",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Michael Santamaria",
+    "away": "Uwe Gleich",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Ralf Busacker",
+    "away": "Dirk Esser",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     32
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Michael Santamaria",
+    "away": "Wilfried Plum",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Max Hodenius",
+    "away": "Uwe Gleich",
+    "score": [
+     0,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Göttgens",
+    "away": "Vanessa Claßen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   6,
+   2
+  ],
+  "description": "",
+  "captured_by": "Hans Peter Göttgens",
+  "captured_at": "2026-11-08T10:47",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55142,
+  "hash": "14ac987eaf26f18d",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55143": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Michael Klagmann",
+    "away": "Michael Straeck",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     41
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Marko Gelo",
+    "away": "Alexander Gruß",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Jörg Schrötler",
+    "away": "Holger Kratz",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Mehmet Yilmaz",
+    "away": "Werner Ertel",
+    "score": [
+     2,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Jörg Schrötler",
+    "away": "Alexander Gruß",
+    "score": [
+     1,
+     0
+    ],
+    "points": [
+     50,
+     31
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Mehmet Yilmaz",
+    "away": "Holger Kratz",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Manfred Knott",
+    "away": "Werner Ertel",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Michael Klagmann",
+    "away": "Michael Straeck",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Jörg Schrötler",
+  "captured_at": "2026-11-21T20:22",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55143,
+  "hash": "6cbd76f8fa91b7cd",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55144": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Marion Lentzen",
+    "away": "Wilfried Plum",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     4,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Vanessa Claßen",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "David Stadler",
+    "away": "Uwe Gleich",
+    "score": [
+     4,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Thomas Henshen",
+    "away": "Dirk Esser",
+    "score": [
+     3,
+     0
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Markus Robers",
+    "away": "Uwe Gleich",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     17,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Thomas Henshen",
+    "away": "Wilfried Plum",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Simon Metzdorf",
+    "away": "Dirk Esser",
+    "score": [
+     4,
+     1
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "David Stadler",
+    "away": "Vanessa Claßen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   5,
+   3
+  ],
+  "description": "",
+  "captured_by": "Henrik Hammer",
+  "captured_at": "2026-11-21T19:21",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55144,
+  "hash": "ea82bfa7e28429f1",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55145": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Hans Peter Pohl",
+    "away": "Marcus Monat",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     16,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Peter Skowronek",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Sarah Wedekind",
+    "away": "Andreas Behlen",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Sascha Poth",
+    "away": "Daniel Behlen",
+    "score": [
+     3,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Sascha Poth",
+    "away": "Karl-Heinz Monat",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     30,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Sarah Wedekind",
+    "away": "Andreas Behlen",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Peter Skowronek",
+    "away": "Natalie Monat",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Hans Peter Pohl",
+    "away": "Marcus Monat",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Peter Skowronek",
+  "captured_at": "2026-11-21T20:53",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55145,
+  "hash": "9f2de30872291b59",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ },
+ "55147": {
+  "games": [
+   {
+    "round": 1,
+    "nr": 1,
+    "discipline": "14/1",
+    "home": "Roland Schleicher",
+    "away": "Alexander Müller",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     41,
+     50
+    ]
+   },
+   {
+    "round": 1,
+    "nr": 2,
+    "discipline": "8-Ball",
+    "home": "Nikolai Huppertz",
+    "away": "Ralf Busacker",
+    "score": [
+     1,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 3,
+    "discipline": "9-Ball",
+    "home": "Sascha Walter",
+    "away": "Max Hodenius",
+    "score": [
+     4,
+     2
+    ],
+    "points": null
+   },
+   {
+    "round": 1,
+    "nr": 4,
+    "discipline": "10-Ball",
+    "home": "Jan Schilder",
+    "away": "Michael Santamaria",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 5,
+    "discipline": "14/1",
+    "home": "Sascha Walter",
+    "away": "Ralf Busacker",
+    "score": [
+     0,
+     1
+    ],
+    "points": [
+     16,
+     50
+    ]
+   },
+   {
+    "round": 2,
+    "nr": 6,
+    "discipline": "8-Ball",
+    "home": "Roland Schleicher",
+    "away": "Michael Santamaria",
+    "score": [
+     0,
+     3
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 7,
+    "discipline": "9-Ball",
+    "home": "Jan Schilder",
+    "away": "Alexander Müller",
+    "score": [
+     2,
+     4
+    ],
+    "points": null
+   },
+   {
+    "round": 2,
+    "nr": 8,
+    "discipline": "10-Ball",
+    "home": "Nikolai Huppertz",
+    "away": "Max Hodenius",
+    "score": [
+     3,
+     1
+    ],
+    "points": null
+   }
+  ],
+  "endstand": [
+   2,
+   6
+  ],
+  "description": "",
+  "captured_by": "Roland Schleicher",
+  "captured_at": "2026-11-20T23:57",
+  "zu_null": false,
+  "team_ids": [
+   5307,
+   5286
+  ],
+  "id": 55147,
+  "hash": "430e748e75861630",
+  "fetched_at": "2026-11-23T09:06:01Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z"
+ }
+}
