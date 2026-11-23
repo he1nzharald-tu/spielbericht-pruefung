@@ -78,6 +78,11 @@ jobs:
             echo "Keine Änderungen."
           else
             git commit -m "Daten aktualisiert $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git pull --rebase --autostash
-            git push
+            # Bei Überschneidung mit einem anderen Lauf gewinnen die gerade geladenen Daten
+            for i in 1 2 3; do
+              git fetch origin main
+              git rebase -X theirs origin/main || { git rebase --abort; git reset --soft origin/main; git commit -m "Daten aktualisiert $(date -u +'%Y-%m-%d %H:%M') UTC"; }
+              git push && break
+              sleep 5
+            done
           fi
