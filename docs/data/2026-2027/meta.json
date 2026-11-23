@@ -1,10 +1,10 @@
 {
  "season": "2026/2027",
- "generated_at": "2026-11-23T09:51:43Z",
- "mode": "full",
+ "generated_at": "2026-11-23T12:05:28Z",
+ "mode": "inkrementell",
  "last_full_at": "2026-11-23T09:51:43Z",
- "requests": 370,
- "reports_fetched": 262,
+ "requests": 183,
+ "reports_fetched": 169,
  "counts": {
   "leagues": 12,
   "teams": 124,
@@ -14,9 +14,11 @@
  "partial_leagues": null,
  "errors": [],
  "warnings": [
-  "Liga 579: 10 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
   "Liga 572: 12 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
-  "Liga 578: 6 Mannschaften ohne eigene Seite (kein Kader abrufbar)"
+  "Liga 578: 6 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
+  "Liga 579: 10 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
+  "Abmeldung BSV Niederzier (Senioren Landesliga, 2026-11-16): Mannschaft nicht in den Daten",
+  "Abmeldung PBC Blau Weiß Eilendorf (Kreisliga A, 2026-11-05): Mannschaft nicht in den Daten"
  ],
  "leagues": [
   {
@@ -83,13 +85,6 @@
    "level": 5
   },
   {
-   "id": 579,
-   "code": "SE LL",
-   "name": "Senioren Landesliga",
-   "competition": "senioren",
-   "level": 1
-  },
-  {
    "id": 572,
    "code": "SE BZL",
    "name": "Senioren Bezirksliga",
@@ -101,6 +96,13 @@
    "code": "PokM",
    "name": "Pokal-Mannschaft",
    "competition": "pokal",
+   "level": 1
+  },
+  {
+   "id": 579,
+   "code": "SE LL",
+   "name": "Senioren Landesliga",
+   "competition": "senioren",
    "level": 1
   }
  ],

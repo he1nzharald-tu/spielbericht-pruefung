@@ -1,0 +1,24 @@
+[
+ {
+  "date": "2026-11-16",
+  "league_name": "Senioren Landesliga",
+  "club": "BSV Niederzier",
+  "team_number": null,
+  "kind": "abgemeldet",
+  "text": "Hallo Billardfreunde, der BSV Niederzier hat seine Mannschaft in der Senioren Landesliga abgemeldet, der Spielplan ist Aktualisiert. 1.Sportwart Wolfgang Romich",
+  "detected_at": "2026-11-23T12:05:28Z",
+  "league_id": 579,
+  "team_id": null
+ },
+ {
+  "date": "2026-11-05",
+  "league_name": "Kreisliga A",
+  "club": "PBC Blau Weiß Eilendorf",
+  "team_number": null,
+  "kind": "abgemeldet",
+  "text": "Hallo Billardfreunde, der PBC Blau Weiß Eilendorf hat seine Mannschaft in der Kreisliga A abgemeldet, der Spielplan ist angepasst. 1.Sportwart Wolfgang Romich",
+  "detected_at": "2026-11-23T12:05:28Z",
+  "league_id": 569,
+  "team_id": null
+ }
+]
