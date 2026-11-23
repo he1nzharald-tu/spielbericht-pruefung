@@ -1,9 +1,9 @@
 {
  "season": "2026/2027",
- "generated_at": "2026-11-23T09:25:41Z",
- "mode": "inkrementell",
- "last_full_at": "2026-11-23T09:11:14Z",
- "requests": 357,
+ "generated_at": "2026-11-23T09:51:43Z",
+ "mode": "full",
+ "last_full_at": "2026-11-23T09:51:43Z",
+ "requests": 370,
  "reports_fetched": 262,
  "counts": {
   "leagues": 12,
@@ -11,6 +11,7 @@
   "matches": 865,
   "reports": 275
  },
+ "partial_leagues": null,
  "errors": [],
  "warnings": [
   "Liga 579: 10 Mannschaften ohne eigene Seite (kein Kader abrufbar)",

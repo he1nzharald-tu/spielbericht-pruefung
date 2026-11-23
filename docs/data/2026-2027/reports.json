@@ -109,6 +109,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-19T22:20",
   "zu_null": false,
@@ -118,7 +119,7 @@
   ],
   "id": 54753,
   "hash": "e8a3a118423227e2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54754": {
@@ -231,6 +232,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-09-19T22:19",
   "zu_null": false,
@@ -240,7 +242,7 @@
   ],
   "id": 54754,
   "hash": "0b61490b6edb4c1a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54756": {
@@ -353,6 +355,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Bardischewski",
   "captured_at": "2026-09-14T07:22",
   "zu_null": false,
@@ -362,7 +365,7 @@
   ],
   "id": 54756,
   "hash": "d9182d7c4b6d7ac8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54757": {
@@ -475,6 +478,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Jansen",
   "captured_at": "2026-09-19T20:02",
   "zu_null": false,
@@ -484,7 +488,7 @@
   ],
   "id": 54757,
   "hash": "9ccd565c8a4b8a03",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54758": {
@@ -597,6 +601,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norman Jansen",
   "captured_at": "2026-09-26T18:49",
   "zu_null": false,
@@ -606,7 +611,7 @@
   ],
   "id": 54758,
   "hash": "390aa7709ea28a4d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54760": {
@@ -719,6 +724,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Schwan",
   "captured_at": "2026-09-05T14:05",
   "zu_null": false,
@@ -728,7 +734,7 @@
   ],
   "id": 54760,
   "hash": "f4d8cf7bd2b4344b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54761": {
@@ -841,6 +847,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Achim Rohn",
   "captured_at": "2026-09-26T20:24",
   "zu_null": false,
@@ -850,7 +857,7 @@
   ],
   "id": 54761,
   "hash": "f6ff5145829ef928",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54762": {
@@ -963,6 +970,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Lauer",
   "captured_at": "2026-10-04T14:50",
   "zu_null": false,
@@ -972,7 +980,7 @@
   ],
   "id": 54762,
   "hash": "edb0283931a6a425",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54764": {
@@ -1085,6 +1093,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Markus Schneider",
   "captured_at": "2026-10-24T21:07",
   "zu_null": false,
@@ -1094,7 +1103,7 @@
   ],
   "id": 54764,
   "hash": "8e05ca9f3731f85e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54765": {
@@ -1207,6 +1216,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-10-03T20:50",
   "zu_null": false,
@@ -1216,7 +1226,7 @@
   ],
   "id": 54765,
   "hash": "952f294da8f1d180",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54766": {
@@ -1329,6 +1339,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Bardischewski",
   "captured_at": "2026-10-03T19:32",
   "zu_null": false,
@@ -1338,7 +1349,7 @@
   ],
   "id": 54766,
   "hash": "c0e7c808015f7208",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54767": {
@@ -1451,6 +1462,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Jansen",
   "captured_at": "2026-10-03T20:12",
   "zu_null": false,
@@ -1460,7 +1472,7 @@
   ],
   "id": 54767,
   "hash": "506ac9726ef40abc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54768": {
@@ -1573,6 +1585,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rolf Zander",
   "captured_at": "2026-10-17T22:32",
   "zu_null": false,
@@ -1582,7 +1595,7 @@
   ],
   "id": 54768,
   "hash": "66bff88cf8c3af16",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54769": {
@@ -1695,6 +1708,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Achim Rohn",
   "captured_at": "2026-10-17T20:39",
   "zu_null": false,
@@ -1704,7 +1718,7 @@
   ],
   "id": 54769,
   "hash": "58d2ab481e2c29be",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54770": {
@@ -1817,6 +1831,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Lauer",
   "captured_at": "2026-10-17T20:13",
   "zu_null": false,
@@ -1826,7 +1841,7 @@
   ],
   "id": 54770,
   "hash": "a82da37c85bee042",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54771": {
@@ -1939,6 +1954,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norman Jansen",
   "captured_at": "2026-10-17T18:20",
   "zu_null": false,
@@ -1948,7 +1964,7 @@
   ],
   "id": 54771,
   "hash": "127d8b67204d81f5",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54773": {
@@ -2061,6 +2077,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-11-22T09:30",
   "zu_null": false,
@@ -2070,7 +2087,7 @@
   ],
   "id": 54773,
   "hash": "b28248a0450e1de5",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54774": {
@@ -2183,6 +2200,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Markus Schneider",
   "captured_at": "2026-10-31T21:35",
   "zu_null": false,
@@ -2192,7 +2210,7 @@
   ],
   "id": 54774,
   "hash": "34ef30fe70e87500",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54775": {
@@ -2305,6 +2323,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-10-31T21:27",
   "zu_null": false,
@@ -2314,7 +2333,7 @@
   ],
   "id": 54775,
   "hash": "ff1f97e6705b2d5c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54776": {
@@ -2427,6 +2446,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norman Jansen",
   "captured_at": "2026-10-31T18:56",
   "zu_null": false,
@@ -2436,7 +2456,7 @@
   ],
   "id": 54776,
   "hash": "7da51d3c3c78eede",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54778": {
@@ -2549,6 +2569,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Markus Schneider",
   "captured_at": "2026-11-07T21:34",
   "zu_null": false,
@@ -2558,7 +2579,7 @@
   ],
   "id": 54778,
   "hash": "5d639c129374ae9b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54779": {
@@ -2671,6 +2692,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Jansen",
   "captured_at": "2026-11-07T20:07",
   "zu_null": false,
@@ -2680,7 +2702,7 @@
   ],
   "id": 54779,
   "hash": "87c4ddded8074e32",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54781": {
@@ -2793,6 +2815,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Bardischewski",
   "captured_at": "2026-11-15T21:41",
   "zu_null": false,
@@ -2802,7 +2825,7 @@
   ],
   "id": 54781,
   "hash": "eff0b9f4ca4b3c25",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54783": {
@@ -2915,6 +2938,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-11-22T09:33",
   "zu_null": false,
@@ -2924,7 +2948,7 @@
   ],
   "id": 54783,
   "hash": "a5c39fa7f0aead0b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54784": {
@@ -3037,6 +3061,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-11-21T16:15",
   "zu_null": false,
@@ -3046,7 +3071,7 @@
   ],
   "id": 54784,
   "hash": "fd79f7444ff75121",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54785": {
@@ -3159,6 +3184,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Lauer",
   "captured_at": "2026-11-14T19:50",
   "zu_null": false,
@@ -3168,7 +3194,7 @@
   ],
   "id": 54785,
   "hash": "7771d3f71e102159",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54786": {
@@ -3281,6 +3307,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Bardischewski",
   "captured_at": "2026-11-21T17:19",
   "zu_null": false,
@@ -3290,7 +3317,7 @@
   ],
   "id": 54786,
   "hash": "7f52f2ea9c8fe99b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54843": {
@@ -3403,6 +3430,7 @@
    7
   ],
   "description": "Springer Sparacio 1044",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-20T08:32",
   "zu_null": false,
@@ -3412,7 +3440,7 @@
   ],
   "id": 54843,
   "hash": "2ad7cbf1788a4535",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54844": {
@@ -3525,6 +3553,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Stefan Nipps",
   "captured_at": "2026-10-10T20:05",
   "zu_null": false,
@@ -3534,7 +3563,7 @@
   ],
   "id": 54844,
   "hash": "58c289246346da34",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54845": {
@@ -3647,6 +3676,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Viktor Pucihar",
   "captured_at": "2026-09-19T20:43",
   "zu_null": false,
@@ -3656,7 +3686,7 @@
   ],
   "id": 54845,
   "hash": "29a573d80080bc56",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54846": {
@@ -3769,6 +3799,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jens Rittmeyer",
   "captured_at": "2026-10-24T20:05",
   "zu_null": false,
@@ -3778,7 +3809,7 @@
   ],
   "id": 54846,
   "hash": "48896bed4ba03e79",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54847": {
@@ -3891,6 +3922,7 @@
    5
   ],
   "description": "Springer Romich Jacob 1818",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-20T13:20",
   "zu_null": false,
@@ -3900,7 +3932,7 @@
   ],
   "id": 54847,
   "hash": "fcafe96d8c6cf91a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54848": {
@@ -4013,6 +4045,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Frank Stefani",
   "captured_at": "2026-09-26T20:44",
   "zu_null": false,
@@ -4022,7 +4055,7 @@
   ],
   "id": 54848,
   "hash": "642b0e28d6d2ec8d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54849": {
@@ -4135,6 +4168,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marc Schäfer",
   "captured_at": "2026-10-24T17:46",
   "zu_null": false,
@@ -4144,7 +4178,7 @@
   ],
   "id": 54849,
   "hash": "6a49a6a761fe28a0",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54850": {
@@ -4257,6 +4291,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-10-25T20:39",
   "zu_null": false,
@@ -4266,7 +4301,7 @@
   ],
   "id": 54850,
   "hash": "2aa28fec604054b9",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54851": {
@@ -4379,6 +4414,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-06T00:02",
   "zu_null": false,
@@ -4388,7 +4424,7 @@
   ],
   "id": 54851,
   "hash": "76ea6bbf2c458e17",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54852": {
@@ -4501,6 +4537,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Bock",
   "captured_at": "2026-09-26T19:08",
   "zu_null": false,
@@ -4510,7 +4547,7 @@
   ],
   "id": 54852,
   "hash": "a44a7d5e99af49a8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54853": {
@@ -4623,6 +4660,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Hermann-Josef Himmler",
   "captured_at": "2026-10-03T21:15",
   "zu_null": false,
@@ -4632,7 +4670,7 @@
   ],
   "id": 54853,
   "hash": "c07bfbb09a79f6dd",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54854": {
@@ -4742,6 +4780,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Stefan Nipps",
   "captured_at": "2026-09-05T19:09",
   "zu_null": false,
@@ -4751,7 +4790,7 @@
   ],
   "id": 54854,
   "hash": "dca4cd8451284630",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54855": {
@@ -4864,6 +4903,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Viktor Pucihar",
   "captured_at": "2026-10-03T21:39",
   "zu_null": false,
@@ -4873,7 +4913,7 @@
   ],
   "id": 54855,
   "hash": "f42aeb3cbced73f6",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54856": {
@@ -4986,6 +5026,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jens Rittmeyer",
   "captured_at": "2026-10-03T22:37",
   "zu_null": false,
@@ -4995,7 +5036,7 @@
   ],
   "id": 54856,
   "hash": "610c6a33f05d46d2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54857": {
@@ -5108,6 +5149,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-10-03T21:37",
   "zu_null": false,
@@ -5117,7 +5159,7 @@
   ],
   "id": 54857,
   "hash": "073db1ad5fb46012",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54858": {
@@ -5230,6 +5272,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-11-14T23:54",
   "zu_null": false,
@@ -5239,7 +5282,7 @@
   ],
   "id": 54858,
   "hash": "07421c9319097d86",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54859": {
@@ -5352,6 +5395,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Finner",
   "captured_at": "2026-10-18T09:54",
   "zu_null": false,
@@ -5361,7 +5405,7 @@
   ],
   "id": 54859,
   "hash": "be725675e18e7e82",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54860": {
@@ -5474,6 +5518,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Bock",
   "captured_at": "2026-10-24T22:42",
   "zu_null": false,
@@ -5483,7 +5528,7 @@
   ],
   "id": 54860,
   "hash": "c2fffa0ace894e6c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54861": {
@@ -5596,6 +5641,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Frank Stefani",
   "captured_at": "2026-10-17T16:46",
   "zu_null": false,
@@ -5605,7 +5651,7 @@
   ],
   "id": 54861,
   "hash": "ec3fcd7128e7c0e5",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54862": {
@@ -5718,6 +5764,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marc Schäfer",
   "captured_at": "2026-10-18T01:48",
   "zu_null": false,
@@ -5727,7 +5774,7 @@
   ],
   "id": 54862,
   "hash": "b9851084758209c0",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54863": {
@@ -5840,6 +5887,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Hermann-Josef Himmler",
   "captured_at": "2026-10-31T21:27",
   "zu_null": false,
@@ -5849,7 +5897,7 @@
   ],
   "id": 54863,
   "hash": "d4354dd56fbceb84",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54864": {
@@ -5962,6 +6010,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Stefan Nipps",
   "captured_at": "2026-10-31T19:06",
   "zu_null": false,
@@ -5971,7 +6020,7 @@
   ],
   "id": 54864,
   "hash": "b578628c1dd0a97f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54865": {
@@ -6084,6 +6133,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Viktor Pucihar",
   "captured_at": "2026-10-31T21:21",
   "zu_null": false,
@@ -6093,7 +6143,7 @@
   ],
   "id": 54865,
   "hash": "0b23ce930a3e9904",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54866": {
@@ -6206,6 +6256,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Frank Stefani",
   "captured_at": "2026-10-31T20:56",
   "zu_null": false,
@@ -6215,7 +6266,7 @@
   ],
   "id": 54866,
   "hash": "e329db7b31b7bab4",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54867": {
@@ -6328,6 +6379,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Bock",
   "captured_at": "2026-10-31T18:58",
   "zu_null": false,
@@ -6337,7 +6389,7 @@
   ],
   "id": 54867,
   "hash": "0e90059ade16fa03",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54868": {
@@ -6450,6 +6502,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christian Horn",
   "captured_at": "2026-11-07T16:53",
   "zu_null": false,
@@ -6459,7 +6512,7 @@
   ],
   "id": 54868,
   "hash": "30fa77a7cde09f43",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54869": {
@@ -6572,6 +6625,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-11-07T22:26",
   "zu_null": false,
@@ -6581,7 +6635,7 @@
   ],
   "id": 54869,
   "hash": "a1dc3c1fe6ba4f96",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54870": {
@@ -6694,6 +6748,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Finner",
   "captured_at": "2026-11-07T20:12",
   "zu_null": false,
@@ -6703,7 +6758,7 @@
   ],
   "id": 54870,
   "hash": "ad4be8c2906a916d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54871": {
@@ -6816,6 +6871,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jens Rittmeyer",
   "captured_at": "2026-11-08T09:11",
   "zu_null": false,
@@ -6825,7 +6881,7 @@
   ],
   "id": 54871,
   "hash": "dc7fd3c3f57f642f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54872": {
@@ -6938,6 +6994,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marc Schäfer",
   "captured_at": "2026-11-07T21:24",
   "zu_null": false,
@@ -6947,7 +7004,7 @@
   ],
   "id": 54872,
   "hash": "6e61b9c94e5c2a3f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54873": {
@@ -7060,6 +7117,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Hermann-Josef Himmler",
   "captured_at": "2026-11-21T20:58",
   "zu_null": false,
@@ -7069,7 +7127,7 @@
   ],
   "id": 54873,
   "hash": "a37183d594b5f3c2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54874": {
@@ -7182,6 +7240,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Viktor Pucihar",
   "captured_at": "2026-11-22T10:19",
   "zu_null": false,
@@ -7191,7 +7250,7 @@
   ],
   "id": 54874,
   "hash": "ded58d4e0d87d4c6",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54875": {
@@ -7304,6 +7363,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Bock",
   "captured_at": "2026-11-22T09:27",
   "zu_null": false,
@@ -7313,7 +7373,7 @@
   ],
   "id": 54875,
   "hash": "e66b9cc4f323ae67",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "54933": {
@@ -7426,6 +7486,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "David Dahmen",
   "captured_at": "2026-09-19T21:20",
   "zu_null": false,
@@ -7435,7 +7496,7 @@
   ],
   "id": 54933,
   "hash": "f68751126f453cb5",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54934": {
@@ -7548,6 +7609,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-09-19T23:42",
   "zu_null": false,
@@ -7557,7 +7619,7 @@
   ],
   "id": 54934,
   "hash": "a97d66b3ea42051e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54935": {
@@ -7670,6 +7732,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-09-19T20:37",
   "zu_null": false,
@@ -7679,7 +7742,7 @@
   ],
   "id": 54935,
   "hash": "f243f6a6c0900b57",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54936": {
@@ -7792,6 +7855,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Schwan",
   "captured_at": "2026-09-18T22:00",
   "zu_null": false,
@@ -7801,7 +7865,7 @@
   ],
   "id": 54936,
   "hash": "0c8cb68b1c598c38",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54937": {
@@ -7914,6 +7978,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Leon Smits",
   "captured_at": "2026-10-10T19:03",
   "zu_null": false,
@@ -7923,7 +7988,7 @@
   ],
   "id": 54937,
   "hash": "eeeef72e3daaa0b8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54938": {
@@ -8036,6 +8101,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Michael Kuckelmann",
   "captured_at": "2026-09-26T21:58",
   "zu_null": false,
@@ -8045,7 +8111,7 @@
   ],
   "id": 54938,
   "hash": "ce5d1ec26440df3a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54939": {
@@ -8158,6 +8224,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Horst Bollig",
   "captured_at": "2026-09-26T21:24",
   "zu_null": false,
@@ -8167,7 +8234,7 @@
   ],
   "id": 54939,
   "hash": "8bc2f91009e3219d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54940": {
@@ -8280,6 +8347,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wilfried Pelzer",
   "captured_at": "2026-09-26T20:09",
   "zu_null": false,
@@ -8289,7 +8357,7 @@
   ],
   "id": 54940,
   "hash": "3513550506aa70e7",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54941": {
@@ -8402,6 +8470,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Birgit Zeisberg",
   "captured_at": "2026-09-26T20:24",
   "zu_null": false,
@@ -8411,7 +8480,7 @@
   ],
   "id": 54941,
   "hash": "2bc5aee756810e18",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54942": {
@@ -8524,6 +8593,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Pascal Costin",
   "captured_at": "2026-09-27T10:48",
   "zu_null": false,
@@ -8533,7 +8603,7 @@
   ],
   "id": 54942,
   "hash": "fa0ea238fd642694",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54943": {
@@ -8646,6 +8716,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "David Dahmen",
   "captured_at": "2026-10-03T22:23",
   "zu_null": false,
@@ -8655,7 +8726,7 @@
   ],
   "id": 54943,
   "hash": "f46197ef0473e054",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54944": {
@@ -8768,6 +8839,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-10-03T23:31",
   "zu_null": false,
@@ -8777,7 +8849,7 @@
   ],
   "id": 54944,
   "hash": "5c4b0fd356e90014",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54945": {
@@ -8890,6 +8962,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-10-03T20:29",
   "zu_null": false,
@@ -8899,7 +8972,7 @@
   ],
   "id": 54945,
   "hash": "9f5fcf46032ae013",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54946": {
@@ -9012,6 +9085,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-10-03T09:01",
   "zu_null": false,
@@ -9021,7 +9095,7 @@
   ],
   "id": 54946,
   "hash": "b1a72782f2319085",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54948": {
@@ -9134,6 +9208,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wilfried Pelzer",
   "captured_at": "2026-10-17T18:22",
   "zu_null": false,
@@ -9143,7 +9218,7 @@
   ],
   "id": 54948,
   "hash": "c5db41368ab0792f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54949": {
@@ -9256,6 +9331,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Birgit Zeisberg",
   "captured_at": "2026-10-17T22:38",
   "zu_null": false,
@@ -9265,7 +9341,7 @@
   ],
   "id": 54949,
   "hash": "b2bb643e865a5cf6",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54950": {
@@ -9378,6 +9454,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rüdiger Schulz",
   "captured_at": "2026-10-17T19:51",
   "zu_null": false,
@@ -9387,7 +9464,7 @@
   ],
   "id": 54950,
   "hash": "bd8dbb5bb4f96ef9",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54951": {
@@ -9500,6 +9577,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Michael Kuckelmann",
   "captured_at": "2026-10-30T22:31",
   "zu_null": false,
@@ -9509,7 +9587,7 @@
   ],
   "id": 54951,
   "hash": "071b6fd445b0ed84",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54952": {
@@ -9622,6 +9700,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Horst Bollig",
   "captured_at": "2026-10-17T20:18",
   "zu_null": false,
@@ -9631,7 +9710,7 @@
   ],
   "id": 54952,
   "hash": "3108222b01e1b8c3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54953": {
@@ -9744,6 +9823,7 @@
    0
   ],
   "description": "Springer Niklas Jörres 2241",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-11-01T12:06",
   "zu_null": false,
@@ -9753,7 +9833,7 @@
   ],
   "id": 54953,
   "hash": "e14621b243a770c2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54954": {
@@ -9866,6 +9946,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-10-31T22:25",
   "zu_null": false,
@@ -9875,7 +9956,7 @@
   ],
   "id": 54954,
   "hash": "ef9bf7620c2257b4",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54955": {
@@ -9988,6 +10069,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-10-31T21:38",
   "zu_null": false,
@@ -9997,7 +10079,7 @@
   ],
   "id": 54955,
   "hash": "0fa29d7a071a993c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54956": {
@@ -10110,6 +10192,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Michael Kuckelmann",
   "captured_at": "2026-10-31T23:18",
   "zu_null": false,
@@ -10119,7 +10202,7 @@
   ],
   "id": 54956,
   "hash": "57360b9880d2c906",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54957": {
@@ -10232,6 +10315,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rüdiger Schulz",
   "captured_at": "2026-10-31T21:44",
   "zu_null": false,
@@ -10241,7 +10325,7 @@
   ],
   "id": 54957,
   "hash": "8b733e874caaa9d0",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54958": {
@@ -10354,6 +10438,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-11-07T22:46",
   "zu_null": false,
@@ -10363,7 +10448,7 @@
   ],
   "id": 54958,
   "hash": "bac9ee53095c2a4c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54959": {
@@ -10476,6 +10561,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Leon Smits",
   "captured_at": "2026-11-07T01:24",
   "zu_null": false,
@@ -10485,7 +10571,7 @@
   ],
   "id": 54959,
   "hash": "68963b5eb0051c25",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54960": {
@@ -10598,6 +10684,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Birgit Zeisberg",
   "captured_at": "2026-10-24T21:07",
   "zu_null": false,
@@ -10607,7 +10694,7 @@
   ],
   "id": 54960,
   "hash": "ade1a91868931d0d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54961": {
@@ -10720,6 +10807,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Schwan",
   "captured_at": "2026-11-07T07:54",
   "zu_null": false,
@@ -10729,7 +10817,7 @@
   ],
   "id": 54961,
   "hash": "7077602a4017525f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54962": {
@@ -10842,6 +10930,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Horst Bollig",
   "captured_at": "2026-11-07T20:17",
   "zu_null": false,
@@ -10851,7 +10940,7 @@
   ],
   "id": 54962,
   "hash": "93d6100886588cd4",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54963": {
@@ -10964,6 +11053,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "David Dahmen",
   "captured_at": "2026-11-21T21:46",
   "zu_null": false,
@@ -10973,7 +11063,7 @@
   ],
   "id": 54963,
   "hash": "b0b6627d9ab8ea82",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54964": {
@@ -11086,6 +11176,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-11-21T20:55",
   "zu_null": false,
@@ -11095,7 +11186,7 @@
   ],
   "id": 54964,
   "hash": "ca28efb4360bd641",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54965": {
@@ -11208,6 +11299,7 @@
    2
   ],
   "description": "Springer = Alexander Deni 122420",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-11-22T11:27",
   "zu_null": false,
@@ -11217,7 +11309,7 @@
   ],
   "id": 54965,
   "hash": "167d7c98605f33a0",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54966": {
@@ -11330,6 +11422,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dieter Schwan",
   "captured_at": "2026-11-20T21:56",
   "zu_null": false,
@@ -11339,7 +11432,7 @@
   ],
   "id": 54966,
   "hash": "9dd45f47ee0db129",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "54967": {
@@ -11452,6 +11545,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wilfried Pelzer",
   "captured_at": "2026-11-21T17:56",
   "zu_null": false,
@@ -11461,7 +11555,7 @@
   ],
   "id": 54967,
   "hash": "1fc979ee5bbf0d50",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55023": {
@@ -11574,6 +11668,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jürgen Adler",
   "captured_at": "2026-09-13T21:07",
   "zu_null": false,
@@ -11583,7 +11678,7 @@
   ],
   "id": 55023,
   "hash": "8c418fe35343c611",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55024": {
@@ -11696,6 +11791,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-09-20T00:54",
   "zu_null": false,
@@ -11705,7 +11801,7 @@
   ],
   "id": 55024,
   "hash": "d14d33946fab0033",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55025": {
@@ -11818,6 +11914,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Andre Wenzel",
   "captured_at": "2026-09-19T20:12",
   "zu_null": false,
@@ -11827,7 +11924,7 @@
   ],
   "id": 55025,
   "hash": "0812abcef3db7361",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55026": {
@@ -11940,6 +12037,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-25T11:06",
   "zu_null": false,
@@ -11949,7 +12047,7 @@
   ],
   "id": 55026,
   "hash": "e11bb1e8aee7e677",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55027": {
@@ -12062,6 +12160,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Muth",
   "captured_at": "2026-09-19T20:13",
   "zu_null": false,
@@ -12071,7 +12170,7 @@
   ],
   "id": 55027,
   "hash": "59cdeaca4e96cc4c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55028": {
@@ -12184,6 +12283,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Chiara Böhmer",
   "captured_at": "2026-09-05T23:11",
   "zu_null": false,
@@ -12193,7 +12293,7 @@
   ],
   "id": 55028,
   "hash": "b044392becae9a06",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55029": {
@@ -12306,6 +12406,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Janke",
   "captured_at": "2026-09-26T22:18",
   "zu_null": false,
@@ -12315,7 +12416,7 @@
   ],
   "id": 55029,
   "hash": "0208946a585afd4d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55030": {
@@ -12428,6 +12529,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-09-27T07:14",
   "zu_null": false,
@@ -12437,7 +12539,7 @@
   ],
   "id": 55030,
   "hash": "854f0483b1de4854",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55031": {
@@ -12550,6 +12652,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christoph Plinz",
   "captured_at": "2026-09-26T21:24",
   "zu_null": false,
@@ -12559,7 +12662,7 @@
   ],
   "id": 55031,
   "hash": "8a5e38ba6b2fec5c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55032": {
@@ -12672,6 +12775,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ferdinand Kraus",
   "captured_at": "2026-09-26T21:01",
   "zu_null": false,
@@ -12681,7 +12785,7 @@
   ],
   "id": 55032,
   "hash": "ce14c0aee0aa643b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55033": {
@@ -12794,6 +12898,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jürgen Adler",
   "captured_at": "2026-10-03T21:01",
   "zu_null": false,
@@ -12803,7 +12908,7 @@
   ],
   "id": 55033,
   "hash": "81c7978eabd10a9c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55034": {
@@ -12916,6 +13021,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-10-04T00:04",
   "zu_null": false,
@@ -12925,7 +13031,7 @@
   ],
   "id": 55034,
   "hash": "4764245767f6bbcf",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55035": {
@@ -13038,6 +13144,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Andre Wenzel",
   "captured_at": "2026-10-03T20:22",
   "zu_null": false,
@@ -13047,7 +13154,7 @@
   ],
   "id": 55035,
   "hash": "c46428a5f90f9160",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55036": {
@@ -13160,6 +13267,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Lukas Hackemöller",
   "captured_at": "2026-10-03T20:15",
   "zu_null": false,
@@ -13169,7 +13277,7 @@
   ],
   "id": 55036,
   "hash": "f4af6d5b07e5b6e1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55037": {
@@ -13282,6 +13390,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Muth",
   "captured_at": "2026-10-04T00:50",
   "zu_null": false,
@@ -13291,7 +13400,7 @@
   ],
   "id": 55037,
   "hash": "524515dfa2d7ebbd",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55038": {
@@ -13404,6 +13513,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Schoenmackers",
   "captured_at": "2026-10-17T20:44",
   "zu_null": false,
@@ -13413,7 +13523,7 @@
   ],
   "id": 55038,
   "hash": "39645fca738e6b74",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55039": {
@@ -13526,6 +13636,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christoph Plinz",
   "captured_at": "2026-10-16T23:21",
   "zu_null": false,
@@ -13535,7 +13646,7 @@
   ],
   "id": 55039,
   "hash": "e8f66e512d8632a8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55040": {
@@ -13648,6 +13759,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ferdinand Kraus",
   "captured_at": "2026-10-24T19:39",
   "zu_null": false,
@@ -13657,7 +13769,7 @@
   ],
   "id": 55040,
   "hash": "efdca2ea24c1b94d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55041": {
@@ -13770,6 +13882,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Chiara Böhmer",
   "captured_at": "2026-10-18T11:23",
   "zu_null": false,
@@ -13779,7 +13892,7 @@
   ],
   "id": 55041,
   "hash": "917d5fa3aac4cb87",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55042": {
@@ -13892,6 +14005,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Janke",
   "captured_at": "2026-10-17T22:00",
   "zu_null": false,
@@ -13901,7 +14015,7 @@
   ],
   "id": 55042,
   "hash": "df2405f5ba32a05a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55043": {
@@ -14014,6 +14128,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jürgen Adler",
   "captured_at": "2026-11-01T08:08",
   "zu_null": false,
@@ -14023,7 +14138,7 @@
   ],
   "id": 55043,
   "hash": "6d5abea62321b17a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55044": {
@@ -14136,6 +14251,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-11-01T00:29",
   "zu_null": false,
@@ -14145,7 +14261,7 @@
   ],
   "id": 55044,
   "hash": "2d966de4bff6013a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55045": {
@@ -14258,6 +14374,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Andre Wenzel",
   "captured_at": "2026-11-14T20:22",
   "zu_null": false,
@@ -14267,7 +14384,7 @@
   ],
   "id": 55045,
   "hash": "f8c9276ba839bb53",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55046": {
@@ -14380,6 +14497,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Chiara Böhmer",
   "captured_at": "2026-11-14T20:36",
   "zu_null": false,
@@ -14389,7 +14507,7 @@
   ],
   "id": 55046,
   "hash": "0207aeb95ec0466e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55047": {
@@ -14502,6 +14620,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ferdinand Kraus",
   "captured_at": "2026-10-31T20:26",
   "zu_null": false,
@@ -14511,7 +14630,7 @@
   ],
   "id": 55047,
   "hash": "0e627a15416e19aa",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55049": {
@@ -14624,6 +14743,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sebastian Muth",
   "captured_at": "2026-11-07T19:54",
   "zu_null": false,
@@ -14633,7 +14753,7 @@
   ],
   "id": 55049,
   "hash": "ea3c7e98d61e27c3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55050": {
@@ -14746,6 +14866,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christoph Plinz",
   "captured_at": "2026-11-07T19:00",
   "zu_null": false,
@@ -14755,7 +14876,7 @@
   ],
   "id": 55050,
   "hash": "e07eef6c76d124b0",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55051": {
@@ -14868,6 +14989,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Lukas Hackemöller",
   "captured_at": "2026-11-08T13:02",
   "zu_null": false,
@@ -14877,7 +14999,7 @@
   ],
   "id": 55051,
   "hash": "5a73cfa8d0ec6c7a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55052": {
@@ -14990,6 +15112,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Janke",
   "captured_at": "2026-11-07T21:17",
   "zu_null": false,
@@ -14999,7 +15122,7 @@
   ],
   "id": 55052,
   "hash": "940324c16ec21648",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55053": {
@@ -15112,6 +15235,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jürgen Adler",
   "captured_at": "2026-11-21T21:24",
   "zu_null": false,
@@ -15121,7 +15245,7 @@
   ],
   "id": 55053,
   "hash": "42df9c993b0d910d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55054": {
@@ -15234,6 +15358,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Andre Wenzel",
   "captured_at": "2026-11-21T21:07",
   "zu_null": false,
@@ -15243,7 +15368,7 @@
   ],
   "id": 55054,
   "hash": "185a3f418e7aed3b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55055": {
@@ -15356,6 +15481,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ferdinand Kraus",
   "captured_at": "2026-11-21T18:56",
   "zu_null": false,
@@ -15365,7 +15491,7 @@
   ],
   "id": 55055,
   "hash": "629dd4428c91bbc1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55056": {
@@ -15478,6 +15604,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Lukas Hackemöller",
   "captured_at": "2026-11-21T17:32",
   "zu_null": false,
@@ -15487,7 +15614,7 @@
   ],
   "id": 55056,
   "hash": "a83bb868f68906ba",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55057": {
@@ -15600,6 +15727,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marco Schoenmackers",
   "captured_at": "2026-11-21T20:04",
   "zu_null": false,
@@ -15609,7 +15737,7 @@
   ],
   "id": 55057,
   "hash": "39a4ddf096bf7067",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55113": {
@@ -15722,6 +15850,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jörg Schrötler",
   "captured_at": "2026-09-20T13:36",
   "zu_null": false,
@@ -15731,7 +15860,7 @@
   ],
   "id": 55113,
   "hash": "5dfcde36eefbd6c7",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55114": {
@@ -15844,6 +15973,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-09-19T18:26",
   "zu_null": false,
@@ -15853,7 +15983,7 @@
   ],
   "id": 55114,
   "hash": "d75272a429adc71a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55115": {
@@ -15966,6 +16096,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Henrik Hammer",
   "captured_at": "2026-09-19T17:16",
   "zu_null": false,
@@ -15975,7 +16106,7 @@
   ],
   "id": 55115,
   "hash": "1d2f873c3ae35d24",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55116": {
@@ -16088,6 +16219,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Timo Martin",
   "captured_at": "2026-09-19T20:38",
   "zu_null": false,
@@ -16097,7 +16229,7 @@
   ],
   "id": 55116,
   "hash": "b8b31a0343086a12",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55118": {
@@ -16210,6 +16342,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Uwe Gleich",
   "captured_at": "2026-10-10T21:39",
   "zu_null": false,
@@ -16219,7 +16352,7 @@
   ],
   "id": 55118,
   "hash": "637e785a2017bb5a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55119": {
@@ -16332,6 +16465,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-27T17:25",
   "zu_null": false,
@@ -16341,7 +16475,7 @@
   ],
   "id": 55119,
   "hash": "4a5f6ad05ce20b25",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55120": {
@@ -16454,6 +16588,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Bernd Bülles",
   "captured_at": "2026-09-26T12:39",
   "zu_null": false,
@@ -16463,7 +16598,7 @@
   ],
   "id": 55120,
   "hash": "8e76d53df87b62d3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55121": {
@@ -16573,6 +16708,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcus Monat",
   "captured_at": "2026-10-10T19:09",
   "zu_null": false,
@@ -16582,7 +16718,7 @@
   ],
   "id": 55121,
   "hash": "560dfb0fa0916011",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55123": {
@@ -16695,6 +16831,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jörg Schrötler",
   "captured_at": "2026-10-03T20:41",
   "zu_null": false,
@@ -16704,7 +16841,7 @@
   ],
   "id": 55123,
   "hash": "dded85e646ae5c41",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55124": {
@@ -16817,6 +16954,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-10-03T19:51",
   "zu_null": false,
@@ -16826,7 +16964,7 @@
   ],
   "id": 55124,
   "hash": "7d4c2bd7763d9f0b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55125": {
@@ -16939,6 +17077,7 @@
    8
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Henrik Hammer",
   "captured_at": "2026-10-03T20:05",
   "zu_null": false,
@@ -16948,7 +17087,7 @@
   ],
   "id": 55125,
   "hash": "784647bef941f3da",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55126": {
@@ -17061,6 +17200,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Timo Martin",
   "captured_at": "2026-10-03T21:32",
   "zu_null": false,
@@ -17070,7 +17210,7 @@
   ],
   "id": 55126,
   "hash": "eea078ebf5710e46",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55128": {
@@ -17183,6 +17323,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Roland Schleicher",
   "captured_at": "2026-10-16T23:37",
   "zu_null": false,
@@ -17192,7 +17333,7 @@
   ],
   "id": 55128,
   "hash": "ab1e2e7fcedf4d9d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55129": {
@@ -17305,6 +17446,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcus Monat",
   "captured_at": "2026-10-17T18:54",
   "zu_null": false,
@@ -17314,7 +17456,7 @@
   ],
   "id": 55129,
   "hash": "9311b0fb3ca0f8a8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55130": {
@@ -17427,6 +17569,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-10-18T16:15",
   "zu_null": false,
@@ -17436,7 +17579,7 @@
   ],
   "id": 55130,
   "hash": "1314ffcdd8e5dda1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55131": {
@@ -17549,6 +17692,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Uwe Gleich",
   "captured_at": "2026-10-18T11:26",
   "zu_null": false,
@@ -17558,7 +17702,7 @@
   ],
   "id": 55131,
   "hash": "60715e90490c7843",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55133": {
@@ -17671,6 +17815,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jörg Schrötler",
   "captured_at": "2026-10-31T22:22",
   "zu_null": false,
@@ -17680,7 +17825,7 @@
   ],
   "id": 55133,
   "hash": "d023c295d1eeead9",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55134": {
@@ -17793,6 +17938,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-10-31T20:08",
   "zu_null": false,
@@ -17802,7 +17948,7 @@
   ],
   "id": 55134,
   "hash": "a81a8761590334ce",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55136": {
@@ -17915,6 +18061,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Uwe Gleich",
   "captured_at": "2026-11-01T02:29",
   "zu_null": false,
@@ -17924,7 +18071,7 @@
   ],
   "id": 55136,
   "hash": "172781de0a4cdfc9",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55138": {
@@ -18037,6 +18184,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-11-07T21:33",
   "zu_null": false,
@@ -18046,7 +18194,7 @@
   ],
   "id": 55138,
   "hash": "45b756e65a031810",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55140": {
@@ -18159,6 +18307,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcus Monat",
   "captured_at": "2026-11-07T19:20",
   "zu_null": false,
@@ -18168,7 +18317,7 @@
   ],
   "id": 55140,
   "hash": "a1bb91bc8a20ca62",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55141": {
@@ -18281,6 +18430,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Timo Martin",
   "captured_at": "2026-11-07T20:02",
   "zu_null": false,
@@ -18290,7 +18440,7 @@
   ],
   "id": 55141,
   "hash": "04a7eb7df4464c02",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55142": {
@@ -18403,6 +18553,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Hans Peter Göttgens",
   "captured_at": "2026-11-08T10:47",
   "zu_null": false,
@@ -18412,7 +18563,7 @@
   ],
   "id": 55142,
   "hash": "14ac987eaf26f18d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55143": {
@@ -18525,6 +18676,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jörg Schrötler",
   "captured_at": "2026-11-21T20:22",
   "zu_null": false,
@@ -18534,7 +18686,7 @@
   ],
   "id": 55143,
   "hash": "6cbd76f8fa91b7cd",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55144": {
@@ -18647,6 +18799,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Henrik Hammer",
   "captured_at": "2026-11-21T19:21",
   "zu_null": false,
@@ -18656,7 +18809,7 @@
   ],
   "id": 55144,
   "hash": "ea82bfa7e28429f1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55145": {
@@ -18769,6 +18922,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Peter Skowronek",
   "captured_at": "2026-11-21T20:53",
   "zu_null": false,
@@ -18778,7 +18932,7 @@
   ],
   "id": 55145,
   "hash": "9f2de30872291b59",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55147": {
@@ -18891,6 +19045,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Roland Schleicher",
   "captured_at": "2026-11-20T23:57",
   "zu_null": false,
@@ -18900,7 +19055,7 @@
   ],
   "id": 55147,
   "hash": "430e748e75861630",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:06:01Z"
  },
  "55293": {
@@ -19013,6 +19168,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Carsten Meerpohl",
   "captured_at": "2026-09-20T13:24",
   "zu_null": false,
@@ -19022,7 +19178,7 @@
   ],
   "id": 55293,
   "hash": "cf861cfea4cd93f5",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55295": {
@@ -19135,6 +19291,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jens Rittmeyer",
   "captured_at": "2026-09-18T23:41",
   "zu_null": false,
@@ -19144,7 +19301,7 @@
   ],
   "id": 55295,
   "hash": "00bf9d1b81a33ed1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55296": {
@@ -19257,6 +19414,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Alexander Woditsch",
   "captured_at": "2026-09-19T18:15",
   "zu_null": false,
@@ -19266,7 +19424,7 @@
   ],
   "id": 55296,
   "hash": "5316b61569e44570",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55297": {
@@ -19379,6 +19537,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Holger Büttner",
   "captured_at": "2026-09-19T19:45",
   "zu_null": false,
@@ -19388,7 +19547,7 @@
   ],
   "id": 55297,
   "hash": "c078979cf03655e1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55298": {
@@ -19501,6 +19660,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Björn Kreutzer",
   "captured_at": "2026-10-10T21:46",
   "zu_null": false,
@@ -19510,7 +19670,7 @@
   ],
   "id": 55298,
   "hash": "99521c11d5307e11",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55300": {
@@ -19623,6 +19783,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Philip Berbuir",
   "captured_at": "2026-09-26T19:18",
   "zu_null": false,
@@ -19632,7 +19793,7 @@
   ],
   "id": 55300,
   "hash": "906db968532d7afa",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55301": {
@@ -19745,6 +19906,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-10-11T15:30",
   "zu_null": false,
@@ -19754,7 +19916,7 @@
   ],
   "id": 55301,
   "hash": "f06a11983de84674",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55302": {
@@ -19867,6 +20029,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-09-27T01:04",
   "zu_null": false,
@@ -19876,7 +20039,7 @@
   ],
   "id": 55302,
   "hash": "7a2e05c95ddf5f35",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55303": {
@@ -19989,6 +20152,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Carsten Meerpohl",
   "captured_at": "2026-10-25T07:07",
   "zu_null": false,
@@ -19998,7 +20162,7 @@
   ],
   "id": 55303,
   "hash": "83976c208acd9da1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55305": {
@@ -20111,6 +20275,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Heiko Nowitzki",
   "captured_at": "2026-10-03T00:11",
   "zu_null": false,
@@ -20120,7 +20285,7 @@
   ],
   "id": 55305,
   "hash": "63d20180cbdca8ec",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55306": {
@@ -20233,6 +20398,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dirk Adolph",
   "captured_at": "2026-10-03T19:34",
   "zu_null": false,
@@ -20242,7 +20408,7 @@
   ],
   "id": 55306,
   "hash": "a8be344d101c5f9a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55307": {
@@ -20355,6 +20521,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-10-06T08:47",
   "zu_null": false,
@@ -20364,7 +20531,7 @@
   ],
   "id": 55307,
   "hash": "fee287f360a78ead",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55308": {
@@ -20477,6 +20644,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christian Horn",
   "captured_at": "2026-10-17T20:00",
   "zu_null": false,
@@ -20486,7 +20654,7 @@
   ],
   "id": 55308,
   "hash": "0f8d3d745fa35a0a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55310": {
@@ -20599,6 +20767,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-10-18T09:42",
   "zu_null": false,
@@ -20608,7 +20777,7 @@
   ],
   "id": 55310,
   "hash": "20261ecd03ff0529",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55311": {
@@ -20721,6 +20890,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Björn Kreutzer",
   "captured_at": "2026-10-18T09:08",
   "zu_null": false,
@@ -20730,7 +20900,7 @@
   ],
   "id": 55311,
   "hash": "86e72bd52153eada",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55312": {
@@ -20843,6 +21013,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Patrick Wilken",
   "captured_at": "2026-10-17T18:03",
   "zu_null": false,
@@ -20852,7 +21023,7 @@
   ],
   "id": 55312,
   "hash": "a787684a248fa637",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55313": {
@@ -20965,6 +21136,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Carsten Meerpohl",
   "captured_at": "2026-11-01T09:31",
   "zu_null": false,
@@ -20974,7 +21146,7 @@
   ],
   "id": 55313,
   "hash": "7961a7768553f6f8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55315": {
@@ -21087,6 +21259,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Heiko Nowitzki",
   "captured_at": "2026-10-31T00:38",
   "zu_null": false,
@@ -21096,7 +21269,7 @@
   ],
   "id": 55315,
   "hash": "149a6f75744d0ece",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55316": {
@@ -21209,6 +21382,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Lukas Hackemöller",
   "captured_at": "2026-10-25T10:46",
   "zu_null": false,
@@ -21218,7 +21392,7 @@
   ],
   "id": 55316,
   "hash": "a975854ec5b78440",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55317": {
@@ -21331,6 +21505,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-11-01T07:49",
   "zu_null": false,
@@ -21340,7 +21515,7 @@
   ],
   "id": 55317,
   "hash": "f661276feb98274b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55319": {
@@ -21453,6 +21628,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Holger Büttner",
   "captured_at": "2026-11-07T20:01",
   "zu_null": false,
@@ -21462,7 +21638,7 @@
   ],
   "id": 55319,
   "hash": "5808ed53eb52e914",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55320": {
@@ -21575,6 +21751,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Michael Gitzen",
   "captured_at": "2026-11-14T19:10",
   "zu_null": false,
@@ -21584,7 +21761,7 @@
   ],
   "id": 55320,
   "hash": "fdc85fecdae9e0fa",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55321": {
@@ -21697,6 +21874,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Arnd Bähr",
   "captured_at": "2026-11-07T19:34",
   "zu_null": false,
@@ -21706,7 +21884,7 @@
   ],
   "id": 55321,
   "hash": "68c375c0623152fe",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55322": {
@@ -21819,6 +21997,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Patrick Wilken",
   "captured_at": "2026-11-08T13:25",
   "zu_null": false,
@@ -21828,7 +22007,7 @@
   ],
   "id": 55322,
   "hash": "aa963fbe0bff66ab",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55324": {
@@ -21941,6 +22120,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Heiko Nowitzki",
   "captured_at": "2026-11-21T00:43",
   "zu_null": false,
@@ -21950,7 +22130,7 @@
   ],
   "id": 55324,
   "hash": "8ce73ec404ce70ea",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55325": {
@@ -22039,6 +22219,7 @@
    0
   ],
   "description": "",
+  "protest": "1. PBC Primus Eschweiler 4 nicht spielfähig; am Spieltag entschuldigt.",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-11-21T14:33",
   "zu_null": false,
@@ -22047,8 +22228,8 @@
    5309
   ],
   "id": 55325,
-  "hash": "5c2c1e8adceb3264",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "hash": "c00ee42f5886f115",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55326": {
@@ -22161,6 +22342,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Arnd Bähr",
   "captured_at": "2026-11-14T18:41",
   "zu_null": false,
@@ -22170,7 +22352,7 @@
   ],
   "id": 55326,
   "hash": "ba49f45922aa7c74",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55383": {
@@ -22283,6 +22465,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Michael Cormann",
   "captured_at": "2026-09-19T19:16",
   "zu_null": false,
@@ -22292,7 +22475,7 @@
   ],
   "id": 55383,
   "hash": "73efd02f653788bc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55384": {
@@ -22405,6 +22588,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Wolfgang Romich",
   "captured_at": "2026-09-13T17:48",
   "zu_null": false,
@@ -22414,7 +22598,7 @@
   ],
   "id": 55384,
   "hash": "875c01902490e3de",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55387": {
@@ -22527,6 +22711,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Georg Brüll",
   "captured_at": "2026-09-19T19:56",
   "zu_null": false,
@@ -22536,7 +22721,7 @@
   ],
   "id": 55387,
   "hash": "00b1ab3ec1bf7ce8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55388": {
@@ -22649,6 +22834,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sarah Schmitz",
   "captured_at": "2026-09-26T19:22",
   "zu_null": false,
@@ -22658,7 +22844,7 @@
   ],
   "id": 55388,
   "hash": "4b05d2de7cd8e29a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55389": {
@@ -22771,6 +22957,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Manfred Mies",
   "captured_at": "2026-09-26T00:23",
   "zu_null": false,
@@ -22780,7 +22967,7 @@
   ],
   "id": 55389,
   "hash": "de63fc5a4b41755f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55392": {
@@ -22893,6 +23080,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ercan Gülpek",
   "captured_at": "2026-09-26T19:19",
   "zu_null": false,
@@ -22902,7 +23090,7 @@
   ],
   "id": 55392,
   "hash": "0c11a5ee581d55a3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55393": {
@@ -23015,6 +23203,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Sascha Schlagloth",
   "captured_at": "2026-10-03T20:26",
   "zu_null": false,
@@ -23024,7 +23213,7 @@
   ],
   "id": 55393,
   "hash": "9a7f1261d297b1ec",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55394": {
@@ -23137,6 +23326,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Manfred Mies",
   "captured_at": "2026-10-03T09:08",
   "zu_null": false,
@@ -23146,7 +23336,7 @@
   ],
   "id": 55394,
   "hash": "38c93e4f28472089",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55397": {
@@ -23259,6 +23449,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Georg Brüll",
   "captured_at": "2026-11-14T20:05",
   "zu_null": false,
@@ -23268,7 +23459,7 @@
   ],
   "id": 55397,
   "hash": "174dafbb78e507f7",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55398": {
@@ -23381,6 +23572,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-10-17T19:48",
   "zu_null": false,
@@ -23390,7 +23582,7 @@
   ],
   "id": 55398,
   "hash": "8c6534cf0ff2419a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55399": {
@@ -23503,6 +23695,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "John Fabian Halim",
   "captured_at": "2026-10-17T18:23",
   "zu_null": false,
@@ -23512,7 +23705,7 @@
   ],
   "id": 55399,
   "hash": "959609982983a4db",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55402": {
@@ -23625,6 +23818,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Henrik Hammer",
   "captured_at": "2026-10-17T18:38",
   "zu_null": false,
@@ -23634,7 +23828,7 @@
   ],
   "id": 55402,
   "hash": "4f03ef19126e3f38",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55403": {
@@ -23747,6 +23941,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Nico Welbers",
   "captured_at": "2026-10-31T19:46",
   "zu_null": false,
@@ -23756,7 +23951,7 @@
   ],
   "id": 55403,
   "hash": "8bdb1709b465dcfb",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55407": {
@@ -23869,6 +24064,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ercan Gülpek",
   "captured_at": "2026-10-31T20:02",
   "zu_null": false,
@@ -23878,7 +24074,7 @@
   ],
   "id": 55407,
   "hash": "c5c811d9a9750a83",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55408": {
@@ -23991,6 +24187,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Manfred Mies",
   "captured_at": "2026-11-07T01:06",
   "zu_null": false,
@@ -24000,7 +24197,7 @@
   ],
   "id": 55408,
   "hash": "9369b85358a1b1ed",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55409": {
@@ -24113,6 +24310,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Georg Brüll",
   "captured_at": "2026-11-07T19:39",
   "zu_null": false,
@@ -24122,7 +24320,7 @@
   ],
   "id": 55409,
   "hash": "b47944e764405a55",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55410": {
@@ -24235,6 +24433,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "John Fabian Halim",
   "captured_at": "2026-11-07T19:57",
   "zu_null": false,
@@ -24244,7 +24443,7 @@
   ],
   "id": 55410,
   "hash": "1070519e9c8d51a3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55412": {
@@ -24357,6 +24556,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Henrik Hammer",
   "captured_at": "2026-11-07T18:16",
   "zu_null": false,
@@ -24366,7 +24566,7 @@
   ],
   "id": 55412,
   "hash": "4eed4fef285b830f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55413": {
@@ -24479,6 +24679,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Nico Welbers",
   "captured_at": "2026-11-21T19:15",
   "zu_null": false,
@@ -24488,7 +24689,7 @@
   ],
   "id": 55413,
   "hash": "a87411cb91d88327",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55415": {
@@ -24601,6 +24802,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ercan Gülpek",
   "captured_at": "2026-11-21T19:17",
   "zu_null": false,
@@ -24610,7 +24812,7 @@
   ],
   "id": 55415,
   "hash": "b1c778fd5d692460",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55417": {
@@ -24723,6 +24925,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Werner Ertel",
   "captured_at": "2026-11-21T21:23",
   "zu_null": false,
@@ -24732,7 +24935,7 @@
   ],
   "id": 55417,
   "hash": "43cb95db68174108",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55563": {
@@ -24845,6 +25048,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jean-Luc Devos",
   "captured_at": "2026-09-19T20:36",
   "zu_null": false,
@@ -24854,7 +25058,7 @@
   ],
   "id": 55563,
   "hash": "fe4289d2a5c6e030",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55564": {
@@ -24967,6 +25171,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-09-19T18:45",
   "zu_null": false,
@@ -24976,7 +25181,7 @@
   ],
   "id": 55564,
   "hash": "a9ea5a4dd2cf9951",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55565": {
@@ -25089,6 +25294,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Corina Stern",
   "captured_at": "2026-09-19T20:36",
   "zu_null": false,
@@ -25098,7 +25304,7 @@
   ],
   "id": 55565,
   "hash": "80bc2a4665df7d26",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55566": {
@@ -25211,6 +25417,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dirk Adolph",
   "captured_at": "2026-09-19T23:12",
   "zu_null": false,
@@ -25220,7 +25427,7 @@
   ],
   "id": 55566,
   "hash": "e85ba3e2d064b816",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55567": {
@@ -25333,6 +25540,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rene Krönchen",
   "captured_at": "2026-09-20T10:17",
   "zu_null": false,
@@ -25342,7 +25550,7 @@
   ],
   "id": 55567,
   "hash": "1ae48e6d987b27e1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55568": {
@@ -25455,6 +25663,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Josef Mohren",
   "captured_at": "2026-09-26T09:26",
   "zu_null": false,
@@ -25464,7 +25673,7 @@
   ],
   "id": 55568,
   "hash": "9f719fd0470e47bc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55569": {
@@ -25577,6 +25786,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-09-26T20:36",
   "zu_null": false,
@@ -25586,7 +25796,7 @@
   ],
   "id": 55569,
   "hash": "594a50f4890d3707",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55570": {
@@ -25699,6 +25909,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-09-27T00:18",
   "zu_null": false,
@@ -25708,7 +25919,7 @@
   ],
   "id": 55570,
   "hash": "4301796c037e8f82",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55571": {
@@ -25821,6 +26032,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jan Fahnenstich",
   "captured_at": "2026-09-26T22:58",
   "zu_null": false,
@@ -25830,7 +26042,7 @@
   ],
   "id": 55571,
   "hash": "4376aba531348a81",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55572": {
@@ -25943,6 +26155,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-09-27T09:52",
   "zu_null": false,
@@ -25952,7 +26165,7 @@
   ],
   "id": 55572,
   "hash": "e169b5b5e75f8e9e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55573": {
@@ -26065,6 +26278,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jean-Luc Devos",
   "captured_at": "2026-10-03T19:06",
   "zu_null": false,
@@ -26074,7 +26288,7 @@
   ],
   "id": 55573,
   "hash": "13602a724df24901",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55574": {
@@ -26187,6 +26401,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-10-03T00:49",
   "zu_null": false,
@@ -26196,7 +26411,7 @@
   ],
   "id": 55574,
   "hash": "e77750c840c23aad",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55575": {
@@ -26309,6 +26524,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Corina Stern",
   "captured_at": "2026-10-03T19:44",
   "zu_null": false,
@@ -26318,7 +26534,7 @@
   ],
   "id": 55575,
   "hash": "a3fa114374013864",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55576": {
@@ -26431,6 +26647,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marie Schüller",
   "captured_at": "2026-10-03T23:08",
   "zu_null": false,
@@ -26440,7 +26657,7 @@
   ],
   "id": 55576,
   "hash": "f8d18009c6e8a15a",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55577": {
@@ -26553,6 +26770,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rene Krönchen",
   "captured_at": "2026-10-11T09:56",
   "zu_null": false,
@@ -26562,7 +26780,7 @@
   ],
   "id": 55577,
   "hash": "851c60a1bba59e2f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55578": {
@@ -26675,6 +26893,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-10-17T23:25",
   "zu_null": false,
@@ -26684,7 +26903,7 @@
   ],
   "id": 55578,
   "hash": "0c60a7a986d80369",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55579": {
@@ -26797,6 +27016,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jan Fahnenstich",
   "captured_at": "2026-10-17T22:55",
   "zu_null": false,
@@ -26806,7 +27026,7 @@
   ],
   "id": 55579,
   "hash": "c8cde7b64ffbb798",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55580": {
@@ -26919,6 +27139,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-10-18T09:27",
   "zu_null": false,
@@ -26928,7 +27149,7 @@
   ],
   "id": 55580,
   "hash": "6a79662211e8ce15",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55581": {
@@ -27041,6 +27262,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Udo Lampey",
   "captured_at": "2026-10-17T11:12",
   "zu_null": false,
@@ -27050,7 +27272,7 @@
   ],
   "id": 55581,
   "hash": "a6f9fec46d164336",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55582": {
@@ -27163,6 +27385,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-10-17T20:11",
   "zu_null": false,
@@ -27172,7 +27395,7 @@
   ],
   "id": 55582,
   "hash": "82baa62cf4d554ca",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55583": {
@@ -27285,6 +27508,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jean-Luc Devos",
   "captured_at": "2026-10-31T18:49",
   "zu_null": false,
@@ -27294,7 +27518,7 @@
   ],
   "id": 55583,
   "hash": "1890b22595579f80",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55584": {
@@ -27407,6 +27631,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-10-31T19:27",
   "zu_null": false,
@@ -27416,7 +27641,7 @@
   ],
   "id": 55584,
   "hash": "b080444a0211b3fc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55585": {
@@ -27529,6 +27754,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Corina Stern",
   "captured_at": "2026-10-31T21:04",
   "zu_null": false,
@@ -27538,7 +27764,7 @@
   ],
   "id": 55585,
   "hash": "9ccf4dc8120d2f60",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55586": {
@@ -27651,6 +27877,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Udo Lampey",
   "captured_at": "2026-10-31T11:15",
   "zu_null": false,
@@ -27660,7 +27887,7 @@
   ],
   "id": 55586,
   "hash": "73fe3aa705cb5426",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55587": {
@@ -27773,6 +28000,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-11-14T20:20",
   "zu_null": false,
@@ -27782,7 +28010,7 @@
   ],
   "id": 55587,
   "hash": "70a02babe80af819",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55588": {
@@ -27895,6 +28123,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-11-07T19:42",
   "zu_null": false,
@@ -27904,7 +28133,7 @@
   ],
   "id": 55588,
   "hash": "42531541ee583568",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55589": {
@@ -28017,6 +28246,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Rene Krönchen",
   "captured_at": "2026-11-08T09:50",
   "zu_null": false,
@@ -28026,7 +28256,7 @@
   ],
   "id": 55589,
   "hash": "d0baa1e81b7423ff",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55590": {
@@ -28139,6 +28369,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jan Fahnenstich",
   "captured_at": "2026-11-07T23:31",
   "zu_null": false,
@@ -28148,7 +28379,7 @@
   ],
   "id": 55590,
   "hash": "dfdbe4cf0c10565f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55591": {
@@ -28261,6 +28492,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marie Schüller",
   "captured_at": "2026-11-07T23:55",
   "zu_null": false,
@@ -28270,7 +28502,7 @@
   ],
   "id": 55591,
   "hash": "1701fb6a2ede3a0f",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55592": {
@@ -28383,6 +28615,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Norbert Radtke",
   "captured_at": "2026-11-07T20:01",
   "zu_null": false,
@@ -28392,7 +28625,7 @@
   ],
   "id": 55592,
   "hash": "01f0b67ee90868ad",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55593": {
@@ -28505,6 +28738,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Jean-Luc Devos",
   "captured_at": "2026-11-21T19:44",
   "zu_null": false,
@@ -28514,7 +28748,7 @@
   ],
   "id": 55593,
   "hash": "f0aa7dc271b6687d",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55594": {
@@ -28627,6 +28861,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Günter Speck",
   "captured_at": "2026-11-21T20:00",
   "zu_null": false,
@@ -28636,7 +28871,7 @@
   ],
   "id": 55594,
   "hash": "062a6a2664ddc7e7",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55595": {
@@ -28749,6 +28984,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marcel Königs",
   "captured_at": "2026-11-21T20:31",
   "zu_null": false,
@@ -28758,7 +28994,7 @@
   ],
   "id": 55595,
   "hash": "d6b7c9fd47751835",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55596": {
@@ -28868,6 +29104,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dirk Adolph",
   "captured_at": "2026-11-21T23:47",
   "zu_null": false,
@@ -28877,7 +29114,7 @@
   ],
   "id": 55596,
   "hash": "34ea6f94e783e981",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55597": {
@@ -28990,6 +29227,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Dennis Müller",
   "captured_at": "2026-11-21T23:21",
   "zu_null": false,
@@ -28999,7 +29237,7 @@
   ],
   "id": 55597,
   "hash": "272c870702ed396e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55605": {
@@ -29112,6 +29350,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Marie Schüller",
   "captured_at": "2026-11-13T23:31",
   "zu_null": false,
@@ -29121,7 +29360,7 @@
   ],
   "id": 55605,
   "hash": "8b6e8ddacf81ae35",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55654": {
@@ -29234,6 +29473,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-09-19T16:58",
   "zu_null": false,
@@ -29243,7 +29483,7 @@
   ],
   "id": 55654,
   "hash": "9ed2663df5ec45ea",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55656": {
@@ -29353,6 +29593,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Mandy Rompe",
   "captured_at": "2026-09-19T08:02",
   "zu_null": false,
@@ -29362,7 +29603,7 @@
   ],
   "id": 55656,
   "hash": "66ccd7d6cd685f4b",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55657": {
@@ -29475,6 +29716,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Paepcke",
   "captured_at": "2026-09-12T23:33",
   "zu_null": false,
@@ -29484,7 +29726,7 @@
   ],
   "id": 55657,
   "hash": "7933f6405ef9ab54",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55658": {
@@ -29597,6 +29839,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-09-25T23:23",
   "zu_null": false,
@@ -29606,7 +29849,7 @@
   ],
   "id": 55658,
   "hash": "bcc79ddc627d3da2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55660": {
@@ -29719,6 +29962,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christian Horn",
   "captured_at": "2026-09-26T18:57",
   "zu_null": false,
@@ -29728,7 +29972,7 @@
   ],
   "id": 55660,
   "hash": "fdf4f8ef16f8d0bc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55661": {
@@ -29841,6 +30085,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Matthias Vetten",
   "captured_at": "2026-09-26T00:14",
   "zu_null": false,
@@ -29850,7 +30095,7 @@
   ],
   "id": 55661,
   "hash": "02caf6c58f4a1bfc",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55664": {
@@ -29963,6 +30208,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-10-03T16:04",
   "zu_null": false,
@@ -29972,7 +30218,7 @@
   ],
   "id": 55664,
   "hash": "0919e0e9a96f4b4c",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55665": {
@@ -30085,6 +30331,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Nick Henig",
   "captured_at": "2026-10-03T19:29",
   "zu_null": false,
@@ -30094,7 +30341,7 @@
   ],
   "id": 55665,
   "hash": "7769bc60737840d2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55667": {
@@ -30207,6 +30454,7 @@
    0
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Paepcke",
   "captured_at": "2026-10-10T17:58",
   "zu_null": false,
@@ -30216,7 +30464,7 @@
   ],
   "id": 55667,
   "hash": "7d4d99005acdf7a2",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55668": {
@@ -30329,6 +30577,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Christian Horn",
   "captured_at": "2026-10-17T19:41",
   "zu_null": false,
@@ -30338,7 +30587,7 @@
   ],
   "id": 55668,
   "hash": "98079dbdaa4d4f12",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55669": {
@@ -30451,6 +30700,7 @@
    4
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Thomas Nitsch",
   "captured_at": "2026-10-17T08:43",
   "zu_null": false,
@@ -30460,7 +30710,7 @@
   ],
   "id": 55669,
   "hash": "488118190f9152a8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55671": {
@@ -30573,6 +30823,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-10-17T09:10",
   "zu_null": false,
@@ -30582,7 +30833,7 @@
   ],
   "id": 55671,
   "hash": "d80e681198f31bf3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55673": {
@@ -30695,6 +30946,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Bernd Hennes",
   "captured_at": "2026-10-31T22:51",
   "zu_null": false,
@@ -30704,7 +30956,7 @@
   ],
   "id": 55673,
   "hash": "f0819d81fd3202b1",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55674": {
@@ -30817,6 +31069,7 @@
    5
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Detlef Jackels",
   "captured_at": "2026-10-31T22:22",
   "zu_null": false,
@@ -30826,7 +31079,7 @@
   ],
   "id": 55674,
   "hash": "76b7585ad6b3a7c6",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55675": {
@@ -30939,6 +31192,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Thomas Gawlik",
   "captured_at": "2026-10-31T18:37",
   "zu_null": false,
@@ -30948,7 +31202,7 @@
   ],
   "id": 55675,
   "hash": "b2d62165d265dfd7",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55676": {
@@ -31061,6 +31315,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Joachim Cremer",
   "captured_at": "2026-11-21T02:20",
   "zu_null": false,
@@ -31070,7 +31325,7 @@
   ],
   "id": 55676,
   "hash": "3054de1dc007f2d8",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55679": {
@@ -31183,6 +31438,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Paepcke",
   "captured_at": "2026-11-14T19:36",
   "zu_null": false,
@@ -31192,7 +31448,7 @@
   ],
   "id": 55679,
   "hash": "72a89d42aa1cb4d6",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55680": {
@@ -31305,6 +31561,7 @@
    7
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Thomas Nitsch",
   "captured_at": "2026-11-07T13:25",
   "zu_null": false,
@@ -31314,7 +31571,7 @@
   ],
   "id": 55680,
   "hash": "c4ce61658115e61e",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55681": {
@@ -31427,6 +31684,7 @@
    6
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Mandy Rompe",
   "captured_at": "2026-11-07T08:31",
   "zu_null": false,
@@ -31436,7 +31694,7 @@
   ],
   "id": 55681,
   "hash": "bc467a4da3d55b47",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55683": {
@@ -31549,6 +31807,7 @@
    2
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Bernd Hennes",
   "captured_at": "2026-11-21T19:37",
   "zu_null": false,
@@ -31558,7 +31817,7 @@
   ],
   "id": 55683,
   "hash": "1138a95dc0fe14f3",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55684": {
@@ -31671,6 +31930,7 @@
    1
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Nick Henig",
   "captured_at": "2026-11-21T19:04",
   "zu_null": false,
@@ -31680,7 +31940,7 @@
   ],
   "id": 55684,
   "hash": "13877a7bc2957d38",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55686": {
@@ -31793,6 +32053,7 @@
    8
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Mandy Rompe",
   "captured_at": "2026-11-21T09:23",
   "zu_null": false,
@@ -31802,7 +32063,7 @@
   ],
   "id": 55686,
   "hash": "a89f786ccede82ec",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "55694": {
@@ -31915,6 +32176,7 @@
    3
   ],
   "description": "",
+  "protest": "",
   "captured_by": "Ralf Paepcke",
   "captured_at": "2026-11-07T21:23",
   "zu_null": false,
@@ -31924,7 +32186,7 @@
   ],
   "id": 55694,
   "hash": "474f654fe4132768",
-  "fetched_at": "2026-11-23T09:25:41Z",
+  "fetched_at": "2026-11-23T09:51:43Z",
   "first_fetched_at": "2026-11-23T09:11:14Z"
  },
  "56674": {
