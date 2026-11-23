@@ -174,6 +174,8 @@ def main() -> int:
     # 2) Kader
     kader_sampled: set[int] = set()
     for t in teams.values():
+        if t["id"] < 0:
+            continue  # Mannschaft ohne eigene Seite
         age_ok = False
         if t.get("kader_fetched_at") and not args.full:
             fetched = datetime.strptime(t["kader_fetched_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -210,7 +212,7 @@ def main() -> int:
     fetched_reports = 0
     for m in matches.values():
         played = m.get("result") is not None
-        if not played:
+        if not played or m.get("bye"):
             continue
         mid = m["id"]
         old = reports.get(mid)

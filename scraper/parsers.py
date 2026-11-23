@@ -7,6 +7,7 @@ Jeder Parser gibt zusätzlich eine Liste `warnings` zurück, die im Lauf-Protoko
 from __future__ import annotations
 
 import re
+import zlib
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 
@@ -221,12 +222,17 @@ def parse_spielplan(html: str, league_id: int) -> dict:
                 m["bye"] = True
                 continue
             if m[f"{side}_id"] is None and m[f"{side}_name"]:
-                tid = by_name.get(m[f"{side}_name"].lower())
+                name = m[f"{side}_name"]
+                tid = by_name.get(name.lower())
                 if tid is None:
-                    unknown.add(m[f"{side}_name"])
+                    # Keine Mannschaftsseite verlinkt (z. B. Senioren): stabile Ersatz-ID aus dem Namen
+                    tid = -(zlib.crc32(f"{league_id}|{name}".encode()) % 10**9)
+                    teams[tid] = {"id": tid, "name": name, "withdrawn": False, "synthetic": True}
+                    by_name[name.lower()] = tid
+                    unknown.add(name)
                 m[f"{side}_id"] = tid
     if unknown:
-        warnings.append(f"Liga {league_id}: Mannschaften ohne ID: {', '.join(sorted(unknown))}")
+        warnings.append(f"Liga {league_id}: {len(unknown)} Mannschaften ohne eigene Seite (kein Kader abrufbar)")
 
     if not teams:
         warnings.append(f"Liga {league_id}: keine Mannschaften gefunden")
@@ -330,9 +336,10 @@ def parse_spielbericht(html: str) -> dict:
         rest = cells[di + 1:]
         si = next((i for i, c in enumerate(rest) if SCORE_RE.match(c)), None)
         if si is None:
-            # Partie ohne Ergebnis (z. B. entfallen)
-            home = rest[0] if rest else ""
-            away = rest[1] if len(rest) > 1 else ""
+            # Partie ohne Ergebnis (z. B. entfallen oder Wertung ohne Spiel)
+            rest_nc = [c for c in rest if c.strip() not in (":", "-", "–")]
+            home = rest_nc[0] if rest_nc else ""
+            away = rest_nc[1] if len(rest_nc) > 1 else ""
             score = None
         else:
             home = " ".join(c for c in rest[:si] if c and c != ":")

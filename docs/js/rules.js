@@ -120,14 +120,14 @@ export function analyze(data, settings = {}) {
   const apps = []; // {key, name, team, match, report, side, games:[]}
   for (const m of matches) {
     const r = reports[String(m.id)];
-    if (!r) continue;
+    if (!r || isBye(m) || !scoredGames(r).length) continue;
     const sides = [["home", m.home_id], ["away", m.away_id]];
     for (const [side, tid] of sides) {
       const team = teamById.get(tid);
       if (!team) continue;
       const per = new Map();
       for (const g of r.games || []) {
-        const nm = (g[side] || "").trim();
+        const nm = validName(g[side]);
         if (!nm) continue;
         const k = resolve(nm);
         if (!displayName.has(k)) displayName.set(k, nm);
@@ -151,7 +151,7 @@ export function analyze(data, settings = {}) {
   // ---------------------------------------------------------------- Je Spielbericht
   for (const m of matches) {
     const r = reports[String(m.id)];
-    if (!r) continue;
+    if (!r || isBye(m)) continue;
     const lg = leagues.get(m.league_id) || {};
     const c = lg.competition || "kombi";
     const games = r.games || [];
@@ -173,18 +173,18 @@ export function analyze(data, settings = {}) {
       }
     }
 
-    // B7Z: zu Null
-    if (r.zu_null || (!games.length && r.endstand)) {
+    // B7Z: zu Null (Wertung ohne gespielte Partien)
+    if (isZuNull(r)) {
       add({ ...baseOf(m), code: "B7Z", severity: "info", teamId: m.home_id, opponentId: m.away_id,
-        title: RULES.B7Z, detail: `Endstand ${fmtRes(r.endstand || m.result)} ohne Einzelpartien.`, penalty: PENALTIES.none, sto: "10.8.1" });
+        title: RULES.B7Z, detail: `Endstand ${fmtRes(r.endstand || m.result)} ohne gespielte Einzelpartien.`, penalty: PENALTIES.none, sto: "10.8.1" });
+      continue;
     }
     if (!games.length) continue;
 
     // A7: Summen, Ausspielziele, Abgleich mit Spielplan
     let hw = 0, aw = 0;
     const raceTab = races[c]?.[String(lg.level)] || {};
-    for (const g of games) {
-      if (!g.score) continue;
+    for (const g of scoredGames(r)) {
       const [h, a] = g.score;
       if (h > a) hw++; else if (a > h) aw++;
       if (g.discipline === "14/1") {
@@ -220,8 +220,8 @@ export function analyze(data, settings = {}) {
       const cnt = new Map(), perRound = new Map(), discRound = new Map();
       const empty = [];
       for (const g of games) {
-        const nm = (g[side] || "").trim();
-        if (!nm) { empty.push(g); continue; }
+        const nm = validName(g[side]);
+        if (!nm) { if (g.score) empty.push(g); continue; }
         const k = resolve(nm);
         cnt.set(k, (cnt.get(k) || 0) + 1);
         const rk = k + "|" + g.round;
@@ -454,7 +454,7 @@ export function analyze(data, settings = {}) {
     // B1 Verlegungen
     for (const m of ms) {
       const reg = regular.get(m.st);
-      if (!reg || !m.date) continue;
+      if (!reg || !m.date || isBye(m)) continue;
       const d = parseDate(m.date), r0 = parseDate(reg);
       const diff = Math.round((d - r0) / DAY);
       if (diff <= 3) {
@@ -516,7 +516,7 @@ export function analyze(data, settings = {}) {
   const zuNull = new Map();
   for (const m of matches) {
     const r = reports[String(m.id)];
-    if (!r || !(r.zu_null || (!(r.games || []).length && r.endstand))) continue;
+    if (!r || isBye(m) || !isZuNull(r)) continue;
     const res = r.endstand || m.result;
     if (!res) continue;
     const loser = res[0] < res[1] ? m.home_id : res[1] < res[0] ? m.away_id : null;
@@ -576,6 +576,23 @@ export function analyze(data, settings = {}) {
   function oppOf(a) {
     return a.side === "home" ? a.match.away_id : a.match.home_id;
   }
+}
+
+function isBye(m) {
+  return !!m.bye || !m.home_id || !m.away_id;
+}
+
+function scoredGames(r) {
+  return (r.games || []).filter((g) => g.score && (g.score[0] + g.score[1] > 0 || validName(g.home) || validName(g.away)));
+}
+
+function isZuNull(r) {
+  return !!r.zu_null || (!scoredGames(r).length && !!r.endstand);
+}
+
+function validName(s) {
+  const t = String(s || "").trim();
+  return /[A-Za-zÄÖÜäöüß]{2}/.test(t) ? t : "";
 }
 
 function gameId(g) {
