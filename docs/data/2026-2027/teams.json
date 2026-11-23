@@ -1,5 +1,3530 @@
 [
  {
+  "id": 5349,
+  "name": "1. PBC Primus Eschweiler 1",
+  "withdrawn": false,
+  "club": "1. PBC Primus Eschweiler",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Jürgen Adler",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dietmar Goergens",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sebastian Hastenteufel",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Weingarte",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Norbert Otten",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5315,
+  "name": "B4F Düren 07 1",
+  "withdrawn": false,
+  "club": "B4F Düren 07",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Christoph Plinz",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tim Barbuir",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "René Derichs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Thelen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephan Wergen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephan Wilkens",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5342,
+  "name": "BC 71 Mantinell Erkelenz 1",
+  "withdrawn": false,
+  "club": "BC 71 Mantinell Erkelenz",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Ferdinand Kraus",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Bihn",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jörg Brunenberg",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Heppner",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Fabian Quack",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Joline Rahn",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5285,
+  "name": "BC Alsdorf 5",
+  "withdrawn": false,
+  "club": "BC Alsdorf",
+  "number": 5,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Sebastian Muth",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karsten Dedem",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Shaojun Fu",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Kraszkiewicz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sabine Sparacio",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Welley",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Han Zhang",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5275,
+  "name": "BC Phoenix Übach-Palenberg 3",
+  "withdrawn": false,
+  "club": "BC Phoenix Übach-Palenberg",
+  "number": 3,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Stefan Fuhrmann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lukas Hackemöller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Maurice Portengen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Nico Reviers",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Kurt Semmisch",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralph Zilt",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5353,
+  "name": "BSV Niederzier 1991 e.V. 1",
+  "withdrawn": false,
+  "club": "BSV Niederzier 1991 e.V.",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Dennis Müller",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Markus Lubaczewski",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Guido Misselich",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Mike Obenauf",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5338,
+  "name": "Eine Bande Dürwiß 2",
+  "withdrawn": false,
+  "club": "Eine Bande Dürwiß",
+  "number": 2,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Chiara Böhmer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Cedric Böhmer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patric Reul",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jörg Rittmeyer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Röntgen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "André Vahsen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5270,
+  "name": "PBC Dürener Billardfreunde 1",
+  "withdrawn": false,
+  "club": "PBC Dürener Billardfreunde",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Andre Wenzel",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ugur Aydin",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marcus Peschutter",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rene Reiermann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Kevin Wenzel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sandra Wenzel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5310,
+  "name": "PBF 94 Eilendorf 1",
+  "withdrawn": false,
+  "club": "PBF 94 Eilendorf",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Werner Janke",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jochen Axer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Hagen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sven Lemmer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Nittritz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dieter Wolff",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5297,
+  "name": "PBF Ratheim e.V. 1",
+  "withdrawn": false,
+  "club": "PBF Ratheim e.V.",
+  "number": 1,
+  "league_id": 568,
+  "kader": [
+   {
+    "name": "Marco Schoenmackers",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heinz Beeck",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heinz Buchem",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Huhoff",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Preuß",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5331,
+  "name": "1. PBC Rot-Gelb Aachen 3",
+  "withdrawn": false,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 3,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Werner Ertel",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "F.Josef Frauenrath",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alexander Gruß",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Holger Kratz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manuela Schaffrath",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Scholl",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Straeck",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Johannes Viola",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5316,
+  "name": "B4F Düren 07 2",
+  "withdrawn": false,
+  "club": "B4F Düren 07",
+  "number": 2,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Michael Klagmann",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marko Gelo",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans-Hubert Hoven",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Knott",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lars Nolden",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jörg Schrötler",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Mehmet Yilmaz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5339,
+  "name": "Eine Bande Dürwiß 3",
+  "withdrawn": false,
+  "club": "Eine Bande Dürwiß",
+  "number": 3,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Uwe Gleich",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Vanessa Claßen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Esser",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andreas Heinrichs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Wilfried Plum",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5399,
+  "name": "PBC Konzen 1",
+  "withdrawn": false,
+  "club": "PBC Konzen",
+  "number": 1,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Roland Schleicher",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Bernd Bülles",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Oliver Bülles",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Nikolai Huppertz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jan Schilder",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Walter",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5296,
+  "name": "PBC Maniac Eschweiler 2",
+  "withdrawn": false,
+  "club": "PBC Maniac Eschweiler",
+  "number": 2,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Anika Eßer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dennis Blaskowski",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Carlos Marques",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Timo Martin",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Viktor Haas",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stefanie Thelen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5307,
+  "name": "PBC Phönix Düren 6",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 6,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Marcus Monat",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andreas Behlen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Daniel Behlen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl-Heinz Monat",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Natalie Monat",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5425,
+  "name": "PBC Schwarz-Grün Aachen 2",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Grün Aachen",
+  "number": 2,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Marion Lentzen",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Joachim Gerber",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Henshen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Simon Metzdorf",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Markus Robers",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Gregor Schmetz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "David Stadler",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ingo Winzen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Wölfel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5286,
+  "name": "PBC Würselen 81 1",
+  "withdrawn": false,
+  "club": "PBC Würselen 81",
+  "number": 1,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Hans Peter Göttgens",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Busacker",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Max Hodenius",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alexander Müller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Santamaria",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Josef Wiechowski",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5313,
+  "name": "PBV Musketier 1",
+  "withdrawn": false,
+  "club": "PBV Musketier",
+  "number": 1,
+  "league_id": 569,
+  "kader": [
+   {
+    "name": "Peter Skowronek",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans Peter Pohl",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Poth",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sarah Wedekind",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heiko Zöllner",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5329,
+  "name": "1. PBC Rot-Gelb Aachen 1",
+  "withdrawn": false,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 1,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Markus Schneider",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alfred Maasakkers",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Markus Pluntke",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Willms",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rudi Zick",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5283,
+  "name": "BC Alsdorf 2",
+  "withdrawn": false,
+  "club": "BC Alsdorf",
+  "number": 2,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Sebastian Lauer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andreas Abels",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Markus Feltes",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Carlos Rohner",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Steiner",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5314,
+  "name": "BC Alsdorf 3",
+  "withdrawn": false,
+  "club": "BC Alsdorf",
+  "number": 3,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Marco Jansen",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jürgen Kreutzkampf",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Detlev Martens",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dieter Schlagloth",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Schmidt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5322,
+  "name": "BC Jülich 1980 e.V. 2",
+  "withdrawn": false,
+  "club": "BC Jülich 1980 e.V.",
+  "number": 2,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Rolf Zander",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Nazmi Albeni",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Barry Brochhagen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Johnen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Torsten Rubbeling",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "René Zeisberg",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5274,
+  "name": "BC Phoenix Übach-Palenberg 2",
+  "withdrawn": false,
+  "club": "BC Phoenix Übach-Palenberg",
+  "number": 2,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Michael Engelen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Norman Jansen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Kleineberg",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thijs Pol",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marcus Unger",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5289,
+  "name": "Billard Sport Verein 76 Venus 1",
+  "withdrawn": false,
+  "club": "Billard Sport Verein 76 Venus",
+  "number": 1,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Norbert Radtke",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Udo Kaschek",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Udo Krahforst",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rene Peeters",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Richter",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jan Van Lierop",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jeroen den Rooyen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5303,
+  "name": "PBC Phönix Düren 2",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 2,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Wolfgang Romich",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Werner Essing",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andreas Kreilein",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Natascha Marczok",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Niko Theodorou",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Eric Tombeux",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5401,
+  "name": "PBC Schwarz-Weiß Kohlscheid 3",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 3,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Marco Bardischewski",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ingo Cloots",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alexander Dümling",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Björn Franzen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Mertens",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Janine Schwan",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5325,
+  "name": "PSG Eupen-Eifel 2",
+  "withdrawn": false,
+  "club": "PSG Eupen-Eifel",
+  "number": 2,
+  "league_id": 570,
+  "kader": [
+   {
+    "name": "Frank Cremer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Heimgärtner",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Kuth",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Linwei Liang",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Achim Rohn",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5330,
+  "name": "1. PBC Rot-Gelb Aachen 2",
+  "withdrawn": false,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 2,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Werner Scheulen",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Volker Chmielus",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl-Heinz Hamacher",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Harald Heck",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Norbert Schaffrath",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5284,
+  "name": "BC Alsdorf 4",
+  "withdrawn": false,
+  "club": "BC Alsdorf",
+  "number": 4,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Carsten Lehmann",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sebastian Bock",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Roman Morid",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andre Prost",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Vincent Breuer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5394,
+  "name": "BV Pool Sharks 1",
+  "withdrawn": false,
+  "club": "BV Pool Sharks",
+  "number": 1,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Viktor Pucihar",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Brandt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Jaquemot",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stefan Stoffels",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Florian Stronciwilk",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5337,
+  "name": "Eine Bande Dürwiß 1",
+  "withdrawn": false,
+  "club": "Eine Bande Dürwiß",
+  "number": 1,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Jens Rittmeyer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Offermann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Achim Ohnesorg",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Pickart",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Willmann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl-Heinz Willmann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5420,
+  "name": "PBC Düren-Nord 1980 1",
+  "withdrawn": false,
+  "club": "PBC Düren-Nord 1980",
+  "number": 1,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Stefan Nipps",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Engert",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rafael Marx",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christian Niederau",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "David Richter",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5434,
+  "name": "PBC Fortuna Aachen 1",
+  "withdrawn": false,
+  "club": "PBC Fortuna Aachen",
+  "number": 1,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Atila Arslanbas",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Momean Zakaria",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Detlev Herf",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lukas Krott",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Perry Vissers",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Reiner Wohlrab",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5304,
+  "name": "PBC Phönix Düren 3",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 3,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Dieter Finner",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Beus",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Göttling",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Hülscher",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Köthe",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Thönnissen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5305,
+  "name": "PBC Phönix Düren 4",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 4,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Hermann-Josef Himmler",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Meinhart Adrian",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rainer Becker",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Bridoux",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans Peter Deni",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jakob Romich",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5424,
+  "name": "PBC Schwarz-Grün Aachen 1",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Grün Aachen",
+  "number": 1,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Marc Schäfer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ibrahim Ayir",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Norbert Carle",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marko Djetelic",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thorsten Ley",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Joannis Palapoukidis",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jin Qixaan",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Janne Riihijärvi",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tobias Stärk",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5402,
+  "name": "PBC Schwarz-Weiß Kohlscheid 4",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 4,
+  "league_id": 571,
+  "kader": [
+   {
+    "name": "Frank Stefani",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marius Burchardt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dimiter Jordanov",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Mario dos Santos",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": -470618057,
+  "name": "1. PBC Rot-Gelb Aachen 3",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 3,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -983537563,
+  "name": "BC 71 Mantinell Erkelenz 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "BC 71 Mantinell Erkelenz",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -981000081,
+  "name": "BV Blaue Pomeranze 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "BV Blaue Pomeranze",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -779638062,
+  "name": "BV Pool Sharks 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "BV Pool Sharks",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -142877579,
+  "name": "Bfr. Schwarz-Grün Rothe Erde 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "Bfr. Schwarz-Grün Rothe Erde",
+  "number": 2,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -413759850,
+  "name": "Billard Sport Verein 76 Venus 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "Billard Sport Verein 76 Venus",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -581319240,
+  "name": "PBC Blau-Weiß Eilendorf 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Blau-Weiß Eilendorf",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -74816265,
+  "name": "PBC Fortuna Aachen 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Fortuna Aachen",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -642307763,
+  "name": "PBC Fortuna Aachen 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Fortuna Aachen",
+  "number": 2,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -733109775,
+  "name": "PBC Schwarz-Weiß Kohlscheid 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 2,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -176547329,
+  "name": "PBC Würselen 81 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Würselen 81",
+  "number": 1,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -338664692,
+  "name": "PBF 94 Eilendorf 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBF 94 Eilendorf",
+  "number": 2,
+  "league_id": 572,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": 5343,
+  "name": "BC 71 Mantinell Erkelenz 2",
+  "withdrawn": false,
+  "club": "BC 71 Mantinell Erkelenz",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Rüdiger Schulz",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Pascal Costin",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marco Frahm",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Laprell",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Miguel Angel Vallejo Vazquez",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lukas Wycik",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5354,
+  "name": "BSV Niederzier 1991 e.V. 2",
+  "withdrawn": false,
+  "club": "BSV Niederzier 1991 e.V.",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Tobias Pelzer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Daniel Dohr",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "René Lövenich",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Wilfried Pelzer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Klaus Svetic",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ulrike Svetic",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5395,
+  "name": "BV Pool Sharks 2",
+  "withdrawn": false,
+  "club": "BV Pool Sharks",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Horst Bollig",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karim Azhari",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jouan Battal",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "William Henry",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Adi Siswanto",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5290,
+  "name": "Billard Sport Verein 76 Venus 2",
+  "withdrawn": false,
+  "club": "Billard Sport Verein 76 Venus",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Harry Roberts",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Bergs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Josef Lehnen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Helmut Radtke",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Vicente Torres",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5435,
+  "name": "PBC Fortuna Aachen 2",
+  "withdrawn": false,
+  "club": "PBC Fortuna Aachen",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Leon Smits",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heinz-Peter Bauer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephen Diepen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Roger Hendrickx",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alexander Vaesen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5295,
+  "name": "PBC Maniac Eschweiler 1",
+  "withdrawn": false,
+  "club": "PBC Maniac Eschweiler",
+  "number": 1,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Michael Kuckelmann",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Eichstädt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Eßer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Luan Hagedorn",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Max Paul",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5306,
+  "name": "PBC Phönix Düren 5",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 5,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Birgit Zeisberg",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heinz Hirschauer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sven Mueller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marcel Zeisberg",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sophie Zeisberg",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5403,
+  "name": "PBC Schwarz-Weiß Kohlscheid 5",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 5,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Dieter Schwan",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Braun",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Oliver Clever",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jürgen Hennig",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Norman Lie",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andreas Meyer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Paul Naumann",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5298,
+  "name": "PBF Ratheim e.V. 2",
+  "withdrawn": false,
+  "club": "PBF Ratheim e.V.",
+  "number": 2,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "Detlef Jackels",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Werner Bock",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Oliver Dieden",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christian Pauen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rainer Thielen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Cohnen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Björn Wilmeroth",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5326,
+  "name": "PSG Eupen-Eifel 3",
+  "withdrawn": false,
+  "club": "PSG Eupen-Eifel",
+  "number": 3,
+  "league_id": 573,
+  "kader": [
+   {
+    "name": "David Dahmen",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Albin Azirovic",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marc De Bruecker",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Herbert Schlagloth",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Julia Schmitz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Nico Welbers",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5348,
+  "name": "1. PBC Primus Eschweiler 2",
+  "withdrawn": false,
+  "club": "1. PBC Primus Eschweiler",
+  "number": 2,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Jan Fahnenstich",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Daniel Fahnenstich",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tim Krüger",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Nitsch",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christian Träger",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5320,
+  "name": "BC Alsdorf 6",
+  "withdrawn": false,
+  "club": "BC Alsdorf",
+  "number": 6,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Rene Krönchen",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lukas Kessler",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans Nobis",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jerome Nobis",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Zhijie Wang",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Heino Gögge",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Barbara Jonas",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Xiangyu Shi",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5355,
+  "name": "BSV Niederzier 1991 e.V. 3",
+  "withdrawn": false,
+  "club": "BSV Niederzier 1991 e.V.",
+  "number": 3,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Katrin Jahnel",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Cedric Obez",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Claudia Rehtanz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jan Töller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Töller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5396,
+  "name": "BV Pool Sharks 3",
+  "withdrawn": false,
+  "club": "BV Pool Sharks",
+  "number": 3,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Corina Stern",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Eduard Bastron",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Maximilian Bernhardt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Oleksii Koval",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Johannes Kusch",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christian Schaffrath",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Günter Speck",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5278,
+  "name": "Bfr. Schwarz-Grün Rothe Erde 1",
+  "withdrawn": false,
+  "club": "Bfr. Schwarz-Grün Rothe Erde",
+  "number": 1,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Joachim Cremer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Willi Keuchen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Lütkenhaus",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Roufs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Leo Sibas",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Welbers",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5291,
+  "name": "Billard Sport Verein 76 Venus 3",
+  "withdrawn": false,
+  "club": "Billard Sport Verein 76 Venus",
+  "number": 3,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Gerd Wachhelder",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Detlef Heinemann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Nick",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Offermann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tobias Wöllenweber",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5436,
+  "name": "PBC Fortuna Aachen 3",
+  "withdrawn": false,
+  "club": "PBC Fortuna Aachen",
+  "number": 3,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Hans-Jürgen Stumm",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tuncay Arslanbas",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Pascal Immelen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephan Malbertz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Armin Mertens",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marcel Willems",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5308,
+  "name": "PBC Phönix Düren 7",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 7,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Jean-Luc Devos",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "André Greven",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Güttner",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ferdie Kreutz",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas van Ratingen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5404,
+  "name": "PBC Schwarz-Weiß Kohlscheid 6",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 6,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Marie Schüller",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Adolph",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Josef Haitz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Mathias Jansen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl Offermanns",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Joachim Ringhardt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ingo Tulodetzki",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5287,
+  "name": "PBC Würselen 81 2",
+  "withdrawn": false,
+  "club": "PBC Würselen 81",
+  "number": 2,
+  "league_id": 574,
+  "kader": [
+   {
+    "name": "Sophia Lampey",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Salvatore Barranca",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Udo Lampey",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Josef Mohren",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marcus Mohren",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jacek Wojcik",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5350,
+  "name": "1. PBC Primus Eschweiler 3",
+  "withdrawn": false,
+  "club": "1. PBC Primus Eschweiler",
+  "number": 3,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Klaus Krakofsky",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Irene Fehr",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Udo Reckhaus",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Peter Schuster",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Raphael Christke",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Gitzen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Henning Hartmann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5344,
+  "name": "BC 71 Mantinell Erkelenz 3",
+  "withdrawn": false,
+  "club": "BC 71 Mantinell Erkelenz",
+  "number": 3,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Ralf Paepcke",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Faik Cihantimur",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christoph Detree",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Georg Quack",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christoph Schumann",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jürgen Schürings",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Borowski",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Andre Dänekas",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5279,
+  "name": "Bfr. Schwarz-Grün Rothe Erde 2",
+  "withdrawn": false,
+  "club": "Bfr. Schwarz-Grün Rothe Erde",
+  "number": 2,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Rüdiger Otto",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Günter Donners",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "David Heidrich",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marco Held",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Hülbusch",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Juanita Illig",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Helmut Kuropka",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans Schotte",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5421,
+  "name": "PBC Düren-Nord 1980 2",
+  "withdrawn": false,
+  "club": "PBC Düren-Nord 1980",
+  "number": 2,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Christian Horn",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Philip Berbuir",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrik Franzen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Martin Schiffer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "René Schrickel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Fabian Schröter",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5301,
+  "name": "PBC Poolicorns e.V. 1",
+  "withdrawn": false,
+  "club": "PBC Poolicorns e.V.",
+  "number": 1,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Thomas Gawlik",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Nick Henig",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jörn Bodenhausen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Oliver Brück",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Harald Esser",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Guido Höschler",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Mehmet Sahin",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5311,
+  "name": "PBF 94 Eilendorf 2",
+  "withdrawn": false,
+  "club": "PBF 94 Eilendorf",
+  "number": 2,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Sebastian Drechsler",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Florian Kühn",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christian Pempelforth-Jelic",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Paul Reddig",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Achim Rompe",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Peter Vonz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephanie Kaußen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tatiana Kaußen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5299,
+  "name": "PBF Ratheim e.V. 3",
+  "withdrawn": false,
+  "club": "PBF Ratheim e.V.",
+  "number": 3,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Sebastian Wagner",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rudolf Brecker",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Patrick Grüner",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Birgit Schneiderbeck",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Achim Wolff",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sabrina Watroba",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5327,
+  "name": "PSG Eupen-Eifel 4",
+  "withdrawn": false,
+  "club": "PSG Eupen-Eifel",
+  "number": 4,
+  "league_id": 575,
+  "kader": [
+   {
+    "name": "Bernd Hennes",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Konstantin Baumgart",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Paul Maus",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Parham Mohajerani",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Youcef Guendouz El-Goul",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5351,
+  "name": "1. PBC Primus Eschweiler 4",
+  "withdrawn": false,
+  "club": "1. PBC Primus Eschweiler",
+  "number": 4,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Ralf Ehrhardt",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Guido Kreft",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Werner Hartmann",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Benjamin Vroomen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5345,
+  "name": "BC 71 Mantinell Erkelenz 4",
+  "withdrawn": false,
+  "club": "BC 71 Mantinell Erkelenz",
+  "number": 4,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Holger Büttner",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Gerd Randerath",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Reiner Senden",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael B. Thelen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Susanne Thelen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Harald Toettges",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5277,
+  "name": "BC Phoenix Übach-Palenberg 4",
+  "withdrawn": false,
+  "club": "BC Phoenix Übach-Palenberg",
+  "number": 4,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Marcel Faist",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Martin Corsten",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Franz Josef Hackemüller",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Leonard Hermanns",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Klenkies",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sascha Schmidt",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Thiel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Peter Vriesema",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Robin Wientjens",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Angelo de Gelder",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5442,
+  "name": "BSC Aachen 1",
+  "withdrawn": false,
+  "club": "BSC Aachen",
+  "number": 1,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Patrick Wilken",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tümen Alagöz",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Joachim Diederich",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Michael Seidler",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Anas Douik",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lea Hannappel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Malte Kömhoff",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Konstantin Leißner",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Linus Pfänder",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5485,
+  "name": "Eine Bande Dürwiß 4",
+  "withdrawn": false,
+  "club": "Eine Bande Dürwiß",
+  "number": 4,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Heiko Nowitzki",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Claßen",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Diederichs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marius Sapletta",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "David Strmiska",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5422,
+  "name": "PBC Düren-Nord 1980 3",
+  "withdrawn": false,
+  "club": "PBC Düren-Nord 1980",
+  "number": 3,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Wolfgang Simons",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Szymon Danielczuk",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thomas Hensch",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl-Wilhelm Miebach",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5437,
+  "name": "PBC Fortuna Aachen 4",
+  "withdrawn": false,
+  "club": "PBC Fortuna Aachen",
+  "number": 4,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Marcel Königs",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Marco Burggraef",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Josef Jöris",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Robin Schegulla",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dean Hermans",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Valentino Pelzer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5309,
+  "name": "PBC Phönix Düren 8",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 8,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Carsten Meerpohl",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Christopher Baur",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Alexander Deni",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Kai Hilger",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Niklas Jörres",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5406,
+  "name": "PBC Schwarz-Weiß Kohlscheid 8",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 8,
+  "league_id": 576,
+  "kader": [
+   {
+    "name": "Arnd Bähr",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Brandt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Peter Heinig",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dominik Hickert",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Müller",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dwayn Sobotka",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5333,
+  "name": "1. PBC Rot-Gelb Aachen 5",
+  "withdrawn": false,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 5,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Annemarie Fuhs",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Peter Fuhs",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rainer Makus",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Meven",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Angelika Weber",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5323,
+  "name": "BC Jülich 1980 e.V. 3",
+  "withdrawn": false,
+  "club": "BC Jülich 1980 e.V.",
+  "number": 3,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Manfred Mies",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Bernd Heinrichs",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ralf Hermes",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Rubin",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Thissen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5268,
+  "name": "BV Blaue Pomeranze 1",
+  "withdrawn": false,
+  "club": "BV Blaue Pomeranze",
+  "number": 1,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Ralf Georg Brüll",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Sabine Brüll",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Thorsten Pfeffer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Stephan Voswinkel",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5438,
+  "name": "PBC Fortuna Aachen 5",
+  "withdrawn": false,
+  "club": "PBC Fortuna Aachen",
+  "number": 5,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Ercan Gülpek",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dirk Fischer",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Swen Gallinat",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tobias Houscheid",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hans Keles",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5446,
+  "name": "PBC Phönix Düren 9",
+  "withdrawn": false,
+  "club": "PBC Phönix Düren",
+  "number": 9,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "John Fabian Halim",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Ago Boltersdorf",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Bertold Boltersdorf",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Herbert Bremer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Olav Grzella",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Remy Kohl",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manfred Marczok",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Klaus Nußbaum",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Frank Zens",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5426,
+  "name": "PBC Schwarz-Grün Aachen 3",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Grün Aachen",
+  "number": 3,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Henrik Hammer",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Jan Frederic Janssen",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Till Dorschel",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Haina Li",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Hairong Li",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Karl Vogelfänger",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Casper Winkelmeyer",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5405,
+  "name": "PBC Schwarz-Weiß Kohlscheid 7",
+  "withdrawn": false,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 7,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Sarah Schmitz",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Daniel Bernhardt",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Detlef Engels",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Rene Paninka",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Kilian Schwarzkopf",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Tobias Schwarzkopf",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
+  "id": 5328,
+  "name": "PSG Eupen-Eifel 5",
+  "withdrawn": false,
+  "club": "PSG Eupen-Eifel",
+  "number": 5,
+  "league_id": 577,
+  "kader": [
+   {
+    "name": "Michael Cormann",
+    "status": "Kapitän",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Manuel Mager",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Dominique Remy",
+    "status": "Stammspieler",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Deneng Liang",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Leo Maus",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Lionel Stephan",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   },
+   {
+    "name": "Yaxing Zhao",
+    "status": "",
+    "first_seen": "2026-11-23T09:25:41Z"
+   }
+  ],
+  "kader_fetched_at": "2026-11-23T09:25:41Z"
+ },
+ {
   "id": 5317,
   "name": "B4F Düren 07 1",
   "withdrawn": false,
@@ -39,6 +3564,28 @@
    }
   ],
   "kader_fetched_at": "2026-11-23T09:11:14Z"
+ },
+ {
+  "id": -581358035,
+  "name": "B4F Düren 07 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "B4F Düren 07",
+  "number": 2,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -103713036,
+  "name": "BC Alsdorf 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "BC Alsdorf",
+  "number": 1,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
  },
  {
   "id": 5509,
@@ -190,6 +3737,17 @@
   "kader_fetched_at": "2026-11-23T09:11:14Z"
  },
  {
+  "id": -887089166,
+  "name": "Bfr. Schwarz-Grün Rothe Erde 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "Bfr. Schwarz-Grün Rothe Erde",
+  "number": 1,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
   "id": 5294,
   "name": "Billard Sport Verein 76 Venus 1",
   "withdrawn": false,
@@ -323,6 +3881,17 @@
   "kader_fetched_at": "2026-11-23T09:11:14Z"
  },
  {
+  "id": -414580240,
+  "name": "PBC Dürener Billardfreunde 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Dürener Billardfreunde",
+  "number": 1,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
   "id": 5441,
   "name": "PBC Fortuna Aachen 1",
   "withdrawn": false,
@@ -405,6 +3974,17 @@
   "kader_fetched_at": "2026-11-23T09:11:14Z"
  },
  {
+  "id": -203957711,
+  "name": "PBC Poolicorns e.V. Pokal 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Poolicorns e.V. Pokal",
+  "number": 1,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
   "id": 5410,
   "name": "PBC Schwarz-Weiß Kohlscheid 1",
   "withdrawn": false,
@@ -439,6 +4019,17 @@
    }
   ],
   "kader_fetched_at": "2026-11-23T09:11:14Z"
+ },
+ {
+  "id": -89359694,
+  "name": "PBC Schwarz-Weiß Kohlscheid 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 2,
+  "league_id": 578,
+  "kader": [],
+  "kader_fetched_at": null
  },
  {
   "id": 5483,
@@ -506,5 +4097,115 @@
    }
   ],
   "kader_fetched_at": "2026-11-23T09:11:14Z"
+ },
+ {
+  "id": -736172276,
+  "name": "1. PBC Primus Eschweiler 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "1. PBC Primus Eschweiler",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -660710561,
+  "name": "1. PBC Rot-Gelb Aachen 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -127961371,
+  "name": "1. PBC Rot-Gelb Aachen 2",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "1. PBC Rot-Gelb Aachen",
+  "number": 2,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -7242026,
+  "name": "B4F Düren 07 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "B4F Düren 07",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -602657914,
+  "name": "BC Alsdorf 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "BC Alsdorf",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -510818557,
+  "name": "Bfr. Schwarz-Grün Rothe Erde 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "Bfr. Schwarz-Grün Rothe Erde",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -502390584,
+  "name": "Eine Bande Dürwiß 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "Eine Bande Dürwiß",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -167820887,
+  "name": "PBC Phönix Düren 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Phönix Düren",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -837158750,
+  "name": "PBC Schwarz-Weiß Kohlscheid 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBC Schwarz-Weiß Kohlscheid",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
+ },
+ {
+  "id": -837379638,
+  "name": "PBF 94 Eilendorf 1",
+  "withdrawn": false,
+  "synthetic": true,
+  "club": "PBF 94 Eilendorf",
+  "number": 1,
+  "league_id": 579,
+  "kader": [],
+  "kader_fetched_at": null
  }
 ]

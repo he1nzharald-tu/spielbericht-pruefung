@@ -1,1 +1,138 @@
-[]
+[
+ {
+  "report_id": 55325,
+  "league_id": 576,
+  "st": 7,
+  "detected_at": "2026-11-23T09:25:41Z",
+  "before_hash": "a8e4790f4c34ca4c",
+  "after_hash": "5c2c1e8adceb3264",
+  "diff": [
+   {
+    "field": "Partie 2",
+    "before": {
+     "round": 1,
+     "nr": 2,
+     "discipline": "8-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 1,
+     "nr": 2,
+     "discipline": "8-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   },
+   {
+    "field": "Partie 3",
+    "before": {
+     "round": 1,
+     "nr": 3,
+     "discipline": "9-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 1,
+     "nr": 3,
+     "discipline": "9-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   },
+   {
+    "field": "Partie 4",
+    "before": {
+     "round": 1,
+     "nr": 4,
+     "discipline": "10-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 1,
+     "nr": 4,
+     "discipline": "10-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   },
+   {
+    "field": "Partie 6",
+    "before": {
+     "round": 2,
+     "nr": 6,
+     "discipline": "8-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 2,
+     "nr": 6,
+     "discipline": "8-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   },
+   {
+    "field": "Partie 7",
+    "before": {
+     "round": 2,
+     "nr": 7,
+     "discipline": "9-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 2,
+     "nr": 7,
+     "discipline": "9-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   },
+   {
+    "field": "Partie 8",
+    "before": {
+     "round": 2,
+     "nr": 8,
+     "discipline": "10-Ball",
+     "home": "",
+     "away": ":",
+     "score": null,
+     "points": null
+    },
+    "after": {
+     "round": 2,
+     "nr": 8,
+     "discipline": "10-Ball",
+     "home": "",
+     "away": "",
+     "score": null,
+     "points": null
+    }
+   }
+  ]
+ }
+]

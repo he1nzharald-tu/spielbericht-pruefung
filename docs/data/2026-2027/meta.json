@@ -1,36 +1,21 @@
 {
  "season": "2026/2027",
- "generated_at": "2026-11-23T09:23:49Z",
+ "generated_at": "2026-11-23T09:25:41Z",
  "mode": "inkrementell",
  "last_full_at": "2026-11-23T09:11:14Z",
- "requests": 17,
- "reports_fetched": 13,
+ "requests": 357,
+ "reports_fetched": 262,
  "counts": {
-  "leagues": 3,
-  "teams": 13,
-  "matches": 127,
+  "leagues": 12,
+  "teams": 124,
+  "matches": 865,
   "reports": 275
  },
  "errors": [],
  "warnings": [
-  "Liga 579: Mannschaften ohne ID: 1. PBC Primus Eschweiler 1, 1. PBC Rot-Gelb Aachen 1, 1. PBC Rot-Gelb Aachen 2, B4F Düren 07 1, BC Alsdorf 1, Bfr. Schwarz-Grün Rothe Erde 1, Eine Bande Dürwiß 1, PBC Phönix Düren 1, PBC Schwarz-Weiß Kohlscheid 1, PBF 94 Eilendorf 1",
-  "Liga 579: keine Mannschaften gefunden",
-  "Liga 572: Mannschaften ohne ID: 1. PBC Rot-Gelb Aachen 3, BC 71 Mantinell Erkelenz 1, BV Blaue Pomeranze 1, BV Pool Sharks 1, Bfr. Schwarz-Grün Rothe Erde 2, Billard Sport Verein 76 Venus 1, PBC Blau-Weiß Eilendorf 1, PBC Fortuna Aachen 1, PBC Fortuna Aachen 2, PBC Schwarz-Weiß Kohlscheid 2, PBC Würselen 81 1, PBF 94 Eilendorf 2",
-  "Liga 572: keine Mannschaften gefunden",
-  "Liga 578: Mannschaften ohne ID: B4F Düren 07 2, BC Alsdorf 1, Bfr. Schwarz-Grün Rothe Erde 1, PBC Dürener Billardfreunde 1, PBC Poolicorns e.V. Pokal 1, PBC Schwarz-Weiß Kohlscheid 2",
-  "Bericht 56674: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56676: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56677: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56678: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56679: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56680: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56681: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56682: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56684: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56685: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56686: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56687: Spielbericht: Erfassungszeitpunkt nicht gefunden",
-  "Bericht 56689: Spielbericht: Erfassungszeitpunkt nicht gefunden"
+  "Liga 579: 10 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
+  "Liga 572: 12 Mannschaften ohne eigene Seite (kein Kader abrufbar)",
+  "Liga 578: 6 Mannschaften ohne eigene Seite (kein Kader abrufbar)"
  ],
  "leagues": [
   {
