@@ -18,6 +18,10 @@ on:
         description: "Nur diese Liga-IDs (kommagetrennt, leer = alle)"
         type: string
         default: ""
+      sample_reports:
+        description: "Nur Roh-HTML dieser Spielbericht-IDs speichern (Diagnose)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -56,11 +60,13 @@ jobs:
           FULL: ${{ github.event.inputs.full == 'true' || github.event.schedule == '43 2 * * 1' }}
           SAMPLES: ${{ github.event.inputs.samples == 'true' }}
           LEAGUES: ${{ github.event.inputs.leagues }}
+          SAMPLE_REPORTS: ${{ github.event.inputs.sample_reports }}
         run: |
           ARGS=""
           if [ "$FULL" = "true" ]; then ARGS="$ARGS --full"; fi
           if [ "$SAMPLES" = "true" ]; then ARGS="$ARGS --samples"; fi
           if [ -n "$LEAGUES" ]; then ARGS="$ARGS --leagues $LEAGUES"; fi
+          if [ -n "$SAMPLE_REPORTS" ]; then ARGS="--sample-reports $SAMPLE_REPORTS"; fi
           python scraper/scrape.py $ARGS
 
       - name: Änderungen speichern

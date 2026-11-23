@@ -117,6 +117,7 @@ def main() -> int:
     ap.add_argument("--full", action="store_true")
     ap.add_argument("--samples", action="store_true", help="Roh-HTML je Seitentyp unter debug/samples ablegen")
     ap.add_argument("--leagues", default="", help="Nur diese Liga-IDs (kommagetrennt)")
+    ap.add_argument("--sample-reports", default="", help="Diese Spielbericht-IDs als Roh-HTML unter debug/samples ablegen und beenden")
     args = ap.parse_args()
 
     season = args.season or sorted(CONFIG["seasons"].keys())[-1]
@@ -124,6 +125,20 @@ def main() -> int:
     out = ROOT / "docs" / "data" / slug(season)
     samples = ROOT / "debug" / "samples"
     only = {int(x) for x in args.leagues.split(",") if x.strip()}
+
+    if args.sample_reports:
+        fm = Fetcher()
+        mo = {m["id"]: m for m in load(out / "matches.json", [])}
+        for rid in [int(x) for x in args.sample_reports.split(",") if x.strip()]:
+            lid = mo.get(rid, {}).get("league_id")
+            if lid is None:
+                print("unbekannt:", rid)
+                continue
+            html = fm.get(f"sb_spielbericht.php?p={VID}--{season}-{lid}-0-{rid}")
+            if html:
+                save_sample(samples / f"bericht-{rid}.html", html)
+                print("gespeichert:", rid)
+        return 0
 
     teams_old = {t["id"]: t for t in load(out / "teams.json", [])}
     matches_old = {m["id"]: m for m in load(out / "matches.json", [])}
