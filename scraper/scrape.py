@@ -139,6 +139,15 @@ def main() -> int:
 
     leagues = [lg for lg in scfg["leagues"] if not only or lg["id"] in only]
 
+    # Bei Teilläufen (--leagues) die Daten der übrigen Ligen unverändert übernehmen
+    if only:
+        for t in teams_old.values():
+            if t["league_id"] not in only:
+                teams[t["id"]] = t
+        for m in matches_old.values():
+            if m["league_id"] not in only:
+                matches[m["id"]] = m
+
     # 1) Spielpläne
     for i, lg in enumerate(leagues):
         path = f"sb_spielplan.php?p={VID}--{season}-{lg['id']}"
@@ -176,6 +185,8 @@ def main() -> int:
     for t in teams.values():
         if t["id"] < 0:
             continue  # Mannschaft ohne eigene Seite
+        if only and t["league_id"] not in only:
+            continue
         age_ok = False
         if t.get("kader_fetched_at") and not args.full:
             fetched = datetime.strptime(t["kader_fetched_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -213,6 +224,8 @@ def main() -> int:
     for m in matches.values():
         played = m.get("result") is not None
         if not played or m.get("bye"):
+            continue
+        if only and m["league_id"] not in only:
             continue
         mid = m["id"]
         old = reports.get(mid)
@@ -272,7 +285,8 @@ def main() -> int:
         "last_full_at": now_iso if args.full else meta_old.get("last_full_at"),
         "requests": f.count,
         "reports_fetched": fetched_reports,
-        "counts": {"leagues": len(leagues), "teams": len(teams), "matches": len(matches), "reports": len(reports)},
+        "counts": {"leagues": len(scfg["leagues"]), "teams": len(teams), "matches": len(matches), "reports": len(reports)},
+        "partial_leagues": sorted(only) if only else None,
         "errors": f.errors,
         "warnings": warnings[:500],
         "leagues": scfg["leagues"],
