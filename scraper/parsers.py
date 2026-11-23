@@ -306,6 +306,44 @@ def _row_cells(tr: Tag) -> list[str]:
     return out
 
 
+FIELD_STOP = r"Beschreibung|Bemerkung|Protest|Spielbericht erfasst|Zu Null Sieg"
+
+
+def _labeled_field(soup: BeautifulSoup, full_text: str, label: str) -> str:
+    """Wert eines beschrifteten Feldes (z. B. 'Beschreibung', 'Protest'); leer, wenn nicht vorhanden."""
+    lab = re.compile(rf"^\s*(?:{label})\s*:?\s*$", re.I)
+    # Aufbau auf billard-blmr.de: <fieldset><legend>Protest</legend><label>Text</label></fieldset>
+    for lg in soup.find_all("legend"):
+        if lab.match(clean(lg.get_text(" "))):
+            fs = lg.find_parent("fieldset")
+            if fs is not None:
+                parts = [clean(x.get_text(" ")) for x in fs.find_all(["label", "p", "div", "span", "textarea"])]
+                val = " ".join(p for p in parts if p) or clean(fs.get_text(" ").replace(lg.get_text(" "), "", 1))
+                return val
+    for el in soup.find_all(string=lab):
+        cell = el.find_parent(["td", "th", "div", "dt", "label", "b", "strong", "span", "p"])
+        val = ""
+        if cell is not None:
+            # Wert in der Nachbarzelle bzw. im nächsten Geschwister-Element
+            host = cell if cell.name in ("td", "th", "dt", "div", "p") else (cell.find_parent(["td", "th", "dt", "div", "p"]) or cell)
+            sib = host.find_next_sibling()
+            if sib is not None:
+                val = clean(sib.get_text(" "))
+            if not val:
+                rest = clean(host.get_text(" "))
+                rest = re.sub(rf"^\s*(?:{label})\s*:?\s*", "", rest, flags=re.I)
+                val = rest
+        if not val:
+            n2 = el.find_next(string=lambda x: clean(x) != "")
+            val = clean(n2) if n2 else ""
+        if val and not re.match(rf"^(?:{FIELD_STOP})\b", val, re.I):
+            return val
+    m = re.search(rf"(?:{label})\s*:?\s*(.*?)\s*(?:{FIELD_STOP}|$)", full_text, re.I)
+    if m and m.group(1) and not re.match(r"^\s*$", m.group(1)):
+        return clean(m.group(1))[:500]
+    return ""
+
+
 def parse_spielbericht(html: str) -> dict:
     soup = soup_of(html)
     warnings: list[str] = []
@@ -379,24 +417,8 @@ def parse_spielbericht(html: str) -> dict:
     if m:
         endstand = [int(m.group(1)), int(m.group(2))]
 
-    description = ""
-    for el in soup.find_all(string=re.compile(r"^\s*(Beschreibung|Bemerkung)\s*:?\s*$", re.I)):
-        cell = el.find_parent(["td", "th", "div", "dt", "label", "b", "strong", "span"])
-        nxt = None
-        if cell is not None:
-            sib = cell.find_next_sibling()
-            if sib is not None:
-                nxt = clean(sib.get_text(" "))
-        if not nxt:
-            n2 = el.find_next(string=lambda x: clean(x) != "")
-            nxt = clean(n2) if n2 else ""
-        if nxt and not re.match(r"^(Protest|Spielbericht erfasst)", nxt, re.I):
-            description = nxt
-            break
-    if not description:
-        dm = re.search(r"Beschreibung:?\s*(.*?)\s*(?:Protest|Spielbericht erfasst|$)", full_text, re.I)
-        if dm:
-            description = clean(dm.group(1))
+    description = _labeled_field(soup, full_text, r"Beschreibung|Bemerkung")
+    protest = _labeled_field(soup, full_text, r"Protest")
 
     captured_by = captured_at = None
     cm = CAPTURED_RE.search(full_text)
@@ -422,6 +444,7 @@ def parse_spielbericht(html: str) -> dict:
         "games": games,
         "endstand": endstand,
         "description": description,
+        "protest": protest,
         "captured_by": captured_by,
         "captured_at": captured_at,
         "zu_null": zu_null,

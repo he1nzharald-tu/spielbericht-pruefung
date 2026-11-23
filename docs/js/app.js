@@ -282,10 +282,10 @@ function renderReports(v) {
   ms.sort((a, b) => a.st - b.st || a.league_id - b.league_id || (a.date || "").localeCompare(b.date || ""));
   if (f.q) ms = ms.filter((m) => {
     const r = reports[String(m.id)];
-    return [state.teamsById.get(m.home_id)?.name, state.teamsById.get(m.away_id)?.name, r?.description, ...(r?.games || []).flatMap((g) => [g.home, g.away])].join(" ").toLowerCase().includes(f.q);
+    return [state.teamsById.get(m.home_id)?.name, state.teamsById.get(m.away_id)?.name, r?.description, r?.protest, ...(r?.games || []).flatMap((g) => [g.home, g.away])].join(" ").toLowerCase().includes(f.q);
   });
   v.innerHTML = ms.length ? `<div class="table-wrap"><table class="data">
-    <thead><tr><th>ST</th><th>Liga</th><th>Datum</th><th>Begegnung</th><th>Ergebnis</th><th>Beschreibung</th><th>Erfasst</th><th>Fälle</th></tr></thead>
+    <thead><tr><th>ST</th><th>Liga</th><th>Datum</th><th>Begegnung</th><th>Ergebnis</th><th>Beschreibung / Protest</th><th>Erfasst</th><th>Fälle</th></tr></thead>
     <tbody>${ms.map((m) => {
       const r = reports[String(m.id)];
       const score = findingsByMatch.get(m.id) || 0;
@@ -295,7 +295,7 @@ function renderReports(v) {
         <td>${fmtD(m.date)}${m.time ? " " + m.time : ""}</td>
         <td><a href="${esc(BASE_URL + m.url)}" target="_blank" rel="noopener">${esc(state.teamsById.get(m.home_id)?.name || "?")} – ${esc(state.teamsById.get(m.away_id)?.name || "?")}</a></td>
         <td>${fmtRes(r?.endstand || m.result)}</td>
-        <td>${esc(r?.description || (m.memo || []).join("; "))}</td>
+        <td>${esc(r?.description || (m.memo || []).join("; "))}${r?.protest ? `<br><span class="muted">Protest:</span> ${esc(r.protest)}` : ""}</td>
         <td>${r?.captured_at ? fmtDT(r.captured_at) + "<br><span class='muted'>" + esc(r.captured_by || "") + "</span>" : r ? "–" : "<span class='muted'>nicht geladen</span>"}</td>
         <td>${nV ? `<span class="chip verstoss">${nV}</span> ` : ""}${nH ? `<span class="chip hinweis">${nH}</span>` : ""}</td>
       </tr>`;

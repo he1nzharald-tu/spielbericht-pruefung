@@ -153,3 +153,16 @@ test("Vereinsduell (B2) und Verlegungen (B1)", () => {
 test("Keine falschen Springer bei regulären Einsätzen", () => {
   assert.equal(res.springer.filter((s) => !["Sabine Sparacio", "Max Muster"].includes(s.name)).length, 0);
 });
+
+test("Wertung ohne Partien: Hinweis mit Protest-/Beschreibungstext (Nichtantreten)", () => {
+  const games = [1, 2, 3, 4, 5, 6, 7, 8].map((nr) => ({ round: nr <= 4 ? 1 : 2, nr, discipline: disc[(nr - 1) % 4], home: "", away: "", score: nr % 4 === 1 ? [0, 0] : null, points: null }));
+  const id = M(576, 7, "2026-11-21", 12, 3, { games, endstand: [8, 0], description: "", protest: "BC Alsdorf 6 nicht spielfähig; am Spieltag entschuldigt.", captured_by: "X", captured_at: "2026-11-21T14:33", zu_null: false });
+  const r = analyze({ meta, teams, matches, reports, changes: [] }, { today: "2026-11-23" });
+  const f = r.findings.filter((x) => x.matchId === id && x.code === "B7Z");
+  assert.equal(f.length, 1);
+  assert.equal(f[0].severity, "hinweis");
+  assert.equal(f[0].team, "BC Alsdorf 6");
+  assert.match(f[0].detail, /nicht spielfähig/);
+  assert.equal(f[0].penalty.sto, "10.5.3");
+  assert.equal(r.findings.filter((x) => x.matchId === id && ["A1", "A4", "A7"].includes(x.code)).length, 0);
+});

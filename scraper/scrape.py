@@ -92,13 +92,18 @@ def save(path: Path, data) -> None:
 
 
 def report_fingerprint(r: dict) -> str:
-    core = {k: r.get(k) for k in ("games", "endstand", "description", "captured_by", "captured_at", "zu_null")}
+    keys = ["games", "endstand", "description", "captured_by", "captured_at", "zu_null"]
+    if r.get("protest"):
+        keys.append("protest")  # nur wenn gefüllt -> alte Fingerabdrücke bleiben gültig
+    core = {k: r.get(k) for k in keys}
     return hashlib.sha256(json.dumps(core, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
 
 
 def diff_reports(old: dict, new: dict) -> list[dict]:
     out = []
-    for k in ("endstand", "description", "captured_by", "captured_at", "zu_null"):
+    for k in ("endstand", "description", "protest", "captured_by", "captured_at", "zu_null"):
+        if k == "protest" and "protest" not in old:
+            continue  # Feld neu eingeführt, keine echte Änderung
         if old.get(k) != new.get(k):
             out.append({"field": k, "before": old.get(k), "after": new.get(k)})
     og, ng = old.get("games") or [], new.get("games") or []
@@ -272,7 +277,7 @@ def main() -> int:
         r["hash"] = report_fingerprint(r)
         r["fetched_at"] = now_iso
         r["first_fetched_at"] = (old or {}).get("first_fetched_at") or now_iso
-        if old and old.get("hash") != r["hash"]:
+        if old and old.get("hash") != r["hash"] and diff_reports(old, r):
             changes.append({
                 "report_id": mid, "league_id": m["league_id"], "st": m.get("st"),
                 "detected_at": now_iso, "before_hash": old.get("hash"), "after_hash": r["hash"],

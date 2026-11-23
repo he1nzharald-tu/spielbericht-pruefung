@@ -20,6 +20,14 @@ export const PENALTIES = {
     sto: "10.5.8", nr: 13, betrag: 100,
     text: "Die Begegnung wird für beide Mannschaften mit dem größtmöglichen Ergebnis als verloren gewertet. Bußgeld je 100,00 € (Bußgeldkatalog Nr. 13).",
   },
+  "10.5.3": {
+    sto: "10.5.3", nr: 11, betrag: 100,
+    text: "Unentschuldigtes Nichtantreten: Die Begegnung wird mit dem größtmöglichen Ergebnis als verloren gewertet. Bußgeld 100,00 € (Bußgeldkatalog Nr. 11).",
+  },
+  "10.5.4": {
+    sto: "10.5.4", nr: 12, betrag: 50,
+    text: "Entschuldigtes Nichtantreten: Die Begegnung wird mit dem größtmöglichen Ergebnis als verloren gewertet. Bußgeld 50,00 € (Bußgeldkatalog Nr. 12). Die Entschuldigung gilt nur, wenn sie dem 1. Sportwart spätestens 24 Stunden vor dem Spieltermin vorlag.",
+  },
   none: {
     sto: null, nr: null, betrag: null,
     text: "Die STO nennt hierfür keine ausdrückliche Sanktion – Entscheidung durch den 1. Sportwart.",
@@ -54,7 +62,9 @@ export const RULES = {
   B3: "Spieler einer abgemeldeten Mannschaft in unterklassiger Mannschaft",
   B4: "Einsatz in unterklassiger Mannschaft (Wechsel nach unten, 10.6.2)",
   B7: "Mannschaft dreimal nicht angetreten",
-  B7Z: "Wertung ohne Einzelpartien (zu Null)",
+  B7Z: "Wertung ohne gespielte Partien",
+  P1: "Eintrag im Protest-Feld",
+  D1: "Vermerk in der Beschreibung",
   CH: "Spielbericht nachträglich geändert",
 };
 
@@ -173,11 +183,50 @@ export function analyze(data, settings = {}) {
       }
     }
 
-    // B7Z: zu Null (Wertung ohne gespielte Partien)
+    const desc = (r.description || "").trim();
+    const prot = (r.protest || "").trim();
+    const notes = [desc && `Beschreibung: „${desc}“`, prot && `Protest: „${prot}“`].filter(Boolean).join(" · ");
+
+    // B7Z: Wertung ohne gespielte Partien – immer Hinweis mit Beschreibung/Protest
     if (isZuNull(r)) {
-      add({ ...baseOf(m), code: "B7Z", severity: "info", teamId: m.home_id, opponentId: m.away_id,
-        title: RULES.B7Z, detail: `Endstand ${fmtRes(r.endstand || m.result)} ohne gespielte Einzelpartien.`, penalty: PENALTIES.none, sto: "10.8.1" });
+      const res = r.endstand || m.result || [0, 0];
+      let loser = res[0] < res[1] ? m.home_id : res[1] < res[0] ? m.away_id : null;
+      const txt = (desc + " " + prot).toLowerCase();
+      for (const tid of [m.home_id, m.away_id]) {
+        const nm = teamById.get(tid)?.name?.toLowerCase();
+        if (nm && txt.includes(nm)) loser = tid;
+      }
+      const winner = loser === m.home_id ? m.away_id : m.home_id;
+      const nichtAngetreten = /nicht\s*(spielfähig|angetreten|erschienen)|abgesagt|kein(e)?\s*(mannschaft|spieler)/.test(txt);
+      const entschuldigt = /entschuldigt/.test(txt) && !/unentschuldigt/.test(txt);
+      const amSpieltag = /am\s*spieltag|kurzfristig|am\s*selben\s*tag/.test(txt);
+      let pen = PENALTIES.none, extra = "";
+      if (nichtAngetreten || entschuldigt) {
+        if (entschuldigt && amSpieltag) {
+          pen = PENALTIES["10.5.3"];
+          extra = " Entschuldigung „am Spieltag“: nach 10.5.4 nur gültig, wenn sie mind. 24 Std. vor dem Termin beim 1. Sportwart vorlag – sonst unentschuldigt (10.5.3).";
+        } else if (entschuldigt) {
+          pen = PENALTIES["10.5.4"];
+          extra = " Prüfen, ob die Entschuldigung mind. 24 Std. vorher beim 1. Sportwart vorlag.";
+        } else {
+          pen = PENALTIES["10.5.4"];
+          extra = " Entschuldigt (10.5.4, 50 €) oder unentschuldigt (10.5.3, 100 €)?";
+        }
+      }
+      add({ ...baseOf(m), code: "B7Z", severity: "hinweis", teamId: loser || m.home_id, opponentId: loser ? winner : m.away_id,
+        title: RULES.B7Z + (nichtAngetreten ? " – Nichtantreten" : ""),
+        detail: `Endstand ${fmtRes(res)} ohne gespielte Einzelpartien. ` + (notes ? notes + "." : "Keine Begründung in Beschreibung oder Protest angegeben.") + extra,
+        penalty: pen, sto: pen.sto ? `${pen.sto} / 10.8.1` : "10.8.1", note: notes });
       continue;
+    }
+
+    // Eintrag im Protest-Feld / sonstiger Vermerk in der Beschreibung
+    if (prot) {
+      add({ ...baseOf(m), code: "P1", severity: "hinweis", teamId: m.home_id, opponentId: m.away_id, title: RULES.P1,
+        detail: `Protest: „${prot}“` + (desc ? ` · Beschreibung: „${desc}“` : ""), penalty: PENALTIES.none, sto: "10.4.4" });
+    } else if (desc && !/springer/i.test(desc)) {
+      add({ ...baseOf(m), code: "D1", severity: "hinweis", teamId: m.home_id, opponentId: m.away_id, title: RULES.D1,
+        detail: `Beschreibung: „${desc}“`, penalty: PENALTIES.none, sto: "10.4.4" });
     }
     if (!games.length) continue;
 

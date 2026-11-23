@@ -36,6 +36,8 @@ billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ─�
 | A4E | Leeres Spielerfeld (z. B. erster Springer-Einsatz) | Springer-Regelung | Hinweis |
 | A6 | Spielbericht nicht bis 14:00 Uhr des Folgetags erfasst | 10.3.1/10.3.2 | Verstoß (Hinweis bei Erfassung durch Sportwart) |
 | A7 | Endstand passt nicht zu den Einzelergebnissen | 10.3.2 | Verstoß |
+| B7Z | Wertung ohne gespielte Partien – Hinweis mit Beschreibung/Protest, bei Nichtantreten mit 10.5.3/10.5.4 | 10.5.3, 10.5.4, 10.8.1 | Hinweis |
+| P1/D1 | Eintrag im Protest-Feld bzw. sonstiger Vermerk in der Beschreibung | 10.4.4 | Hinweis |
 | A7R/A7S | Ausspielziel nicht erreicht; Spielplan ≠ Spielbericht | 11.x.4, 10.7 | Hinweis |
 | A8/A9/A10 | > 2 Mannschaften eines Vereins je Gruppe; > 10 Spieler im Kader; Spieler in zwei Kombi-Kadern | 11.8, 4.1.3, 4.1.4 | Hinweis |
 | K1/K2 | Spieler in keinem Kader; Einsatz für anderen Verein | 10.2.1, 2.6.7, 2.7.1 | Hinweis |
