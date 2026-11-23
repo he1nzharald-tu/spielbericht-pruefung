@@ -207,11 +207,19 @@ def parse_spielplan(html: str, league_id: int) -> dict:
         elif cand["memo"] and not old["memo"]:
             old["memo"] = cand["memo"]
 
+    # Freilos / spielfrei sind keine Mannschaften
+    for tid in [tid for tid, t in teams.items() if t["name"].lower() in {"spielfrei", "freilos", "frei"}]:
+        del teams[tid]
+
     # Namen -> Mannschafts-IDs
     by_name = {clean(t["name"]).lower(): tid for tid, t in teams.items() if t["name"]}
     unknown = set()
+    BYE = {"spielfrei", "freilos", "frei"}
     for m in matches.values():
         for side in ("home", "away"):
+            if m[f"{side}_name"].lower() in BYE:
+                m["bye"] = True
+                continue
             if m[f"{side}_id"] is None and m[f"{side}_name"]:
                 tid = by_name.get(m[f"{side}_name"].lower())
                 if tid is None:

@@ -152,8 +152,8 @@ def main() -> int:
                 if m["league_id"] == lg["id"]:
                     matches[m["id"]] = m
             continue
-        if args.samples and i == 0:
-            save_sample(samples / "spielplan.html", html)
+        if args.samples:
+            save_sample(samples / f"spielplan-{lg['id']}.html", html)
         parsed = parse_spielplan(html, lg["id"])
         warnings += parsed["warnings"]
         for t in parsed["teams"]:
@@ -172,7 +172,7 @@ def main() -> int:
                 teams[tid] = teams_old[tid]
 
     # 2) Kader
-    first_sample = True
+    kader_sampled: set[int] = set()
     for t in teams.values():
         age_ok = False
         if t.get("kader_fetched_at") and not args.full:
@@ -183,9 +183,9 @@ def main() -> int:
         html = f.get(f"sb_mannschaft.php?p={VID}--{season}-{t['league_id']}-0-{t['id']}")
         if html is None:
             continue
-        if args.samples and first_sample:
-            save_sample(samples / "kader.html", html)
-            first_sample = False
+        if args.samples and t["league_id"] not in kader_sampled:
+            save_sample(samples / f"kader-{t['league_id']}.html", html)
+            kader_sampled.add(t["league_id"])
         pk = parse_kader(html)
         if pk["warnings"]:
             warnings += [f"{t['name']}: {w}" for w in pk["warnings"]]
@@ -206,7 +206,7 @@ def main() -> int:
     # 3) Spielberichte
     today = now.date()
     rotate_bucket = today.toordinal() % ROTATE_DAYS
-    first_sample = True
+    report_sampled: set[int] = set()
     fetched_reports = 0
     for m in matches.values():
         played = m.get("result") is not None
@@ -231,9 +231,9 @@ def main() -> int:
         if html is None:
             continue
         fetched_reports += 1
-        if args.samples and first_sample and m.get("st") == 1:
-            save_sample(samples / "spielbericht.html", html)
-            first_sample = False
+        if args.samples and m["league_id"] not in report_sampled:
+            save_sample(samples / f"spielbericht-{m['league_id']}.html", html)
+            report_sampled.add(m["league_id"])
         r = parse_spielbericht(html)
         if r["warnings"]:
             warnings += [f"Bericht {mid}: {w}" for w in r["warnings"]]
