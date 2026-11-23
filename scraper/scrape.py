@@ -21,6 +21,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -122,6 +123,7 @@ def main() -> int:
     ap.add_argument("--full", action="store_true")
     ap.add_argument("--samples", action="store_true", help="Roh-HTML je Seitentyp unter debug/samples ablegen")
     ap.add_argument("--leagues", default="", help="Nur diese Liga-IDs (kommagetrennt)")
+    ap.add_argument("--diag-pages", default="", help="Diese Seiten (Pfade, kommagetrennt) als Roh-HTML speichern und beenden")
     ap.add_argument("--sample-reports", default="", help="Diese Spielbericht-IDs als Roh-HTML unter debug/samples ablegen und beenden")
     args = ap.parse_args()
 
@@ -130,6 +132,16 @@ def main() -> int:
     out = ROOT / "docs" / "data" / slug(season)
     samples = ROOT / "debug" / "samples"
     only = {int(x) for x in args.leagues.split(",") if x.strip()}
+
+    if args.diag_pages:
+        fm = Fetcher()
+        for path in [x.strip() for x in args.diag_pages.split(",") if x.strip()]:
+            html = fm.get(path)
+            name = re.sub(r"[^A-Za-z0-9]+", "_", path).strip("_")[:80]
+            if html:
+                save_sample(samples / f"page-{name}.html", html)
+                print("gespeichert:", path)
+        return 0
 
     if args.sample_reports:
         fm = Fetcher()
