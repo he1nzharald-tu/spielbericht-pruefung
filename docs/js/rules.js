@@ -155,6 +155,7 @@ export function analyze(data, settings = {}) {
     const lg = leagues.get(m.league_id) || {};
     const c = lg.competition || "kombi";
     const games = r.games || [];
+    const sec = c === "senioren" ? "11.7" : c === "pokal" ? "11.6" : "11." + Math.min(5, Math.max(1, lg.level || 1));
 
     // A6: Erfassungsfrist
     if (r.captured_at && m.date) {
@@ -191,14 +192,14 @@ export function analyze(data, settings = {}) {
         if (race && g.points && Math.max(...g.points) !== race && g.home && g.away) {
           add({ ...baseOf(m), code: "A7R", severity: "hinweis", teamId: m.home_id, opponentId: m.away_id, extra: g.nr,
             title: RULES.A7R, detail: `Partie ${g.nr} (14.1): ${g.points.join(":")} Punkte, Ausspielziel ${race}. Mögliche Aufgabe oder Tippfehler.`,
-            penalty: PENALTIES["10.3.2"], sto: "11.x.4 / 10.3.2" });
+            penalty: PENALTIES["10.3.2"], sto: sec + ".4 / 10.3.2" });
         }
       } else {
         const race = raceTab[g.discipline];
         if (race && Math.max(h, a) !== race && g.home && g.away && !(c === "pokal" && (g.nr || 0) > 8)) {
           add({ ...baseOf(m), code: "A7R", severity: "hinweis", teamId: m.home_id, opponentId: m.away_id, extra: g.nr,
             title: RULES.A7R, detail: `Partie ${g.nr} (${g.discipline}): ${h}:${a}, Ausspielziel ${race}. Mögliche Aufgabe oder Tippfehler.`,
-            penalty: PENALTIES["10.3.2"], sto: "11.x.4 / 10.3.2" });
+            penalty: PENALTIES["10.3.2"], sto: sec + ".4 / 10.3.2" });
         }
       }
     }
@@ -233,7 +234,7 @@ export function analyze(data, settings = {}) {
         const relevant = (discRound.get(k) || []).filter((g) => !g.nr || g.nr <= maxGames).length;
         if (relevant > 2) {
           add({ ...baseOf(m), code: "A1", severity: "verstoss", teamId: tid, opponentId: oid, playerKey: k, player: displayName.get(k),
-            title: RULES.A1, detail: `${displayName.get(k)} spielt ${relevant} Partien für ${team?.name}.`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.6" : c === "pokal" ? "11.6.7" : "11.x.6" });
+            title: RULES.A1, detail: `${displayName.get(k)} spielt ${relevant} Partien für ${team?.name}.`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.6" : c === "pokal" ? "11.6.7" : sec + ".6" });
         }
       }
       for (const [rk, n] of perRound) {
@@ -241,7 +242,7 @@ export function analyze(data, settings = {}) {
         const inRegular = (discRound.get(k) || []).filter((g) => String(g.round) === rd && (!g.nr || g.nr <= maxGames)).length;
         if (inRegular > 1) {
           add({ ...baseOf(m), code: "A1R", severity: "verstoss", teamId: tid, opponentId: oid, playerKey: k, player: displayName.get(k), extra: rd,
-            title: RULES.A1R, detail: `${displayName.get(k)} spielt im ${rd}. Durchgang ${inRegular} Partien für ${team?.name}.`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.6" : c === "pokal" ? "11.6.7" : "11.x.6" });
+            title: RULES.A1R, detail: `${displayName.get(k)} spielt im ${rd}. Durchgang ${inRegular} Partien für ${team?.name}.`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.6" : c === "pokal" ? "11.6.7" : sec + ".6" });
         }
       }
       if (c === "senioren") {
@@ -260,7 +261,7 @@ export function analyze(data, settings = {}) {
       const minAllowed = minFull - 1;
       if (distinct < minAllowed) {
         add({ ...baseOf(m), code: "A4", severity: "verstoss", teamId: tid, opponentId: oid,
-          title: RULES.A4, detail: `${team?.name} ist mit nur ${distinct} Spielern angetreten (mindestens ${minAllowed}).`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.3" : "11.x.3" });
+          title: RULES.A4, detail: `${team?.name} ist mit nur ${distinct} Spielern angetreten (mindestens ${minAllowed}).`, penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.3" : sec + ".3" });
       } else if (distinct === minAllowed) {
         const expected = expectedDropped(c, games);
         const emptyIds = empty.map((g) => gameId(g));
@@ -269,7 +270,7 @@ export function analyze(data, settings = {}) {
         if (wrong.length || missing.length) {
           add({ ...baseOf(m), code: "A4", severity: "hinweis", teamId: tid, opponentId: oid,
             title: RULES.A4, detail: `${team?.name} mit ${distinct} Spielern: Entfallen müssten ${expected.join(", ") || "–"}, leer sind ${emptyIds.join(", ") || "keine"}.`,
-            penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.3" : c === "pokal" ? "11.6.4" : "11.x.3" });
+            penalty: PENALTIES.none, sto: c === "senioren" ? "11.7.3" : c === "pokal" ? "11.6.4" : sec + ".3" });
         }
       } else if (empty.length) {
         add({ ...baseOf(m), code: "A4E", severity: "hinweis", teamId: tid, opponentId: oid,

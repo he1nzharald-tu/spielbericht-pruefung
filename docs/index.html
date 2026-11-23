@@ -23,11 +23,15 @@
       </div>
     </div>
     <div class="top-actions">
-      <button id="btn-pdf" class="btn primary" type="button">PDF-Bericht</button>
+      <button id="btn-pdf" class="btn primary" type="button">PDF</button>
     </div>
   </header>
 
-  <section class="filters" aria-label="Filter">
+  <button id="btn-filter" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filters">
+    <span>Filter</span> <span id="filter-summary" class="muted"></span>
+  </button>
+
+  <section class="filters" id="filters" aria-label="Filter">
     <label>Saison <select id="f-season"></select></label>
     <label>Spieltag von <select id="f-st-from"></select></label>
     <label>bis <select id="f-st-to"></select></label>

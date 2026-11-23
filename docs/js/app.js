@@ -159,6 +159,9 @@ function filteredFindings({ includeNoSt = true } = {}) {
 
 function render() {
   if (!state.data) return;
+  const f = filters();
+  const sevs = Object.entries(f.sev).filter(([, v]) => v).map(([k]) => SEVL[k]).join(", ");
+  $("#filter-summary").textContent = [`ST ${f.stFrom === f.stTo ? f.stFrom : f.stFrom + "–" + f.stTo}`, filterText(f), sevs].filter(Boolean).join(" · ");
   $$(".tabs button").forEach((b) => b.classList.toggle("active", b.dataset.tab === state.tab));
   const v = $("#view");
   ({ faelle: renderCases, springer: renderSpringer, berichte: renderReports, aenderungen: renderChanges, einstellungen: renderSettings })[state.tab](v);
@@ -487,6 +490,10 @@ function findCase(id) {
 }
 
 function bindStatic() {
+  $("#btn-filter").addEventListener("click", () => {
+    const open = $("#filters").classList.toggle("open");
+    $("#btn-filter").setAttribute("aria-expanded", String(open));
+  });
   $$(".tabs button").forEach((b) => b.addEventListener("click", () => { state.tab = b.dataset.tab; render(); $("#view").focus({ preventScroll: true }); }));
   ["#f-st-from", "#f-st-to", "#f-league", "#f-club", "#f-status", "#f-sev-verstoss", "#f-sev-hinweis", "#f-sev-info"].forEach((s) =>
     $(s).addEventListener("change", () => {
@@ -528,7 +535,7 @@ function bindStatic() {
       toast("PDF fehlgeschlagen: " + e.message);
     } finally {
       btn.disabled = false;
-      btn.textContent = "PDF-Bericht";
+      btn.textContent = "PDF";
     }
   });
 
