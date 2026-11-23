@@ -119,8 +119,17 @@
   ],
   "id": 54753,
   "hash": "e8a3a118423227e2",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T22:20",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-19T22:20",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54754": {
   "games": [
@@ -242,8 +251,17 @@
   ],
   "id": 54754,
   "hash": "0b61490b6edb4c1a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T22:19",
+  "captured_first_by": "Werner Ertel",
+  "capture_history": [
+   {
+    "at": "2026-09-19T22:19",
+    "by": "Werner Ertel",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54756": {
   "games": [
@@ -365,8 +383,17 @@
   ],
   "id": 54756,
   "hash": "d9182d7c4b6d7ac8",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-14T07:22",
+  "captured_first_by": "Marco Bardischewski",
+  "capture_history": [
+   {
+    "at": "2026-09-14T07:22",
+    "by": "Marco Bardischewski",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54757": {
   "games": [
@@ -488,8 +515,17 @@
   ],
   "id": 54757,
   "hash": "9ccd565c8a4b8a03",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:02",
+  "captured_first_by": "Marco Jansen",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:02",
+    "by": "Marco Jansen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54758": {
   "games": [
@@ -611,8 +647,17 @@
   ],
   "id": 54758,
   "hash": "390aa7709ea28a4d",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T18:49",
+  "captured_first_by": "Norman Jansen",
+  "capture_history": [
+   {
+    "at": "2026-09-26T18:49",
+    "by": "Norman Jansen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54760": {
   "games": [
@@ -734,8 +779,17 @@
   ],
   "id": 54760,
   "hash": "f4d8cf7bd2b4344b",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-05T14:05",
+  "captured_first_by": "Dieter Schwan",
+  "capture_history": [
+   {
+    "at": "2026-09-05T14:05",
+    "by": "Dieter Schwan",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54761": {
   "games": [
@@ -857,8 +911,17 @@
   ],
   "id": 54761,
   "hash": "f6ff5145829ef928",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T20:24",
+  "captured_first_by": "Achim Rohn",
+  "capture_history": [
+   {
+    "at": "2026-09-26T20:24",
+    "by": "Achim Rohn",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54762": {
   "games": [
@@ -980,7 +1043,7 @@
   ],
   "id": 54762,
   "hash": "edb0283931a6a425",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-04T14:50",
   "captured_first_by": "Sebastian Lauer",
@@ -1112,7 +1175,7 @@
   ],
   "id": 54764,
   "hash": "8e05ca9f3731f85e",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-24T21:07",
   "captured_first_by": "Markus Schneider",
@@ -1244,8 +1307,17 @@
   ],
   "id": 54765,
   "hash": "952f294da8f1d180",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T20:50",
+  "captured_first_by": "Norbert Radtke",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:50",
+    "by": "Norbert Radtke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54766": {
   "games": [
@@ -1367,8 +1439,17 @@
   ],
   "id": 54766,
   "hash": "c0e7c808015f7208",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T19:32",
+  "captured_first_by": "Marco Bardischewski",
+  "capture_history": [
+   {
+    "at": "2026-10-03T19:32",
+    "by": "Marco Bardischewski",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54767": {
   "games": [
@@ -1490,8 +1571,17 @@
   ],
   "id": 54767,
   "hash": "506ac9726ef40abc",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T20:12",
+  "captured_first_by": "Marco Jansen",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:12",
+    "by": "Marco Jansen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54768": {
   "games": [
@@ -1613,7 +1703,7 @@
   ],
   "id": 54768,
   "hash": "66bff88cf8c3af16",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T22:32",
   "captured_first_by": "Rolf Zander",
@@ -1745,7 +1835,7 @@
   ],
   "id": 54769,
   "hash": "58d2ab481e2c29be",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:39",
   "captured_first_by": "Achim Rohn",
@@ -1877,7 +1967,7 @@
   ],
   "id": 54770,
   "hash": "a82da37c85bee042",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:13",
   "captured_first_by": "Sebastian Lauer",
@@ -2009,7 +2099,7 @@
   ],
   "id": 54771,
   "hash": "127d8b67204d81f5",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T18:20",
   "captured_first_by": "Norman Jansen",
@@ -2141,7 +2231,7 @@
   ],
   "id": 54773,
   "hash": "b28248a0450e1de5",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-22T09:30",
   "captured_first_by": "Wolfgang Romich",
@@ -2273,7 +2363,7 @@
   ],
   "id": 54774,
   "hash": "34ef30fe70e87500",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T21:35",
   "captured_first_by": "Markus Schneider",
@@ -2405,7 +2495,7 @@
   ],
   "id": 54775,
   "hash": "ff1f97e6705b2d5c",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T21:27",
   "captured_first_by": "Norbert Radtke",
@@ -2537,7 +2627,7 @@
   ],
   "id": 54776,
   "hash": "7da51d3c3c78eede",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T18:56",
   "captured_first_by": "Norman Jansen",
@@ -2669,7 +2759,7 @@
   ],
   "id": 54778,
   "hash": "5d639c129374ae9b",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T21:34",
   "captured_first_by": "Markus Schneider",
@@ -2801,7 +2891,7 @@
   ],
   "id": 54779,
   "hash": "87c4ddded8074e32",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T20:07",
   "captured_first_by": "Marco Jansen",
@@ -2933,7 +3023,7 @@
   ],
   "id": 54781,
   "hash": "eff0b9f4ca4b3c25",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-15T21:41",
   "captured_first_by": "Marco Bardischewski",
@@ -3065,7 +3155,7 @@
   ],
   "id": 54783,
   "hash": "a5c39fa7f0aead0b",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-22T09:33",
   "captured_first_by": "Wolfgang Romich",
@@ -3197,7 +3287,7 @@
   ],
   "id": 54784,
   "hash": "fd79f7444ff75121",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T16:15",
   "captured_first_by": "Norbert Radtke",
@@ -3329,7 +3419,7 @@
   ],
   "id": 54785,
   "hash": "7771d3f71e102159",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T19:50",
   "captured_first_by": "Sebastian Lauer",
@@ -3461,7 +3551,7 @@
   ],
   "id": 54786,
   "hash": "7f52f2ea9c8fe99b",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T17:19",
   "captured_first_by": "Marco Bardischewski",
@@ -3593,8 +3683,17 @@
   ],
   "id": 54843,
   "hash": "2ad7cbf1788a4535",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-20T08:32",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-20T08:32",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54844": {
   "games": [
@@ -3716,8 +3815,17 @@
   ],
   "id": 54844,
   "hash": "58c289246346da34",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-10T20:05",
+  "captured_first_by": "Stefan Nipps",
+  "capture_history": [
+   {
+    "at": "2026-10-10T20:05",
+    "by": "Stefan Nipps",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54845": {
   "games": [
@@ -3839,8 +3947,17 @@
   ],
   "id": 54845,
   "hash": "29a573d80080bc56",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-19T20:43",
+  "captured_first_by": "Viktor Pucihar",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:43",
+    "by": "Viktor Pucihar",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54846": {
   "games": [
@@ -3962,7 +4079,7 @@
   ],
   "id": 54846,
   "hash": "48896bed4ba03e79",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-24T20:05",
   "captured_first_by": "Jens Rittmeyer",
@@ -4094,8 +4211,17 @@
   ],
   "id": 54847,
   "hash": "fcafe96d8c6cf91a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-20T13:20",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-20T13:20",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54848": {
   "games": [
@@ -4217,8 +4343,17 @@
   ],
   "id": 54848,
   "hash": "642b0e28d6d2ec8d",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-26T20:44",
+  "captured_first_by": "Frank Stefani",
+  "capture_history": [
+   {
+    "at": "2026-09-26T20:44",
+    "by": "Frank Stefani",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54849": {
   "games": [
@@ -4340,7 +4475,7 @@
   ],
   "id": 54849,
   "hash": "6a49a6a761fe28a0",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-24T17:46",
   "captured_first_by": "Marc Schäfer",
@@ -4472,7 +4607,7 @@
   ],
   "id": 54850,
   "hash": "2aa28fec604054b9",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-25T20:39",
   "captured_first_by": "Werner Ertel",
@@ -4604,8 +4739,17 @@
   ],
   "id": 54851,
   "hash": "76ea6bbf2c458e17",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-06T00:02",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-06T00:02",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54852": {
   "games": [
@@ -4727,8 +4871,17 @@
   ],
   "id": 54852,
   "hash": "a44a7d5e99af49a8",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-26T19:08",
+  "captured_first_by": "Sebastian Bock",
+  "capture_history": [
+   {
+    "at": "2026-09-26T19:08",
+    "by": "Sebastian Bock",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54853": {
   "games": [
@@ -4850,7 +5003,7 @@
   ],
   "id": 54853,
   "hash": "c07bfbb09a79f6dd",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-03T21:15",
   "captured_first_by": "Hermann-Josef Himmler",
@@ -4979,8 +5132,17 @@
   ],
   "id": 54854,
   "hash": "dca4cd8451284630",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-05T19:09",
+  "captured_first_by": "Stefan Nipps",
+  "capture_history": [
+   {
+    "at": "2026-09-05T19:09",
+    "by": "Stefan Nipps",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54855": {
   "games": [
@@ -5102,8 +5264,17 @@
   ],
   "id": 54855,
   "hash": "f42aeb3cbced73f6",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T21:39",
+  "captured_first_by": "Viktor Pucihar",
+  "capture_history": [
+   {
+    "at": "2026-10-03T21:39",
+    "by": "Viktor Pucihar",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54856": {
   "games": [
@@ -5225,8 +5396,17 @@
   ],
   "id": 54856,
   "hash": "610c6a33f05d46d2",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T22:37",
+  "captured_first_by": "Jens Rittmeyer",
+  "capture_history": [
+   {
+    "at": "2026-10-03T22:37",
+    "by": "Jens Rittmeyer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54857": {
   "games": [
@@ -5348,8 +5528,17 @@
   ],
   "id": 54857,
   "hash": "073db1ad5fb46012",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T21:37",
+  "captured_first_by": "Marcel Königs",
+  "capture_history": [
+   {
+    "at": "2026-10-03T21:37",
+    "by": "Marcel Königs",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54858": {
   "games": [
@@ -5471,7 +5660,7 @@
   ],
   "id": 54858,
   "hash": "07421c9319097d86",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-14T23:54",
   "captured_first_by": "Werner Ertel",
@@ -5603,7 +5792,7 @@
   ],
   "id": 54859,
   "hash": "be725675e18e7e82",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-18T09:54",
   "captured_first_by": "Dieter Finner",
@@ -5735,7 +5924,7 @@
   ],
   "id": 54860,
   "hash": "c2fffa0ace894e6c",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-24T22:42",
   "captured_first_by": "Sebastian Bock",
@@ -5867,7 +6056,7 @@
   ],
   "id": 54861,
   "hash": "ec3fcd7128e7c0e5",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-17T16:46",
   "captured_first_by": "Frank Stefani",
@@ -5999,7 +6188,7 @@
   ],
   "id": 54862,
   "hash": "b9851084758209c0",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-18T01:48",
   "captured_first_by": "Marc Schäfer",
@@ -6131,7 +6320,7 @@
   ],
   "id": 54863,
   "hash": "d4354dd56fbceb84",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T21:27",
   "captured_first_by": "Hermann-Josef Himmler",
@@ -6263,7 +6452,7 @@
   ],
   "id": 54864,
   "hash": "b578628c1dd0a97f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T19:06",
   "captured_first_by": "Stefan Nipps",
@@ -6395,7 +6584,7 @@
   ],
   "id": 54865,
   "hash": "0b23ce930a3e9904",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T21:21",
   "captured_first_by": "Viktor Pucihar",
@@ -6527,7 +6716,7 @@
   ],
   "id": 54866,
   "hash": "e329db7b31b7bab4",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T20:56",
   "captured_first_by": "Frank Stefani",
@@ -6659,7 +6848,7 @@
   ],
   "id": 54867,
   "hash": "0e90059ade16fa03",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T18:58",
   "captured_first_by": "Sebastian Bock",
@@ -6791,7 +6980,7 @@
   ],
   "id": 54868,
   "hash": "30fa77a7cde09f43",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T16:53",
   "captured_first_by": "Christian Horn",
@@ -6923,7 +7112,7 @@
   ],
   "id": 54869,
   "hash": "a1dc3c1fe6ba4f96",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T22:26",
   "captured_first_by": "Marcel Königs",
@@ -7055,7 +7244,7 @@
   ],
   "id": 54870,
   "hash": "ad4be8c2906a916d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T20:12",
   "captured_first_by": "Dieter Finner",
@@ -7187,7 +7376,7 @@
   ],
   "id": 54871,
   "hash": "dc7fd3c3f57f642f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-08T09:11",
   "captured_first_by": "Jens Rittmeyer",
@@ -7319,7 +7508,7 @@
   ],
   "id": 54872,
   "hash": "6e61b9c94e5c2a3f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T21:24",
   "captured_first_by": "Marc Schäfer",
@@ -7451,7 +7640,7 @@
   ],
   "id": 54873,
   "hash": "a37183d594b5f3c2",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-21T20:58",
   "captured_first_by": "Hermann-Josef Himmler",
@@ -7583,7 +7772,7 @@
   ],
   "id": 54874,
   "hash": "ded58d4e0d87d4c6",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-22T10:19",
   "captured_first_by": "Viktor Pucihar",
@@ -7715,7 +7904,7 @@
   ],
   "id": 54875,
   "hash": "e66b9cc4f323ae67",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-22T09:27",
   "captured_first_by": "Sebastian Bock",
@@ -7847,8 +8036,17 @@
   ],
   "id": 54933,
   "hash": "f68751126f453cb5",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T21:20",
+  "captured_first_by": "David Dahmen",
+  "capture_history": [
+   {
+    "at": "2026-09-19T21:20",
+    "by": "David Dahmen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54934": {
   "games": [
@@ -7970,8 +8168,17 @@
   ],
   "id": 54934,
   "hash": "a97d66b3ea42051e",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T23:42",
+  "captured_first_by": "Detlef Jackels",
+  "capture_history": [
+   {
+    "at": "2026-09-19T23:42",
+    "by": "Detlef Jackels",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54935": {
   "games": [
@@ -8093,8 +8300,17 @@
   ],
   "id": 54935,
   "hash": "f243f6a6c0900b57",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:37",
+  "captured_first_by": "Norbert Radtke",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:37",
+    "by": "Norbert Radtke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54936": {
   "games": [
@@ -8216,8 +8432,17 @@
   ],
   "id": 54936,
   "hash": "0c8cb68b1c598c38",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-18T22:00",
+  "captured_first_by": "Dieter Schwan",
+  "capture_history": [
+   {
+    "at": "2026-09-18T22:00",
+    "by": "Dieter Schwan",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54937": {
   "games": [
@@ -8339,7 +8564,7 @@
   ],
   "id": 54937,
   "hash": "eeeef72e3daaa0b8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-10T19:03",
   "captured_first_by": "Leon Smits",
@@ -8471,8 +8696,17 @@
   ],
   "id": 54938,
   "hash": "ce5d1ec26440df3a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T21:58",
+  "captured_first_by": "Michael Kuckelmann",
+  "capture_history": [
+   {
+    "at": "2026-09-26T21:58",
+    "by": "Michael Kuckelmann",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54939": {
   "games": [
@@ -8594,8 +8828,17 @@
   ],
   "id": 54939,
   "hash": "8bc2f91009e3219d",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T21:24",
+  "captured_first_by": "Horst Bollig",
+  "capture_history": [
+   {
+    "at": "2026-09-26T21:24",
+    "by": "Horst Bollig",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54940": {
   "games": [
@@ -8717,8 +8960,17 @@
   ],
   "id": 54940,
   "hash": "3513550506aa70e7",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T20:09",
+  "captured_first_by": "Wilfried Pelzer",
+  "capture_history": [
+   {
+    "at": "2026-09-26T20:09",
+    "by": "Wilfried Pelzer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54941": {
   "games": [
@@ -8840,8 +9092,17 @@
   ],
   "id": 54941,
   "hash": "2bc5aee756810e18",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T20:24",
+  "captured_first_by": "Birgit Zeisberg",
+  "capture_history": [
+   {
+    "at": "2026-09-26T20:24",
+    "by": "Birgit Zeisberg",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54942": {
   "games": [
@@ -8963,8 +9224,17 @@
   ],
   "id": 54942,
   "hash": "fa0ea238fd642694",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-27T10:48",
+  "captured_first_by": "Pascal Costin",
+  "capture_history": [
+   {
+    "at": "2026-09-27T10:48",
+    "by": "Pascal Costin",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54943": {
   "games": [
@@ -9086,8 +9356,17 @@
   ],
   "id": 54943,
   "hash": "f46197ef0473e054",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T22:23",
+  "captured_first_by": "David Dahmen",
+  "capture_history": [
+   {
+    "at": "2026-10-03T22:23",
+    "by": "David Dahmen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54944": {
   "games": [
@@ -9209,7 +9488,7 @@
   ],
   "id": 54944,
   "hash": "5c4b0fd356e90014",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-03T23:31",
   "captured_first_by": "Detlef Jackels",
@@ -9341,8 +9620,17 @@
   ],
   "id": 54945,
   "hash": "9f5fcf46032ae013",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T20:29",
+  "captured_first_by": "Norbert Radtke",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:29",
+    "by": "Norbert Radtke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54946": {
   "games": [
@@ -9464,8 +9752,17 @@
   ],
   "id": 54946,
   "hash": "b1a72782f2319085",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T09:01",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-10-03T09:01",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "54948": {
   "games": [
@@ -9587,7 +9884,7 @@
   ],
   "id": 54948,
   "hash": "c5db41368ab0792f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T18:22",
   "captured_first_by": "Wilfried Pelzer",
@@ -9719,7 +10016,7 @@
   ],
   "id": 54949,
   "hash": "b2bb643e865a5cf6",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T22:38",
   "captured_first_by": "Birgit Zeisberg",
@@ -9851,7 +10148,7 @@
   ],
   "id": 54950,
   "hash": "bd8dbb5bb4f96ef9",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T19:51",
   "captured_first_by": "Rüdiger Schulz",
@@ -9983,7 +10280,7 @@
   ],
   "id": 54951,
   "hash": "071b6fd445b0ed84",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-30T22:31",
   "captured_first_by": "Michael Kuckelmann",
@@ -10115,7 +10412,7 @@
   ],
   "id": 54952,
   "hash": "3108222b01e1b8c3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:18",
   "captured_first_by": "Horst Bollig",
@@ -10247,7 +10544,7 @@
   ],
   "id": 54953,
   "hash": "e14621b243a770c2",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-01T12:06",
   "captured_first_by": "Wolfgang Romich",
@@ -10379,7 +10676,7 @@
   ],
   "id": 54954,
   "hash": "ef9bf7620c2257b4",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T22:25",
   "captured_first_by": "Detlef Jackels",
@@ -10511,7 +10808,7 @@
   ],
   "id": 54955,
   "hash": "0fa29d7a071a993c",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T21:38",
   "captured_first_by": "Norbert Radtke",
@@ -10643,7 +10940,7 @@
   ],
   "id": 54956,
   "hash": "57360b9880d2c906",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T23:18",
   "captured_first_by": "Michael Kuckelmann",
@@ -10775,7 +11072,7 @@
   ],
   "id": 54957,
   "hash": "8b733e874caaa9d0",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T21:44",
   "captured_first_by": "Rüdiger Schulz",
@@ -10907,7 +11204,7 @@
   ],
   "id": 54958,
   "hash": "bac9ee53095c2a4c",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T22:46",
   "captured_first_by": "Detlef Jackels",
@@ -11039,7 +11336,7 @@
   ],
   "id": 54959,
   "hash": "68963b5eb0051c25",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T01:24",
   "captured_first_by": "Leon Smits",
@@ -11171,7 +11468,7 @@
   ],
   "id": 54960,
   "hash": "ade1a91868931d0d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-24T21:07",
   "captured_first_by": "Birgit Zeisberg",
@@ -11303,7 +11600,7 @@
   ],
   "id": 54961,
   "hash": "7077602a4017525f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T07:54",
   "captured_first_by": "Dieter Schwan",
@@ -11435,7 +11732,7 @@
   ],
   "id": 54962,
   "hash": "93d6100886588cd4",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T20:17",
   "captured_first_by": "Horst Bollig",
@@ -11567,7 +11864,7 @@
   ],
   "id": 54963,
   "hash": "b0b6627d9ab8ea82",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T21:46",
   "captured_first_by": "David Dahmen",
@@ -11699,7 +11996,7 @@
   ],
   "id": 54964,
   "hash": "ca28efb4360bd641",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T20:55",
   "captured_first_by": "Norbert Radtke",
@@ -11831,7 +12128,7 @@
   ],
   "id": 54965,
   "hash": "167d7c98605f33a0",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-22T11:27",
   "captured_first_by": "Wolfgang Romich",
@@ -11963,7 +12260,7 @@
   ],
   "id": 54966,
   "hash": "9dd45f47ee0db129",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-20T21:56",
   "captured_first_by": "Dieter Schwan",
@@ -12095,7 +12392,7 @@
   ],
   "id": 54967,
   "hash": "1fc979ee5bbf0d50",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T17:56",
   "captured_first_by": "Wilfried Pelzer",
@@ -12227,8 +12524,17 @@
   ],
   "id": 55023,
   "hash": "8c418fe35343c611",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-13T21:07",
+  "captured_first_by": "Jürgen Adler",
+  "capture_history": [
+   {
+    "at": "2026-09-13T21:07",
+    "by": "Jürgen Adler",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55024": {
   "games": [
@@ -12350,8 +12656,17 @@
   ],
   "id": 55024,
   "hash": "d14d33946fab0033",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-20T00:54",
+  "captured_first_by": "Dennis Müller",
+  "capture_history": [
+   {
+    "at": "2026-09-20T00:54",
+    "by": "Dennis Müller",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55025": {
   "games": [
@@ -12473,8 +12788,17 @@
   ],
   "id": 55025,
   "hash": "0812abcef3db7361",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:12",
+  "captured_first_by": "Andre Wenzel",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:12",
+    "by": "Andre Wenzel",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55026": {
   "games": [
@@ -12596,8 +12920,17 @@
   ],
   "id": 55026,
   "hash": "e11bb1e8aee7e677",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-25T11:06",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-25T11:06",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55027": {
   "games": [
@@ -12719,8 +13052,17 @@
   ],
   "id": 55027,
   "hash": "59cdeaca4e96cc4c",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:13",
+  "captured_first_by": "Sebastian Muth",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:13",
+    "by": "Sebastian Muth",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55028": {
   "games": [
@@ -12842,7 +13184,7 @@
   ],
   "id": 55028,
   "hash": "b044392becae9a06",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-09-05T23:11",
   "captured_first_by": "Chiara Böhmer",
@@ -12974,8 +13316,17 @@
   ],
   "id": 55029,
   "hash": "0208946a585afd4d",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T22:18",
+  "captured_first_by": "Werner Janke",
+  "capture_history": [
+   {
+    "at": "2026-09-26T22:18",
+    "by": "Werner Janke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55030": {
   "games": [
@@ -13097,8 +13448,17 @@
   ],
   "id": 55030,
   "hash": "854f0483b1de4854",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-27T07:14",
+  "captured_first_by": "Detlef Jackels",
+  "capture_history": [
+   {
+    "at": "2026-09-27T07:14",
+    "by": "Detlef Jackels",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55031": {
   "games": [
@@ -13220,8 +13580,17 @@
   ],
   "id": 55031,
   "hash": "8a5e38ba6b2fec5c",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T21:24",
+  "captured_first_by": "Christoph Plinz",
+  "capture_history": [
+   {
+    "at": "2026-09-26T21:24",
+    "by": "Christoph Plinz",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55032": {
   "games": [
@@ -13343,8 +13712,17 @@
   ],
   "id": 55032,
   "hash": "ce14c0aee0aa643b",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T21:01",
+  "captured_first_by": "Ferdinand Kraus",
+  "capture_history": [
+   {
+    "at": "2026-09-26T21:01",
+    "by": "Ferdinand Kraus",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55033": {
   "games": [
@@ -13466,8 +13844,17 @@
   ],
   "id": 55033,
   "hash": "81c7978eabd10a9c",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T21:01",
+  "captured_first_by": "Jürgen Adler",
+  "capture_history": [
+   {
+    "at": "2026-10-03T21:01",
+    "by": "Jürgen Adler",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55034": {
   "games": [
@@ -13589,8 +13976,17 @@
   ],
   "id": 55034,
   "hash": "4764245767f6bbcf",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-04T00:04",
+  "captured_first_by": "Dennis Müller",
+  "capture_history": [
+   {
+    "at": "2026-10-04T00:04",
+    "by": "Dennis Müller",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55035": {
   "games": [
@@ -13712,7 +14108,7 @@
   ],
   "id": 55035,
   "hash": "c46428a5f90f9160",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-03T20:22",
   "captured_first_by": "Andre Wenzel",
@@ -13844,8 +14240,17 @@
   ],
   "id": 55036,
   "hash": "f4af6d5b07e5b6e1",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T20:15",
+  "captured_first_by": "Lukas Hackemöller",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:15",
+    "by": "Lukas Hackemöller",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55037": {
   "games": [
@@ -13967,8 +14372,17 @@
   ],
   "id": 55037,
   "hash": "524515dfa2d7ebbd",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-04T00:50",
+  "captured_first_by": "Sebastian Muth",
+  "capture_history": [
+   {
+    "at": "2026-10-04T00:50",
+    "by": "Sebastian Muth",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55038": {
   "games": [
@@ -14090,7 +14504,7 @@
   ],
   "id": 55038,
   "hash": "39645fca738e6b74",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:44",
   "captured_first_by": "Marco Schoenmackers",
@@ -14222,7 +14636,7 @@
   ],
   "id": 55039,
   "hash": "e8f66e512d8632a8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-16T23:21",
   "captured_first_by": "Christoph Plinz",
@@ -14354,7 +14768,7 @@
   ],
   "id": 55040,
   "hash": "efdca2ea24c1b94d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-24T19:39",
   "captured_first_by": "Ferdinand Kraus",
@@ -14486,7 +14900,7 @@
   ],
   "id": 55041,
   "hash": "917d5fa3aac4cb87",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-18T11:23",
   "captured_first_by": "Chiara Böhmer",
@@ -14618,7 +15032,7 @@
   ],
   "id": 55042,
   "hash": "df2405f5ba32a05a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T22:00",
   "captured_first_by": "Werner Janke",
@@ -14750,7 +15164,7 @@
   ],
   "id": 55043,
   "hash": "6d5abea62321b17a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-01T08:08",
   "captured_first_by": "Jürgen Adler",
@@ -14882,7 +15296,7 @@
   ],
   "id": 55044,
   "hash": "2d966de4bff6013a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-01T00:29",
   "captured_first_by": "Dennis Müller",
@@ -15014,7 +15428,7 @@
   ],
   "id": 55045,
   "hash": "f8c9276ba839bb53",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T20:22",
   "captured_first_by": "Andre Wenzel",
@@ -15146,7 +15560,7 @@
   ],
   "id": 55046,
   "hash": "0207aeb95ec0466e",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T20:36",
   "captured_first_by": "Chiara Böhmer",
@@ -15278,7 +15692,7 @@
   ],
   "id": 55047,
   "hash": "0e627a15416e19aa",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T20:26",
   "captured_first_by": "Ferdinand Kraus",
@@ -15410,7 +15824,7 @@
   ],
   "id": 55049,
   "hash": "ea3c7e98d61e27c3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:54",
   "captured_first_by": "Sebastian Muth",
@@ -15542,7 +15956,7 @@
   ],
   "id": 55050,
   "hash": "e07eef6c76d124b0",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:00",
   "captured_first_by": "Christoph Plinz",
@@ -15674,7 +16088,7 @@
   ],
   "id": 55051,
   "hash": "5a73cfa8d0ec6c7a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-08T13:02",
   "captured_first_by": "Lukas Hackemöller",
@@ -15806,7 +16220,7 @@
   ],
   "id": 55052,
   "hash": "940324c16ec21648",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T21:17",
   "captured_first_by": "Werner Janke",
@@ -15938,7 +16352,7 @@
   ],
   "id": 55053,
   "hash": "42df9c993b0d910d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T21:24",
   "captured_first_by": "Jürgen Adler",
@@ -16070,7 +16484,7 @@
   ],
   "id": 55054,
   "hash": "185a3f418e7aed3b",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T21:07",
   "captured_first_by": "Andre Wenzel",
@@ -16202,7 +16616,7 @@
   ],
   "id": 55055,
   "hash": "629dd4428c91bbc1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T18:56",
   "captured_first_by": "Ferdinand Kraus",
@@ -16334,7 +16748,7 @@
   ],
   "id": 55056,
   "hash": "a83bb868f68906ba",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T17:32",
   "captured_first_by": "Lukas Hackemöller",
@@ -16466,7 +16880,7 @@
   ],
   "id": 55057,
   "hash": "39a4ddf096bf7067",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T20:04",
   "captured_first_by": "Marco Schoenmackers",
@@ -16598,8 +17012,17 @@
   ],
   "id": 55113,
   "hash": "5dfcde36eefbd6c7",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-20T13:36",
+  "captured_first_by": "Jörg Schrötler",
+  "capture_history": [
+   {
+    "at": "2026-09-20T13:36",
+    "by": "Jörg Schrötler",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55114": {
   "games": [
@@ -16721,8 +17144,17 @@
   ],
   "id": 55114,
   "hash": "d75272a429adc71a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-19T18:26",
+  "captured_first_by": "Werner Ertel",
+  "capture_history": [
+   {
+    "at": "2026-09-19T18:26",
+    "by": "Werner Ertel",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55115": {
   "games": [
@@ -16844,8 +17276,17 @@
   ],
   "id": 55115,
   "hash": "1d2f873c3ae35d24",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-19T17:16",
+  "captured_first_by": "Henrik Hammer",
+  "capture_history": [
+   {
+    "at": "2026-09-19T17:16",
+    "by": "Henrik Hammer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55116": {
   "games": [
@@ -16967,8 +17408,17 @@
   ],
   "id": 55116,
   "hash": "b8b31a0343086a12",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-19T20:38",
+  "captured_first_by": "Timo Martin",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:38",
+    "by": "Timo Martin",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55118": {
   "games": [
@@ -17090,8 +17540,17 @@
   ],
   "id": 55118,
   "hash": "637e785a2017bb5a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-10T21:39",
+  "captured_first_by": "Uwe Gleich",
+  "capture_history": [
+   {
+    "at": "2026-10-10T21:39",
+    "by": "Uwe Gleich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55119": {
   "games": [
@@ -17213,7 +17672,7 @@
   ],
   "id": 55119,
   "hash": "4a5f6ad05ce20b25",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-09-27T17:25",
   "captured_first_by": "Wolfgang Romich",
@@ -17345,8 +17804,17 @@
   ],
   "id": 55120,
   "hash": "8e76d53df87b62d3",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-09-26T12:39",
+  "captured_first_by": "Bernd Bülles",
+  "capture_history": [
+   {
+    "at": "2026-09-26T12:39",
+    "by": "Bernd Bülles",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55121": {
   "games": [
@@ -17465,8 +17933,17 @@
   ],
   "id": 55121,
   "hash": "560dfb0fa0916011",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-10T19:09",
+  "captured_first_by": "Marcus Monat",
+  "capture_history": [
+   {
+    "at": "2026-10-10T19:09",
+    "by": "Marcus Monat",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55123": {
   "games": [
@@ -17588,8 +18065,17 @@
   ],
   "id": 55123,
   "hash": "dded85e646ae5c41",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T20:41",
+  "captured_first_by": "Jörg Schrötler",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:41",
+    "by": "Jörg Schrötler",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55124": {
   "games": [
@@ -17711,8 +18197,17 @@
   ],
   "id": 55124,
   "hash": "7d4c2bd7763d9f0b",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T19:51",
+  "captured_first_by": "Werner Ertel",
+  "capture_history": [
+   {
+    "at": "2026-10-03T19:51",
+    "by": "Werner Ertel",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55125": {
   "games": [
@@ -17834,8 +18329,17 @@
   ],
   "id": 55125,
   "hash": "784647bef941f3da",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:06:01Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:06:01Z",
+  "captured_first_at": "2026-10-03T20:05",
+  "captured_first_by": "Henrik Hammer",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:05",
+    "by": "Henrik Hammer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55126": {
   "games": [
@@ -17957,7 +18461,7 @@
   ],
   "id": 55126,
   "hash": "eea078ebf5710e46",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-03T21:32",
   "captured_first_by": "Timo Martin",
@@ -18089,7 +18593,7 @@
   ],
   "id": 55128,
   "hash": "ab1e2e7fcedf4d9d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-16T23:37",
   "captured_first_by": "Roland Schleicher",
@@ -18221,7 +18725,7 @@
   ],
   "id": 55129,
   "hash": "9311b0fb3ca0f8a8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-17T18:54",
   "captured_first_by": "Marcus Monat",
@@ -18353,7 +18857,7 @@
   ],
   "id": 55130,
   "hash": "1314ffcdd8e5dda1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-18T16:15",
   "captured_first_by": "Wolfgang Romich",
@@ -18485,7 +18989,7 @@
   ],
   "id": 55131,
   "hash": "60715e90490c7843",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-18T11:26",
   "captured_first_by": "Uwe Gleich",
@@ -18617,7 +19121,7 @@
   ],
   "id": 55133,
   "hash": "d023c295d1eeead9",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T22:22",
   "captured_first_by": "Jörg Schrötler",
@@ -18749,7 +19253,7 @@
   ],
   "id": 55134,
   "hash": "a81a8761590334ce",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-10-31T20:08",
   "captured_first_by": "Werner Ertel",
@@ -18881,7 +19385,7 @@
   ],
   "id": 55136,
   "hash": "172781de0a4cdfc9",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-01T02:29",
   "captured_first_by": "Uwe Gleich",
@@ -19013,7 +19517,7 @@
   ],
   "id": 55138,
   "hash": "45b756e65a031810",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T21:33",
   "captured_first_by": "Wolfgang Romich",
@@ -19145,7 +19649,7 @@
   ],
   "id": 55140,
   "hash": "a1bb91bc8a20ca62",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T19:20",
   "captured_first_by": "Marcus Monat",
@@ -19277,7 +19781,7 @@
   ],
   "id": 55141,
   "hash": "04a7eb7df4464c02",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-07T20:02",
   "captured_first_by": "Timo Martin",
@@ -19409,7 +19913,7 @@
   ],
   "id": 55142,
   "hash": "14ac987eaf26f18d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-08T10:47",
   "captured_first_by": "Hans Peter Göttgens",
@@ -19541,7 +20045,7 @@
   ],
   "id": 55143,
   "hash": "6cbd76f8fa91b7cd",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-21T20:22",
   "captured_first_by": "Jörg Schrötler",
@@ -19673,7 +20177,7 @@
   ],
   "id": 55144,
   "hash": "ea82bfa7e28429f1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-21T19:21",
   "captured_first_by": "Henrik Hammer",
@@ -19805,7 +20309,7 @@
   ],
   "id": 55145,
   "hash": "9f2de30872291b59",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-21T20:53",
   "captured_first_by": "Peter Skowronek",
@@ -19937,7 +20441,7 @@
   ],
   "id": 55147,
   "hash": "430e748e75861630",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:06:01Z",
   "captured_first_at": "2026-11-20T23:57",
   "captured_first_by": "Roland Schleicher",
@@ -20069,8 +20573,17 @@
   ],
   "id": 55293,
   "hash": "cf861cfea4cd93f5",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-20T13:24",
+  "captured_first_by": "Carsten Meerpohl",
+  "capture_history": [
+   {
+    "at": "2026-09-20T13:24",
+    "by": "Carsten Meerpohl",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55295": {
   "games": [
@@ -20192,8 +20705,17 @@
   ],
   "id": 55295,
   "hash": "00bf9d1b81a33ed1",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-18T23:41",
+  "captured_first_by": "Jens Rittmeyer",
+  "capture_history": [
+   {
+    "at": "2026-09-18T23:41",
+    "by": "Jens Rittmeyer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55296": {
   "games": [
@@ -20315,8 +20837,17 @@
   ],
   "id": 55296,
   "hash": "5316b61569e44570",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T18:15",
+  "captured_first_by": "Alexander Woditsch",
+  "capture_history": [
+   {
+    "at": "2026-09-19T18:15",
+    "by": "Alexander Woditsch",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55297": {
   "games": [
@@ -20438,8 +20969,17 @@
   ],
   "id": 55297,
   "hash": "c078979cf03655e1",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T19:45",
+  "captured_first_by": "Holger Büttner",
+  "capture_history": [
+   {
+    "at": "2026-09-19T19:45",
+    "by": "Holger Büttner",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55298": {
   "games": [
@@ -20561,8 +21101,17 @@
   ],
   "id": 55298,
   "hash": "99521c11d5307e11",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-10T21:46",
+  "captured_first_by": "Björn Kreutzer",
+  "capture_history": [
+   {
+    "at": "2026-10-10T21:46",
+    "by": "Björn Kreutzer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55300": {
   "games": [
@@ -20684,8 +21233,17 @@
   ],
   "id": 55300,
   "hash": "906db968532d7afa",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T19:18",
+  "captured_first_by": "Philip Berbuir",
+  "capture_history": [
+   {
+    "at": "2026-09-26T19:18",
+    "by": "Philip Berbuir",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55301": {
   "games": [
@@ -20807,7 +21365,7 @@
   ],
   "id": 55301,
   "hash": "f06a11983de84674",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-11T15:30",
   "captured_first_by": "Wolfgang Romich",
@@ -20939,8 +21497,17 @@
   ],
   "id": 55302,
   "hash": "7a2e05c95ddf5f35",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-27T01:04",
+  "captured_first_by": "Marcel Königs",
+  "capture_history": [
+   {
+    "at": "2026-09-27T01:04",
+    "by": "Marcel Königs",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55303": {
   "games": [
@@ -21062,7 +21629,7 @@
   ],
   "id": 55303,
   "hash": "83976c208acd9da1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-25T07:07",
   "captured_first_by": "Carsten Meerpohl",
@@ -21194,8 +21761,17 @@
   ],
   "id": 55305,
   "hash": "63d20180cbdca8ec",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T00:11",
+  "captured_first_by": "Heiko Nowitzki",
+  "capture_history": [
+   {
+    "at": "2026-10-03T00:11",
+    "by": "Heiko Nowitzki",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55306": {
   "games": [
@@ -21317,8 +21893,17 @@
   ],
   "id": 55306,
   "hash": "a8be344d101c5f9a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T19:34",
+  "captured_first_by": "Dirk Adolph",
+  "capture_history": [
+   {
+    "at": "2026-10-03T19:34",
+    "by": "Dirk Adolph",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55307": {
   "games": [
@@ -21440,8 +22025,17 @@
   ],
   "id": 55307,
   "hash": "fee287f360a78ead",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-06T08:47",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-10-06T08:47",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55308": {
   "games": [
@@ -21563,7 +22157,7 @@
   ],
   "id": 55308,
   "hash": "0f8d3d745fa35a0a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:00",
   "captured_first_by": "Christian Horn",
@@ -21695,7 +22289,7 @@
   ],
   "id": 55310,
   "hash": "20261ecd03ff0529",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-18T09:42",
   "captured_first_by": "Marcel Königs",
@@ -21827,7 +22421,7 @@
   ],
   "id": 55311,
   "hash": "86e72bd52153eada",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-18T09:08",
   "captured_first_by": "Björn Kreutzer",
@@ -21959,7 +22553,7 @@
   ],
   "id": 55312,
   "hash": "a787684a248fa637",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T18:03",
   "captured_first_by": "Patrick Wilken",
@@ -22091,7 +22685,7 @@
   ],
   "id": 55313,
   "hash": "7961a7768553f6f8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-01T09:31",
   "captured_first_by": "Carsten Meerpohl",
@@ -22223,7 +22817,7 @@
   ],
   "id": 55315,
   "hash": "149a6f75744d0ece",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T00:38",
   "captured_first_by": "Heiko Nowitzki",
@@ -22355,7 +22949,7 @@
   ],
   "id": 55316,
   "hash": "a975854ec5b78440",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-25T10:46",
   "captured_first_by": "Lukas Hackemöller",
@@ -22487,7 +23081,7 @@
   ],
   "id": 55317,
   "hash": "f661276feb98274b",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-01T07:49",
   "captured_first_by": "Marcel Königs",
@@ -22619,7 +23213,7 @@
   ],
   "id": 55319,
   "hash": "5808ed53eb52e914",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T20:01",
   "captured_first_by": "Holger Büttner",
@@ -22751,7 +23345,7 @@
   ],
   "id": 55320,
   "hash": "fdc85fecdae9e0fa",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T19:10",
   "captured_first_by": "Michael Gitzen",
@@ -22883,7 +23477,7 @@
   ],
   "id": 55321,
   "hash": "68c375c0623152fe",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:34",
   "captured_first_by": "Arnd Bähr",
@@ -23015,7 +23609,7 @@
   ],
   "id": 55322,
   "hash": "aa963fbe0bff66ab",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-08T13:25",
   "captured_first_by": "Patrick Wilken",
@@ -23147,7 +23741,7 @@
   ],
   "id": 55324,
   "hash": "8ce73ec404ce70ea",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T00:43",
   "captured_first_by": "Heiko Nowitzki",
@@ -23255,7 +23849,7 @@
   ],
   "id": 55325,
   "hash": "c00ee42f5886f115",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T14:33",
   "captured_first_by": "Marcel Königs",
@@ -23387,7 +23981,7 @@
   ],
   "id": 55326,
   "hash": "ba49f45922aa7c74",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T18:41",
   "captured_first_by": "Arnd Bähr",
@@ -23519,8 +24113,17 @@
   ],
   "id": 55383,
   "hash": "73efd02f653788bc",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T19:16",
+  "captured_first_by": "Michael Cormann",
+  "capture_history": [
+   {
+    "at": "2026-09-19T19:16",
+    "by": "Michael Cormann",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55384": {
   "games": [
@@ -23642,8 +24245,17 @@
   ],
   "id": 55384,
   "hash": "875c01902490e3de",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-13T17:48",
+  "captured_first_by": "Wolfgang Romich",
+  "capture_history": [
+   {
+    "at": "2026-09-13T17:48",
+    "by": "Wolfgang Romich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55387": {
   "games": [
@@ -23765,8 +24377,17 @@
   ],
   "id": 55387,
   "hash": "00b1ab3ec1bf7ce8",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T19:56",
+  "captured_first_by": "Ralf Georg Brüll",
+  "capture_history": [
+   {
+    "at": "2026-09-19T19:56",
+    "by": "Ralf Georg Brüll",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55388": {
   "games": [
@@ -23888,8 +24509,17 @@
   ],
   "id": 55388,
   "hash": "4b05d2de7cd8e29a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T19:22",
+  "captured_first_by": "Sarah Schmitz",
+  "capture_history": [
+   {
+    "at": "2026-09-26T19:22",
+    "by": "Sarah Schmitz",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55389": {
   "games": [
@@ -24011,8 +24641,17 @@
   ],
   "id": 55389,
   "hash": "de63fc5a4b41755f",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T00:23",
+  "captured_first_by": "Manfred Mies",
+  "capture_history": [
+   {
+    "at": "2026-09-26T00:23",
+    "by": "Manfred Mies",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55392": {
   "games": [
@@ -24134,7 +24773,7 @@
   ],
   "id": 55392,
   "hash": "0c11a5ee581d55a3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-09-26T19:19",
   "captured_first_by": "Ercan Gülpek",
@@ -24266,8 +24905,17 @@
   ],
   "id": 55393,
   "hash": "9a7f1261d297b1ec",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T20:26",
+  "captured_first_by": "Sascha Schlagloth",
+  "capture_history": [
+   {
+    "at": "2026-10-03T20:26",
+    "by": "Sascha Schlagloth",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55394": {
   "games": [
@@ -24389,8 +25037,17 @@
   ],
   "id": 55394,
   "hash": "38c93e4f28472089",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T09:08",
+  "captured_first_by": "Manfred Mies",
+  "capture_history": [
+   {
+    "at": "2026-10-03T09:08",
+    "by": "Manfred Mies",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55397": {
   "games": [
@@ -24512,7 +25169,7 @@
   ],
   "id": 55397,
   "hash": "174dafbb78e507f7",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T20:05",
   "captured_first_by": "Ralf Georg Brüll",
@@ -24644,7 +25301,7 @@
   ],
   "id": 55398,
   "hash": "8c6534cf0ff2419a",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T19:48",
   "captured_first_by": "Werner Ertel",
@@ -24776,7 +25433,7 @@
   ],
   "id": 55399,
   "hash": "959609982983a4db",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T18:23",
   "captured_first_by": "John Fabian Halim",
@@ -24908,7 +25565,7 @@
   ],
   "id": 55402,
   "hash": "4f03ef19126e3f38",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T18:38",
   "captured_first_by": "Henrik Hammer",
@@ -25040,7 +25697,7 @@
   ],
   "id": 55403,
   "hash": "8bdb1709b465dcfb",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T19:46",
   "captured_first_by": "Nico Welbers",
@@ -25172,7 +25829,7 @@
   ],
   "id": 55407,
   "hash": "c5c811d9a9750a83",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T20:02",
   "captured_first_by": "Ercan Gülpek",
@@ -25304,7 +25961,7 @@
   ],
   "id": 55408,
   "hash": "9369b85358a1b1ed",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T01:06",
   "captured_first_by": "Manfred Mies",
@@ -25436,7 +26093,7 @@
   ],
   "id": 55409,
   "hash": "b47944e764405a55",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:39",
   "captured_first_by": "Ralf Georg Brüll",
@@ -25568,7 +26225,7 @@
   ],
   "id": 55410,
   "hash": "1070519e9c8d51a3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:57",
   "captured_first_by": "John Fabian Halim",
@@ -25700,7 +26357,7 @@
   ],
   "id": 55412,
   "hash": "4eed4fef285b830f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T18:16",
   "captured_first_by": "Henrik Hammer",
@@ -25832,7 +26489,7 @@
   ],
   "id": 55413,
   "hash": "a87411cb91d88327",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T19:15",
   "captured_first_by": "Nico Welbers",
@@ -25964,7 +26621,7 @@
   ],
   "id": 55415,
   "hash": "b1c778fd5d692460",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T19:17",
   "captured_first_by": "Ercan Gülpek",
@@ -26096,7 +26753,7 @@
   ],
   "id": 55417,
   "hash": "43cb95db68174108",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T21:23",
   "captured_first_by": "Werner Ertel",
@@ -26228,8 +26885,17 @@
   ],
   "id": 55563,
   "hash": "fe4289d2a5c6e030",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:36",
+  "captured_first_by": "Jean-Luc Devos",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:36",
+    "by": "Jean-Luc Devos",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55564": {
   "games": [
@@ -26351,8 +27017,17 @@
   ],
   "id": 55564,
   "hash": "a9ea5a4dd2cf9951",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T18:45",
+  "captured_first_by": "Joachim Cremer",
+  "capture_history": [
+   {
+    "at": "2026-09-19T18:45",
+    "by": "Joachim Cremer",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55565": {
   "games": [
@@ -26474,8 +27149,17 @@
   ],
   "id": 55565,
   "hash": "80bc2a4665df7d26",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T20:36",
+  "captured_first_by": "Corina Stern",
+  "capture_history": [
+   {
+    "at": "2026-09-19T20:36",
+    "by": "Corina Stern",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55566": {
   "games": [
@@ -26597,8 +27281,17 @@
   ],
   "id": 55566,
   "hash": "e85ba3e2d064b816",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T23:12",
+  "captured_first_by": "Dirk Adolph",
+  "capture_history": [
+   {
+    "at": "2026-09-19T23:12",
+    "by": "Dirk Adolph",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55567": {
   "games": [
@@ -26720,7 +27413,7 @@
   ],
   "id": 55567,
   "hash": "1ae48e6d987b27e1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-09-20T10:17",
   "captured_first_by": "Rene Krönchen",
@@ -26852,8 +27545,17 @@
   ],
   "id": 55568,
   "hash": "9f719fd0470e47bc",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T09:26",
+  "captured_first_by": "Josef Mohren",
+  "capture_history": [
+   {
+    "at": "2026-09-26T09:26",
+    "by": "Josef Mohren",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55569": {
   "games": [
@@ -26975,8 +27677,17 @@
   ],
   "id": 55569,
   "hash": "594a50f4890d3707",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T20:36",
+  "captured_first_by": "Norbert Radtke",
+  "capture_history": [
+   {
+    "at": "2026-09-26T20:36",
+    "by": "Norbert Radtke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55570": {
   "games": [
@@ -27098,8 +27809,17 @@
   ],
   "id": 55570,
   "hash": "4301796c037e8f82",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-27T00:18",
+  "captured_first_by": "Dennis Müller",
+  "capture_history": [
+   {
+    "at": "2026-09-27T00:18",
+    "by": "Dennis Müller",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55571": {
   "games": [
@@ -27221,8 +27941,17 @@
   ],
   "id": 55571,
   "hash": "4376aba531348a81",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T22:58",
+  "captured_first_by": "Jan Fahnenstich",
+  "capture_history": [
+   {
+    "at": "2026-09-26T22:58",
+    "by": "Jan Fahnenstich",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55572": {
   "games": [
@@ -27344,8 +28073,17 @@
   ],
   "id": 55572,
   "hash": "e169b5b5e75f8e9e",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-27T09:52",
+  "captured_first_by": "Marcel Königs",
+  "capture_history": [
+   {
+    "at": "2026-09-27T09:52",
+    "by": "Marcel Königs",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55573": {
   "games": [
@@ -27467,8 +28205,17 @@
   ],
   "id": 55573,
   "hash": "13602a724df24901",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T19:06",
+  "captured_first_by": "Jean-Luc Devos",
+  "capture_history": [
+   {
+    "at": "2026-10-03T19:06",
+    "by": "Jean-Luc Devos",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55574": {
   "games": [
@@ -27590,7 +28337,7 @@
   ],
   "id": 55574,
   "hash": "e77750c840c23aad",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-03T00:49",
   "captured_first_by": "Joachim Cremer",
@@ -27722,8 +28469,17 @@
   ],
   "id": 55575,
   "hash": "a3fa114374013864",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T19:44",
+  "captured_first_by": "Corina Stern",
+  "capture_history": [
+   {
+    "at": "2026-10-03T19:44",
+    "by": "Corina Stern",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55576": {
   "games": [
@@ -27845,8 +28601,17 @@
   ],
   "id": 55576,
   "hash": "f8d18009c6e8a15a",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T23:08",
+  "captured_first_by": "Marie Schüller",
+  "capture_history": [
+   {
+    "at": "2026-10-03T23:08",
+    "by": "Marie Schüller",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55577": {
   "games": [
@@ -27968,8 +28733,17 @@
   ],
   "id": 55577,
   "hash": "851c60a1bba59e2f",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-11T09:56",
+  "captured_first_by": "Rene Krönchen",
+  "capture_history": [
+   {
+    "at": "2026-10-11T09:56",
+    "by": "Rene Krönchen",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55578": {
   "games": [
@@ -28091,7 +28865,7 @@
   ],
   "id": 55578,
   "hash": "0c60a7a986d80369",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T23:25",
   "captured_first_by": "Dennis Müller",
@@ -28223,7 +28997,7 @@
   ],
   "id": 55579,
   "hash": "c8cde7b64ffbb798",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T22:55",
   "captured_first_by": "Jan Fahnenstich",
@@ -28355,7 +29129,7 @@
   ],
   "id": 55580,
   "hash": "6a79662211e8ce15",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-18T09:27",
   "captured_first_by": "Marcel Königs",
@@ -28487,7 +29261,7 @@
   ],
   "id": 55581,
   "hash": "a6f9fec46d164336",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T11:12",
   "captured_first_by": "Udo Lampey",
@@ -28619,7 +29393,7 @@
   ],
   "id": 55582,
   "hash": "82baa62cf4d554ca",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T20:11",
   "captured_first_by": "Norbert Radtke",
@@ -28751,7 +29525,7 @@
   ],
   "id": 55583,
   "hash": "1890b22595579f80",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T18:49",
   "captured_first_by": "Jean-Luc Devos",
@@ -28883,7 +29657,7 @@
   ],
   "id": 55584,
   "hash": "b080444a0211b3fc",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T19:27",
   "captured_first_by": "Joachim Cremer",
@@ -29015,7 +29789,7 @@
   ],
   "id": 55585,
   "hash": "9ccf4dc8120d2f60",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T21:04",
   "captured_first_by": "Corina Stern",
@@ -29147,7 +29921,7 @@
   ],
   "id": 55586,
   "hash": "73fe3aa705cb5426",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T11:15",
   "captured_first_by": "Udo Lampey",
@@ -29279,7 +30053,7 @@
   ],
   "id": 55587,
   "hash": "70a02babe80af819",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T20:20",
   "captured_first_by": "Marcel Königs",
@@ -29411,7 +30185,7 @@
   ],
   "id": 55588,
   "hash": "42531541ee583568",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T19:42",
   "captured_first_by": "Joachim Cremer",
@@ -29543,7 +30317,7 @@
   ],
   "id": 55589,
   "hash": "d0baa1e81b7423ff",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-08T09:50",
   "captured_first_by": "Rene Krönchen",
@@ -29675,7 +30449,7 @@
   ],
   "id": 55590,
   "hash": "dfdbe4cf0c10565f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T23:31",
   "captured_first_by": "Jan Fahnenstich",
@@ -29807,7 +30581,7 @@
   ],
   "id": 55591,
   "hash": "1701fb6a2ede3a0f",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T23:55",
   "captured_first_by": "Marie Schüller",
@@ -29939,7 +30713,7 @@
   ],
   "id": 55592,
   "hash": "01f0b67ee90868ad",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T20:01",
   "captured_first_by": "Norbert Radtke",
@@ -30071,7 +30845,7 @@
   ],
   "id": 55593,
   "hash": "f0aa7dc271b6687d",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T19:44",
   "captured_first_by": "Jean-Luc Devos",
@@ -30203,7 +30977,7 @@
   ],
   "id": 55594,
   "hash": "062a6a2664ddc7e7",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T20:00",
   "captured_first_by": "Günter Speck",
@@ -30335,7 +31109,7 @@
   ],
   "id": 55595,
   "hash": "d6b7c9fd47751835",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T20:31",
   "captured_first_by": "Marcel Königs",
@@ -30464,7 +31238,7 @@
   ],
   "id": 55596,
   "hash": "34ea6f94e783e981",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T23:47",
   "captured_first_by": "Dirk Adolph",
@@ -30596,7 +31370,7 @@
   ],
   "id": 55597,
   "hash": "272c870702ed396e",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T23:21",
   "captured_first_by": "Dennis Müller",
@@ -30728,7 +31502,7 @@
   ],
   "id": 55605,
   "hash": "8b6e8ddacf81ae35",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-13T23:31",
   "captured_first_by": "Marie Schüller",
@@ -30860,8 +31634,17 @@
   ],
   "id": 55654,
   "hash": "9ed2663df5ec45ea",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T16:58",
+  "captured_first_by": "Detlef Jackels",
+  "capture_history": [
+   {
+    "at": "2026-09-19T16:58",
+    "by": "Detlef Jackels",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55656": {
   "games": [
@@ -30980,8 +31763,17 @@
   ],
   "id": 55656,
   "hash": "66ccd7d6cd685f4b",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-19T08:02",
+  "captured_first_by": "Mandy Rompe",
+  "capture_history": [
+   {
+    "at": "2026-09-19T08:02",
+    "by": "Mandy Rompe",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55657": {
   "games": [
@@ -31103,8 +31895,17 @@
   ],
   "id": 55657,
   "hash": "7933f6405ef9ab54",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-12T23:33",
+  "captured_first_by": "Ralf Paepcke",
+  "capture_history": [
+   {
+    "at": "2026-09-12T23:33",
+    "by": "Ralf Paepcke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55658": {
   "games": [
@@ -31226,7 +32027,7 @@
   ],
   "id": 55658,
   "hash": "bcc79ddc627d3da2",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-09-25T23:23",
   "captured_first_by": "Joachim Cremer",
@@ -31358,8 +32159,17 @@
   ],
   "id": 55660,
   "hash": "fdf4f8ef16f8d0bc",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T18:57",
+  "captured_first_by": "Christian Horn",
+  "capture_history": [
+   {
+    "at": "2026-09-26T18:57",
+    "by": "Christian Horn",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55661": {
   "games": [
@@ -31481,8 +32291,17 @@
   ],
   "id": 55661,
   "hash": "02caf6c58f4a1bfc",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-09-26T00:14",
+  "captured_first_by": "Matthias Vetten",
+  "capture_history": [
+   {
+    "at": "2026-09-26T00:14",
+    "by": "Matthias Vetten",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55664": {
   "games": [
@@ -31604,8 +32423,17 @@
   ],
   "id": 55664,
   "hash": "0919e0e9a96f4b4c",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-03T16:04",
+  "captured_first_by": "Detlef Jackels",
+  "capture_history": [
+   {
+    "at": "2026-10-03T16:04",
+    "by": "Detlef Jackels",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55665": {
   "games": [
@@ -31727,7 +32555,7 @@
   ],
   "id": 55665,
   "hash": "7769bc60737840d2",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-03T19:29",
   "captured_first_by": "Nick Henig",
@@ -31859,8 +32687,17 @@
   ],
   "id": 55667,
   "hash": "7d4d99005acdf7a2",
-  "fetched_at": "2026-11-23T09:51:43Z",
-  "first_fetched_at": "2026-11-23T09:11:14Z"
+  "fetched_at": "2026-11-23T12:28:09Z",
+  "first_fetched_at": "2026-11-23T09:11:14Z",
+  "captured_first_at": "2026-10-10T17:58",
+  "captured_first_by": "Ralf Paepcke",
+  "capture_history": [
+   {
+    "at": "2026-10-10T17:58",
+    "by": "Ralf Paepcke",
+    "seen": "2026-11-23T09:51:43Z"
+   }
+  ]
  },
  "55668": {
   "games": [
@@ -31982,7 +32819,7 @@
   ],
   "id": 55668,
   "hash": "98079dbdaa4d4f12",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T19:41",
   "captured_first_by": "Christian Horn",
@@ -32114,7 +32951,7 @@
   ],
   "id": 55669,
   "hash": "488118190f9152a8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T08:43",
   "captured_first_by": "Thomas Nitsch",
@@ -32246,7 +33083,7 @@
   ],
   "id": 55671,
   "hash": "d80e681198f31bf3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-17T09:10",
   "captured_first_by": "Joachim Cremer",
@@ -32378,7 +33215,7 @@
   ],
   "id": 55673,
   "hash": "f0819d81fd3202b1",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T22:51",
   "captured_first_by": "Bernd Hennes",
@@ -32510,7 +33347,7 @@
   ],
   "id": 55674,
   "hash": "76b7585ad6b3a7c6",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T22:22",
   "captured_first_by": "Detlef Jackels",
@@ -32642,7 +33479,7 @@
   ],
   "id": 55675,
   "hash": "b2d62165d265dfd7",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-10-31T18:37",
   "captured_first_by": "Thomas Gawlik",
@@ -32774,7 +33611,7 @@
   ],
   "id": 55676,
   "hash": "3054de1dc007f2d8",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T02:20",
   "captured_first_by": "Joachim Cremer",
@@ -32906,7 +33743,7 @@
   ],
   "id": 55679,
   "hash": "72a89d42aa1cb4d6",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-14T19:36",
   "captured_first_by": "Ralf Paepcke",
@@ -33038,7 +33875,7 @@
   ],
   "id": 55680,
   "hash": "c4ce61658115e61e",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T13:25",
   "captured_first_by": "Thomas Nitsch",
@@ -33170,7 +34007,7 @@
   ],
   "id": 55681,
   "hash": "bc467a4da3d55b47",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T08:31",
   "captured_first_by": "Mandy Rompe",
@@ -33302,7 +34139,7 @@
   ],
   "id": 55683,
   "hash": "1138a95dc0fe14f3",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T19:37",
   "captured_first_by": "Bernd Hennes",
@@ -33434,7 +34271,7 @@
   ],
   "id": 55684,
   "hash": "13877a7bc2957d38",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T19:04",
   "captured_first_by": "Nick Henig",
@@ -33566,7 +34403,7 @@
   ],
   "id": 55686,
   "hash": "a89f786ccede82ec",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-21T09:23",
   "captured_first_by": "Mandy Rompe",
@@ -33698,7 +34535,7 @@
   ],
   "id": 55694,
   "hash": "474f654fe4132768",
-  "fetched_at": "2026-11-23T12:18:00Z",
+  "fetched_at": "2026-11-23T12:28:09Z",
   "first_fetched_at": "2026-11-23T09:11:14Z",
   "captured_first_at": "2026-11-07T21:23",
   "captured_first_by": "Ralf Paepcke",

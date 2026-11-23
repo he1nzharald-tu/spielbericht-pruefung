@@ -1,10 +1,10 @@
 {
  "season": "2026/2027",
- "generated_at": "2026-11-23T12:18:00Z",
- "mode": "inkrementell",
- "last_full_at": "2026-11-23T09:51:43Z",
- "requests": 183,
- "reports_fetched": 169,
+ "generated_at": "2026-11-23T12:28:09Z",
+ "mode": "full",
+ "last_full_at": "2026-11-23T12:28:09Z",
+ "requests": 372,
+ "reports_fetched": 262,
  "counts": {
   "leagues": 12,
   "teams": 124,
