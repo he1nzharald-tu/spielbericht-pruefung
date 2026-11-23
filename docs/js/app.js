@@ -307,7 +307,7 @@ function renderChanges(v) {
   const ch = [...(state.data.changes || [])].reverse();
   if (!ch.length) {
     v.innerHTML = `<p class="empty">Noch keine nachträglichen Änderungen an Spielberichten erkannt.</p>
-      <p class="muted">Spielpläne werden bei jedem Lauf neu geladen, Spielberichte der letzten 6 Wochen ebenfalls, ältere rotierend mindestens einmal pro Woche und montags komplett. Jede Abweichung erscheint hier mit Vorher/Nachher.</p>`;
+      <p class="muted">Der wöchentliche Lauf (montags 11 Uhr) lädt alle Spielpläne und Spielberichte komplett neu. Jede Abweichung zum vorherigen Stand erscheint hier mit Vorher/Nachher.</p>`;
     return;
   }
   v.innerHTML = ch.map((c) => {
@@ -340,7 +340,7 @@ function renderSettings(v) {
   <section>
     <h2>Daten</h2>
     <p class="muted">Stand: ${fmtDT(meta.generated_at.replace("Z", ""))} UTC (${esc(meta.mode)}) · ${meta.requests} Abrufe · letzter Vollabgleich: ${meta.last_full_at ? fmtDT(meta.last_full_at.replace("Z", "")) + " UTC" : "–"}</p>
-    <p class="muted">Die Daten werden automatisch alle 3 Stunden aktualisiert, montags mit Vollabgleich. Für eine sofortige Aktualisierung den Lauf bei GitHub starten („Run workflow“).</p>
+    <p class="muted">Die Daten werden automatisch jeden Montag um 11 Uhr komplett aktualisiert; danach kommt eine Push-Nachricht (auch wenn es keine neuen Fälle gibt). Für eine sofortige Aktualisierung den Lauf bei GitHub starten („Run workflow“).</p>
     <div class="row"><a class="btn" href="${actionsUrl()}" target="_blank" rel="noopener">Daten jetzt aktualisieren (GitHub)</a>
       <button class="btn" type="button" id="btn-reload">Neu laden</button></div>
     ${(meta.errors || []).length || (meta.warnings || []).length ? `<details><summary>Diagnose: ${(meta.errors || []).length} Fehler, ${(meta.warnings || []).length} Warnungen</summary>

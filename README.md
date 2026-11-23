@@ -7,18 +7,18 @@ Browser-App zur Prüfung der Spielberichte des PBVRW auf **billard-blmr.de**: Sp
 ## So funktioniert es
 
 ```
-billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ──(GitHub Pages)──> Browser-App
+billard-blmr.de ──(GitHub Actions, montags 11 Uhr)──> docs/data/*.json ──(GitHub Pages)──> Browser-App
                                                                                    ├─ Prüfregeln (im Browser)
                                                                                    ├─ PDF-Bericht
                                                                                    └─ E-Mail über das Mailprogramm
 ```
 
-* **Daten laden** – `scraper/scrape.py` liest Spielpläne, Kader und Spielberichte aller PBVRW-Ligen. Der Workflow „Daten aktualisieren“ läuft alle 3 Stunden, montags mit Vollabgleich, und lässt sich unter *Actions → Daten aktualisieren → Run workflow* sofort starten.
-* **Nachträgliche Änderungen** – Spielpläne werden bei jedem Lauf neu geladen. Spielberichte werden neu geladen, wenn sie neu sind, das Ergebnis sich geändert hat oder das Spiel höchstens 6 Wochen zurückliegt; ältere rotierend mindestens einmal pro Woche und montags alle. Jeder Bericht hat einen Fingerabdruck; Abweichungen landen mit Vorher/Nachher in `changes.json` und im Reiter **Änderungen**. Kaderänderungen werden in `kader_history.json` protokolliert.
+* **Daten laden** – `scraper/scrape.py` liest Spielpläne, Kader und Spielberichte aller PBVRW-Ligen. Der Workflow „Daten aktualisieren“ läuft jeden Montag um 11:00 Uhr deutscher Zeit als Vollabgleich (zwei UTC-Zeitpläne, von denen je nach Sommer-/Winterzeit nur der passende weiterläuft) und lässt sich unter *Actions → Daten aktualisieren → Run workflow* jederzeit starten.
+* **Nachträgliche Änderungen** – Der wöchentliche Lauf lädt alle Spielpläne und Spielberichte neu (manuelle Läufe ohne „Vollabgleich“ nur neue, geänderte und bis zu 6 Wochen alte Berichte). Jeder Bericht hat einen Fingerabdruck; Abweichungen landen mit Vorher/Nachher in `changes.json` und im Reiter **Änderungen**. Kaderänderungen werden in `kader_history.json` protokolliert.
 * **Ligen und Saison** – Die Saison ergibt sich aus dem Datum (Spielzeit 1.8.–31.7.). Die Ligen des PBVRW werden bei jedem Lauf aus der Spielbetriebsseite gelesen – auch Relegationen, die dort separat aufgeführt sind. `config/leagues.json` enthält nur noch Ausspielziele und optionale Korrekturen.
 * **Abmeldungen** – Meldungen der Startseite („PBVRW <Liga>“ … „abgemeldet“) werden ausgewertet und der Mannschaft zugeordnet. Mannschaften und Begegnungen, die aus dem Spielplan verschwinden, bleiben mit Vermerk erhalten.
 * **Prüfen** – `docs/js/rules.js` wertet die Daten im Browser aus. Bestätigte Namenszuordnungen fließen sofort ein.
-* **Push-Nachrichten** – Nach jedem Lauf wertet `scripts/notify.mjs` dieselben Regeln aus und meldet nur *neue* Fälle über [ntfy](https://ntfy.sh) (kein zusätzlicher Abruf von billard-blmr.de). Einrichtung: ntfy-App installieren, einen geheimen Kanalnamen abonnieren und ihn als Repository-Secret `NTFY_TOPIC` hinterlegen. Optional Variable `NOTIFY_LEVEL=verstoss`, um nur Verstöße zu melden.
+* **Push-Nachrichten** – Nach jedem Lauf wertet `scripts/notify.mjs` dieselben Regeln aus und meldet *neue* Fälle über [ntfy](https://ntfy.sh); der wöchentliche Lauf schickt immer eine Meldung, bei keinen neuen Fällen „keine neuen Vermerke“ mit Kennzahlen (kein zusätzlicher Abruf von billard-blmr.de). Einrichtung: ntfy-App installieren, einen geheimen Kanalnamen abonnieren und ihn als Repository-Secret `NTFY_TOPIC` hinterlegen. Optional Variable `NOTIFY_LEVEL=verstoss`, um nur Verstöße zu melden.
 * **Bearbeiten** – Status (offen / erledigt / kein Verstoß), Notizen, E-Mail-Adressen, Namenszuordnungen und Textvorlagen werden nur auf dem jeweiligen Gerät gespeichert (Einstellungen → Exportieren/Importieren zum Übertragen zwischen PC und iPhone). E-Mail-Adressen landen dadurch nie im öffentlichen Repository.
 
 ## Geprüfte Regeln

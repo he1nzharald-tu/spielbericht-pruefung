@@ -6,6 +6,7 @@
 //   NTFY_SERVER  Standard https://ntfy.sh
 //   NOTIFY_LEVEL "verstoss" (nur Verstöße) oder "hinweis" (Verstöße + Hinweise, Standard)
 //   APP_URL      Link, der beim Antippen der Nachricht geöffnet wird
+//   WEEKLY       "true" beim wöchentlichen Lauf: Nachricht auch ohne neue Fälle (Wochenmeldung)
 
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { analyze } from "../docs/js/rules.js";
@@ -42,6 +43,21 @@ const save = () =>
   writeFileSync(statePath, JSON.stringify({ updated_at: new Date().toISOString(), ids: [...new Set([...known, ...relevant.map((f) => f.id)])].sort() }, null, 0));
 
 const topic = process.env.NTFY_TOPIC;
+const weekly = process.env.WEEKLY === "true";
+
+// Kennzahlen dieses Laufs für die Wochenmeldung
+const runAt = data.meta?.generated_at;
+const newReports = Object.values(data.reports).filter((r) => r.first_fetched_at && r.first_fetched_at === runAt).length;
+const newChanges = data.changes.filter((c) => c.detected_at === runAt).length;
+const totalV = findings.filter((f) => f.severity === "verstoss").length;
+const totalH = findings.filter((f) => f.severity === "hinweis").length;
+const errors = (data.meta?.errors || []).length;
+const summary = [
+  `Geprüft: ${Object.keys(data.reports).length} Spielberichte (${newReports} neu seit dem letzten Lauf)` + (newChanges ? `, ${newChanges} nachträglich geändert` : ""),
+  `Insgesamt in der Saison: ${totalV} Verstöße, ${totalH} Hinweise`,
+  errors ? `⚠️ ${errors} Seiten konnten nicht geladen werden` : "",
+].filter(Boolean).join("\n");
+
 if (first) {
   // Erster Lauf: bestehende Fälle als bekannt merken, keine Nachrichtenflut
   save();
@@ -49,9 +65,12 @@ if (first) {
   if (topic) await send("Spielbericht-Prüfung: Benachrichtigungen aktiv", `Ab jetzt kommt eine Nachricht, sobald neue Fälle gefunden werden. Aktuell bestehen ${relevant.length} Fälle.`, 3, []);
   process.exit(0);
 }
+
+const prefix = weekly ? "Wochenprüfung" : "Spielbericht-Prüfung";
 if (!fresh.length) {
   save();
-  console.log("Keine neuen Fälle.");
+  console.log("Keine neuen Fälle.\n" + summary);
+  if (weekly && topic) await send(`${prefix}: keine neuen Vermerke`, `Keine neuen Verstöße oder Hinweise.\n${summary}`, 2, ["white_check_mark"]);
   process.exit(0);
 }
 
@@ -63,9 +82,10 @@ const lines = fresh
   .slice(0, 8)
   .map((f) => `${f.severity === "verstoss" ? "❗" : "•"} ${f.league || ""}${f.st ? " ST" + f.st : ""}: ${f.title}${f.player ? " – " + f.player : ""}${f.match ? " (" + f.match + ")" : f.team ? " (" + f.team + ")" : ""}`);
 if (fresh.length > 8) lines.push(`… und ${fresh.length - 8} weitere`);
+if (weekly) lines.push("", summary);
 
 if (topic) {
-  await send(`Spielbericht-Prüfung: ${title}`, lines.join("\n"), nV ? 4 : 3, nV ? ["warning"] : ["memo"]);
+  await send(`${prefix}: ${title}`, lines.join("\n"), nV ? 4 : 3, nV ? ["warning"] : ["memo"]);
 } else {
   console.log("NTFY_TOPIC nicht gesetzt – keine Nachricht gesendet.");
 }
