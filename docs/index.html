@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Spielbericht-Prüfung PBVRW</title>
+  <meta name="theme-color" content="#1f5f4a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Spielberichte">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="icons/icon.svg" alt="" width="28" height="28">
+      <div>
+        <h1>Spielbericht-Prüfung</h1>
+        <p id="stand" class="muted">Lade Daten …</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button id="btn-pdf" class="btn primary" type="button">PDF-Bericht</button>
+    </div>
+  </header>
+
+  <section class="filters" aria-label="Filter">
+    <label>Saison <select id="f-season"></select></label>
+    <label>Spieltag von <select id="f-st-from"></select></label>
+    <label>bis <select id="f-st-to"></select></label>
+    <label>Liga <select id="f-league"><option value="">Alle Ligen</option></select></label>
+    <label>Verein <select id="f-club"><option value="">Alle Vereine</option></select></label>
+    <label>Status <select id="f-status">
+      <option value="">Alle</option>
+      <option value="offen">Offen</option>
+      <option value="erledigt">Erledigt</option>
+      <option value="kein">Kein Verstoß</option>
+    </select></label>
+    <fieldset class="sev-filter">
+      <label><input type="checkbox" id="f-sev-verstoss" checked> Verstöße</label>
+      <label><input type="checkbox" id="f-sev-hinweis" checked> Hinweise</label>
+      <label><input type="checkbox" id="f-sev-info"> Info</label>
+    </fieldset>
+    <label class="grow">Suche <input id="f-search" type="search" placeholder="Spieler, Mannschaft, Text …"></label>
+  </section>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="faelle" class="active">Fälle</button>
+    <button role="tab" data-tab="springer">Springer</button>
+    <button role="tab" data-tab="berichte">Spielberichte</button>
+    <button role="tab" data-tab="aenderungen">Änderungen</button>
+    <button role="tab" data-tab="einstellungen">Einstellungen</button>
+  </nav>
+
+  <main id="view" tabindex="-1"></main>
+
+  <dialog id="mail-dialog">
+    <form method="dialog" id="mail-form">
+      <h2>E-Mail zum Fall</h2>
+      <p id="mail-case" class="muted"></p>
+      <label>An <input id="mail-to" type="text" placeholder="adresse@verein.de, …"></label>
+      <label class="inline"><input type="checkbox" id="mail-cc-opp"> Gegnerische Mannschaft in CC <span id="mail-cc-addr" class="muted"></span></label>
+      <label>Vorlage <select id="mail-template"></select></label>
+      <label>Grund <textarea id="mail-reason" rows="3"></textarea></label>
+      <label>Strafe / Folge <select id="mail-penalty"></select></label>
+      <textarea id="mail-penalty-text" rows="3"></textarea>
+      <label>Betreff <input id="mail-subject" type="text"></label>
+      <label>Text <textarea id="mail-body" rows="12"></textarea></label>
+      <p id="mail-warn" class="warn" hidden></p>
+      <div class="dialog-actions">
+        <button type="button" id="mail-copy" class="btn">Text kopieren</button>
+        <button type="button" id="mail-open" class="btn primary">Im Mailprogramm öffnen</button>
+        <button value="cancel" class="btn ghost">Schließen</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script src="vendor/jspdf.umd.min.js" defer></script>
+  <script src="vendor/jspdf.plugin.autotable.min.js" defer></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

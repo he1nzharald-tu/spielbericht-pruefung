@@ -167,6 +167,11 @@ def parse_spielplan(html: str, league_id: int) -> dict:
             tid = team_id_from_href(ta["href"])
             if tid is not None and tid not in team_ids:
                 team_ids.append(tid)
+        # Mannschaftsnamen stehen als Text in Zellen mit width=35% bzw. im Wappen-Titel
+        names = [clean(td.get_text(" ")) for td in row.find_all("td") if str(td.get("width", "")).strip() == "35%"]
+        if len(names) < 2:
+            names = [re.sub(r"^Wappen\s+", "", clean(img.get("title") or "")) for img in row.find_all("img")
+                     if clean(img.get("title") or "").startswith("Wappen")]
         memo = []
         for img in row.find_all("img"):
             t = clean(img.get("title") or img.get("alt") or "")
@@ -185,6 +190,8 @@ def parse_spielplan(html: str, league_id: int) -> dict:
             "time": tm,
             "home_id": team_ids[0] if len(team_ids) > 0 else None,
             "away_id": team_ids[1] if len(team_ids) > 1 else None,
+            "home_name": names[0] if len(names) > 0 else "",
+            "away_name": names[1] if len(names) > 1 else "",
             "result": result,
             "memo": memo,
             "url": href,
@@ -199,6 +206,19 @@ def parse_spielplan(html: str, league_id: int) -> dict:
             matches[mid] = cand
         elif cand["memo"] and not old["memo"]:
             old["memo"] = cand["memo"]
+
+    # Namen -> Mannschafts-IDs
+    by_name = {clean(t["name"]).lower(): tid for tid, t in teams.items() if t["name"]}
+    unknown = set()
+    for m in matches.values():
+        for side in ("home", "away"):
+            if m[f"{side}_id"] is None and m[f"{side}_name"]:
+                tid = by_name.get(m[f"{side}_name"].lower())
+                if tid is None:
+                    unknown.add(m[f"{side}_name"])
+                m[f"{side}_id"] = tid
+    if unknown:
+        warnings.append(f"Liga {league_id}: Mannschaften ohne ID: {', '.join(sorted(unknown))}")
 
     if not teams:
         warnings.append(f"Liga {league_id}: keine Mannschaften gefunden")
