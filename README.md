@@ -15,7 +15,10 @@ billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ─�
 
 * **Daten laden** – `scraper/scrape.py` liest Spielpläne, Kader und Spielberichte aller PBVRW-Ligen. Der Workflow „Daten aktualisieren“ läuft alle 3 Stunden, montags mit Vollabgleich, und lässt sich unter *Actions → Daten aktualisieren → Run workflow* sofort starten.
 * **Nachträgliche Änderungen** – Spielpläne werden bei jedem Lauf neu geladen. Spielberichte werden neu geladen, wenn sie neu sind, das Ergebnis sich geändert hat oder das Spiel höchstens 6 Wochen zurückliegt; ältere rotierend mindestens einmal pro Woche und montags alle. Jeder Bericht hat einen Fingerabdruck; Abweichungen landen mit Vorher/Nachher in `changes.json` und im Reiter **Änderungen**. Kaderänderungen werden in `kader_history.json` protokolliert.
+* **Ligen und Saison** – Die Saison ergibt sich aus dem Datum (Spielzeit 1.8.–31.7.). Die Ligen des PBVRW werden bei jedem Lauf aus der Spielbetriebsseite gelesen – auch Relegationen, die dort separat aufgeführt sind. `config/leagues.json` enthält nur noch Ausspielziele und optionale Korrekturen.
+* **Abmeldungen** – Meldungen der Startseite („PBVRW <Liga>“ … „abgemeldet“) werden ausgewertet und der Mannschaft zugeordnet. Mannschaften und Begegnungen, die aus dem Spielplan verschwinden, bleiben mit Vermerk erhalten.
 * **Prüfen** – `docs/js/rules.js` wertet die Daten im Browser aus. Bestätigte Namenszuordnungen fließen sofort ein.
+* **Push-Nachrichten** – Nach jedem Lauf wertet `scripts/notify.mjs` dieselben Regeln aus und meldet nur *neue* Fälle über [ntfy](https://ntfy.sh) (kein zusätzlicher Abruf von billard-blmr.de). Einrichtung: ntfy-App installieren, einen geheimen Kanalnamen abonnieren und ihn als Repository-Secret `NTFY_TOPIC` hinterlegen. Optional Variable `NOTIFY_LEVEL=verstoss`, um nur Verstöße zu melden.
 * **Bearbeiten** – Status (offen / erledigt / kein Verstoß), Notizen, E-Mail-Adressen, Namenszuordnungen und Textvorlagen werden nur auf dem jeweiligen Gerät gespeichert (Einstellungen → Exportieren/Importieren zum Übertragen zwischen PC und iPhone). E-Mail-Adressen landen dadurch nie im öffentlichen Repository.
 
 ## Geprüfte Regeln
@@ -34,7 +37,7 @@ billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ─�
 | A2 | Senioren: gleiche Disziplin in beiden Durchgängen | 11.7.6 | Verstoß |
 | A4 | Mannschaftsstärke / richtige Partien entfallen bei 3 (Senioren 2) Spielern | 11.x.3 | Verstoß / Hinweis |
 | A4E | Leeres Spielerfeld (z. B. erster Springer-Einsatz) | Springer-Regelung | Hinweis |
-| A6 | Spielbericht nicht bis 14:00 Uhr des Folgetags erfasst | 10.3.1/10.3.2 | Verstoß (Hinweis bei Erfassung durch Sportwart) |
+| A6 | Spielbericht nicht bis 14:00 Uhr des Folgetags erfasst – maßgeblich ist der erste vom Tool gesehene Erfassungszeitpunkt, spätere Korrekturen werden im Verlauf gezeigt | 10.3.1/10.3.2 | Verstoß (Hinweis bei Erfassung durch Sportwart) |
 | A7 | Endstand passt nicht zu den Einzelergebnissen | 10.3.2 | Verstoß |
 | B7Z | Wertung ohne gespielte Partien – Hinweis mit Beschreibung/Protest, bei Nichtantreten mit 10.5.3/10.5.4 | 10.5.3, 10.5.4, 10.8.1 | Hinweis |
 | P1/D1 | Eintrag im Protest-Feld bzw. sonstiger Vermerk in der Beschreibung | 10.4.4 | Hinweis |
@@ -43,7 +46,8 @@ billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ─�
 | K1/K2 | Spieler in keinem Kader; Einsatz für anderen Verein | 10.2.1, 2.6.7, 2.7.1 | Hinweis |
 | B1 | Nachverlegung > 4 Wochen, nach 31.12. (1. Kalenderjahr) oder ab 15. Spieltag | 10.5.6/10.5.8 | Hinweis |
 | B2 | Vereinsduell: Rückspiel nicht vor Beginn der Rückrunde | 10.2.8 | Hinweis |
-| B3 | Spieler abgemeldeter Mannschaft in unterklassiger Mannschaft | 10.8.2 | Hinweis |
+| WD | Mannschaft abgemeldet (aus den Meldungen der Startseite) | 10.8.1 (100 €) | Hinweis |
+| B3 | Spieler einer abgemeldeten Mannschaft in den ersten drei Spieltagen danach in niedrigerer Mannschaft | 10.8.2 | Verstoß (10.2.7) |
 | B7 | Dreimal ohne Einzelpartien gewertet (nicht angetreten?) | 10.8.1 | Hinweis |
 
 **Stammmannschaft**: laut Kader (frühester Eintrag; bei mehreren die unterklassigste), sonst die unterklassigste Mannschaft mit Einsatz. **Rangfolge**: VL > LL > BL > KL > KK; bei gleicher Ligastufe entscheidet die Mannschaftsnummer. Senioren und Pokal bilden eigene Wettbewerbe ohne Springer-Prüfung.
@@ -51,9 +55,11 @@ billard-blmr.de ──(GitHub Actions, alle 3 Std.)──> docs/data/*.json ─�
 ## Grenzen
 
 * Spieler sind auf billard-blmr.de nur über den Namen erkennbar (keine Passnummern). Schreibweisen werden tolerant abgeglichen; ähnliche Namen schlägt die App unter *Einstellungen → Namensabgleich* vor.
-* Der Erfassungszeitpunkt im Spielbericht ist der der **letzten** Erfassung – nach einer Korrektur durch den Sportwart kann die Fristprüfung (A6) nicht mehr den ursprünglichen Zeitpunkt sehen.
+* Der Erfassungszeitpunkt wird beim ersten Lesen gespeichert. Wurde ein Bericht vor dem ersten Lesen schon korrigiert, ist der ursprüngliche Zeitpunkt nicht bekannt.
 * Ob Verlegungen genehmigt oder dem Sportwart gemeldet wurden, ist nicht sichtbar – B1 ist deshalb nur ein Hinweis.
-* Relegationsspiele sind im Spielplan nicht gekennzeichnet; die Springer-Regelung gilt dafür nicht.
+* Relegationen werden als eigene Wettbewerbe geführt: allgemeine Prüfungen ja, Springer-Prüfung nein.
+* Mannschaften, die schon vor dem ersten Lauf des Tools aus dem Spielplan entfernt wurden (z. B. Eilendorf KL A 2026/2027), haben keine Kader- und Einsatzdaten mehr – die Sperre nach 10.8.2 kann für sie nicht geprüft werden.
+* Senioren-Mannschaften haben auf billard-blmr.de keine Kaderseiten (offenes ToDo).
 * Laut Springer-Regelung ersetzt sie STO 10.6.2, die STO-Fassung vom 05.10.2026 enthält 10.6.2 aber noch. B4 wird deshalb nur als Hinweis ausgegeben.
 
 ## Entwicklung

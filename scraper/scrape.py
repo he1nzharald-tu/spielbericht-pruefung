@@ -31,6 +31,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
 from parsers import parse_spielplan, parse_kader, parse_spielbericht  # noqa: E402
+from discovery import current_season, parse_leagues, parse_withdrawals, match_withdrawal  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config" / "leagues.json").read_text(encoding="utf-8"))
@@ -127,8 +128,8 @@ def main() -> int:
     ap.add_argument("--sample-reports", default="", help="Diese Spielbericht-IDs als Roh-HTML unter debug/samples ablegen und beenden")
     args = ap.parse_args()
 
-    season = args.season or sorted(CONFIG["seasons"].keys())[-1]
-    scfg = CONFIG["seasons"][season]
+    season = args.season or current_season()
+    scfg = CONFIG["seasons"].get(season, {})
     out = ROOT / "docs" / "data" / slug(season)
     samples = ROOT / "debug" / "samples"
     only = {int(x) for x in args.leagues.split(",") if x.strip()}
@@ -169,7 +170,27 @@ def main() -> int:
     teams: dict[int, dict] = {}
     matches: dict[int, dict] = {}
 
-    leagues = [lg for lg in scfg["leagues"] if not only or lg["id"] in only]
+    # 0) Ligen der Saison automatisch erkennen (inkl. Relegationen); Rückfall: letzte bekannte Liste / Konfiguration
+    all_leagues = None
+    html = f.get(f"sb_spielbetrieb.php?p={VID}-6-{season}")
+    if html:
+        found = parse_leagues(html)
+        if found:
+            overrides = {lg["id"]: lg for lg in scfg.get("leagues", [])}
+            all_leagues = [{**lg, **overrides.get(lg["id"], {})} for lg in found]
+            known = {lg["id"] for lg in meta_old.get("leagues", [])}
+            new_ids = [lg for lg in all_leagues if known and lg["id"] not in known]
+            for lg in new_ids:
+                warnings.append(f"Neue Liga erkannt: {lg['name']} ({lg['code']}, {lg['competition']})")
+    if not all_leagues:
+        all_leagues = meta_old.get("leagues") or scfg.get("leagues") or []
+        warnings.append("Ligen konnten nicht automatisch erkannt werden – letzte bekannte Liste verwendet")
+    if not all_leagues:
+        print(f"Keine Ligen für {season} gefunden.")
+        return 1
+    springer_regel = scfg.get("springer_regel", season >= "2026/2027")
+
+    leagues = [lg for lg in all_leagues if not only or lg["id"] in only]
 
     # Bei Teilläufen (--leagues) die Daten der übrigen Ligen unverändert übernehmen
     if only:
@@ -204,6 +225,41 @@ def main() -> int:
             teams[t["id"]] = t
         for m in parsed["matches"]:
             matches[m["id"]] = m
+
+    # Aus dem Spielplan verschwundene Mannschaften und Begegnungen aufbewahren (z. B. nach Abmeldung)
+    loaded = {lg["id"] for lg in leagues}
+    for t in teams_old.values():
+        if t["league_id"] in loaded and t["id"] not in teams:
+            t = dict(t)
+            t.setdefault("removed_at", now_iso)
+            teams[t["id"]] = t
+    for m in matches_old.values():
+        if m["league_id"] in loaded and m["id"] not in matches:
+            m = dict(m)
+            m["removed"] = True
+            m.setdefault("removed_at", now_iso)
+            matches[m["id"]] = m
+
+    # Abmeldungen aus den Meldungen der Startseite
+    withdrawals = load(out / "withdrawals.json", [])
+    news = f.get("index.php")
+    season_start = season[:4] + "-08-01"
+    if news:
+        keyset = {(w["date"], w["league_name"], w["club"]) for w in withdrawals}
+        for w in parse_withdrawals(news):
+            if w["date"] < season_start or (w["date"], w["league_name"], w["club"]) in keyset:
+                continue
+            w["detected_at"] = now_iso
+            withdrawals.append(w)
+    for w in withdrawals:
+        lid, tid = match_withdrawal(w, all_leagues, list(teams.values()))
+        w["league_id"], w["team_id"] = lid, tid
+        if tid in teams:
+            teams[tid]["withdrawn"] = True
+            teams[tid]["withdrawn_at"] = w["date"]
+            teams[tid]["withdrawn_text"] = w["text"]
+        elif lid:
+            warnings.append(f"Abmeldung {w['club']} ({w['league_name']}, {w['date']}): Mannschaft nicht in den Daten")
 
     # Mannschaften, die nicht mehr verlinkt sind, aber noch in Begegnungen vorkommen, behalten
     for m in matches.values():
@@ -289,6 +345,14 @@ def main() -> int:
         r["hash"] = report_fingerprint(r)
         r["fetched_at"] = now_iso
         r["first_fetched_at"] = (old or {}).get("first_fetched_at") or now_iso
+        # Ersten bekannten Erfassungszeitpunkt festhalten – bleibt auch nach einer Korrektur erhalten
+        o = old or {}
+        r["captured_first_at"] = o.get("captured_first_at") or o.get("captured_at") or r.get("captured_at")
+        r["captured_first_by"] = o.get("captured_first_by") or o.get("captured_by") or r.get("captured_by")
+        hist = list(o.get("capture_history") or ([{"at": o["captured_at"], "by": o.get("captured_by"), "seen": o.get("fetched_at")}] if o.get("captured_at") else []))
+        if r.get("captured_at") and (not hist or hist[-1]["at"] != r["captured_at"]):
+            hist.append({"at": r["captured_at"], "by": r.get("captured_by"), "seen": now_iso})
+        r["capture_history"] = hist
         if old and old.get("hash") != r["hash"] and diff_reports(old, r):
             changes.append({
                 "report_id": mid, "league_id": m["league_id"], "st": m.get("st"),
@@ -310,6 +374,7 @@ def main() -> int:
     save(out / "reports.json", {str(k): reports[k] for k in sorted(reports)})
     save(out / "changes.json", changes)
     save(out / "kader_history.json", kader_hist)
+    save(out / "withdrawals.json", withdrawals)
     meta = {
         "season": season,
         "generated_at": now_iso,
@@ -317,13 +382,13 @@ def main() -> int:
         "last_full_at": now_iso if args.full else meta_old.get("last_full_at"),
         "requests": f.count,
         "reports_fetched": fetched_reports,
-        "counts": {"leagues": len(scfg["leagues"]), "teams": len(teams), "matches": len(matches), "reports": len(reports)},
+        "counts": {"leagues": len(all_leagues), "teams": len(teams), "matches": len(matches), "reports": len(reports)},
         "partial_leagues": sorted(only) if only else None,
         "errors": f.errors,
         "warnings": warnings[:500],
-        "leagues": scfg["leagues"],
+        "leagues": all_leagues,
         "races": CONFIG["races"],
-        "springer_regel": scfg.get("springer_regel", False),
+        "springer_regel": springer_regel,
     }
     save(out / "meta.json", meta)
 

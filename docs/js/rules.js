@@ -59,8 +59,8 @@ export const RULES = {
   B1: "Spielverlegung außerhalb der Frist",
   B1O: "Begegnung überfällig",
   B2: "Vereinsduell: Rückspiel nicht vor der Rückrunde",
-  B3: "Spieler einer abgemeldeten Mannschaft in unterklassiger Mannschaft",
-  B4: "Einsatz in unterklassiger Mannschaft (Wechsel nach unten, 10.6.2)",
+  B3: "Spieler einer abgemeldeten Mannschaft während der Sperre eingesetzt",
+  B4: "Einsatz in unterklassiger Mannschaft (Wechsel nach unten)",
   B7: "Mannschaft dreimal nicht angetreten",
   B7Z: "Wertung ohne gespielte Partien",
   P1: "Eintrag im Protest-Feld",
@@ -89,7 +89,7 @@ function mode(arr) {
 }
 
 export function analyze(data, settings = {}) {
-  const { meta, teams = [], matches = [], reports = {}, changes = [] } = data;
+  const { meta, teams = [], matches = [], reports = {}, changes = [], withdrawals = [] } = data;
   const resolve = makeResolver(settings.aliases || {});
   const sportwarte = (settings.sportwarte || ["Wolfgang Romich"]).map((s) => s.toLowerCase());
   const leagues = new Map((meta?.leagues || []).map((l) => [l.id, l]));
@@ -167,17 +167,25 @@ export function analyze(data, settings = {}) {
     const games = r.games || [];
     const sec = c === "senioren" ? "11.7" : c === "pokal" ? "11.6" : "11." + Math.min(5, Math.max(1, lg.level || 1));
 
-    // A6: Erfassungsfrist
-    if (r.captured_at && m.date) {
+    // A6: Erfassungsfrist – maßgeblich ist der erste bekannte Erfassungszeitpunkt
+    const firstAt = r.captured_first_at || r.captured_at;
+    const firstBy = r.captured_first_by || r.captured_by;
+    if (firstAt && m.date) {
       const deadline = addDays(m.date, 1) + "T14:00";
-      if (r.captured_at.slice(0, 16) > deadline) {
-        const bySw = sportwarte.includes(String(r.captured_by || "").toLowerCase());
+      const hist = (r.capture_history || []).map((h) => `${fmtDT(h.at)} (${h.by || "?"})`);
+      const corrected = r.captured_at && r.captured_at !== firstAt;
+      if (firstAt.slice(0, 16) > deadline) {
+        const bySw = sportwarte.includes(String(firstBy || "").toLowerCase());
+        const knownSinceStart = !!r.capture_history && r.capture_history.length > 0 && r.first_fetched_at && r.first_fetched_at.slice(0, 16) <= deadline;
         add({
           ...baseOf(m), code: "A6", severity: bySw ? "hinweis" : "verstoss",
           teamId: m.home_id, opponentId: m.away_id,
           title: RULES.A6,
-          detail: `Erfasst am ${fmtDT(r.captured_at)} von ${r.captured_by || "?"}, Frist war ${fmtDT(deadline)}.` +
-            (bySw ? " Letzte Erfassung durch den Sportwart – vermutlich Korrektur; ursprünglichen Eintrag prüfen." : " Hinweis: Angezeigt wird der Zeitpunkt der letzten Erfassung."),
+          detail: `Erste bekannte Erfassung am ${fmtDT(firstAt)} von ${firstBy || "?"}, Frist war ${fmtDT(deadline)}.` +
+            (corrected ? ` Später geändert: ${fmtDT(r.captured_at)} von ${r.captured_by || "?"}.` : "") +
+            (bySw ? " Erfassung durch den Sportwart – vermutlich Korrektur eines früheren Eintrags, der dem Tool nicht vorliegt; bitte prüfen." :
+              knownSinceStart ? "" : " Hinweis: Der Bericht wurde vom Tool erst nach Ablauf der Frist erstmals gelesen; eine frühere, später überschriebene Erfassung ist nicht ausgeschlossen.") +
+            (hist.length > 1 ? ` Verlauf: ${hist.join(" → ")}.` : ""),
           penalty: PENALTIES["10.3.2"], sto: "10.3.1 / 10.3.2",
         });
       }
@@ -232,7 +240,7 @@ export function analyze(data, settings = {}) {
 
     // A7: Summen, Ausspielziele, Abgleich mit Spielplan
     let hw = 0, aw = 0;
-    const raceTab = races[c]?.[String(lg.level)] || {};
+    const raceTab = races[c === "relegation" ? "kombi" : c]?.[String(lg.level)] || {};
     for (const g of scoredGames(r)) {
       const [h, a] = g.score;
       if (h > a) hw++; else if (a > h) aw++;
@@ -340,6 +348,8 @@ export function analyze(data, settings = {}) {
   }
 
   // ---------------------------------------------------------------- Springer & Spielberechtigung (Kombi)
+  const maxStByLeague = new Map();
+  for (const m of matches) if (m.st != null && !isBye(m)) maxStByLeague.set(m.league_id, Math.max(maxStByLeague.get(m.league_id) || 0, m.st));
   const springer = [];
   for (const [key, list] of appsByPlayer) {
     const kombi = list.filter((a) => comp(a.team) === "kombi");
@@ -430,9 +440,26 @@ export function analyze(data, settings = {}) {
             penalty: PENALTIES.none, sto: "Springer-Regelung" });
         }
       } else if (lower(T, st.stamm)) {
-        add({ ...base, code: "B4", severity: "hinweis", title: RULES.B4,
-          detail: `${a.name} (Stamm lt. ${source}: ${st.stamm.name}) spielt für die unterklassige Mannschaft ${T.name}. Zulässig nur als regulärer Wechsel (10.6.2: einmal je Spielzeit, nicht in den letzten drei Spieltagen).`,
-          penalty: PENALTIES["10.2.7"], sto: "10.6.2 (Status mit Springer-Regelung unklar)" });
+        if (!st.down) st.down = new Map();
+        st.down.set(T.id, (st.down.get(T.id) || 0) + 1);
+        const nT = st.down.get(T.id);
+        const lgT = leagues.get(T.league_id) || {}, lgS = leagues.get(st.stamm.league_id) || {};
+        const maxStT = maxStByLeague.get(T.league_id) || 0;
+        const last3 = maxStT && a.match.st != null && a.match.st > maxStT - 3;
+        const inKaderT = teamKaderKeys.get(T.id)?.has(key);
+        const sameLevel = level(T) === level(st.stamm);
+        const downTeams = [...st.down.keys()].map((id) => teamById.get(id)?.name).filter(Boolean);
+        const parts = [
+          `${a.name} ist laut ${source} Stammspieler von ${st.stamm.name} (${lgS.code || "?"}) und spielt am ${a.match.st}. Spieltag (${fmtD(a.match.date)}) für ${T.name} (${lgT.code || "?"}), eine ${sameLevel ? "gleich klassifizierte Mannschaft mit höherer Nummer" : "niedriger klassifizierte Mannschaft"} – ${nT}. Einsatz dort.`,
+          `Als Springer darf ein Sportler nur in höherklassigen Mannschaften aushelfen. Ein Einsatz nach unten ist nur als regulärer Mannschaftswechsel (Ummeldung) möglich: nach STO ${sameLevel ? "10.6.3" : "10.6.2"} einmal je Spielzeit und nicht in den letzten drei Spieltagen.`,
+          maxStT ? `Spieltag ${a.match.st} von ${maxStT}: ${last3 ? "liegt in den letzten drei Spieltagen – Wechsel hier nicht zulässig." : "außerhalb der letzten drei Spieltage."}` : "",
+          inKaderT ? `${a.name} steht inzwischen im Kader von ${T.name} – Ummeldung vermutlich erfolgt.` : `${a.name} steht nicht im Kader von ${T.name} – keine Ummeldung erkennbar.`,
+          downTeams.length > 1 ? `Bereits mehrere Mannschaften nach unten (${downTeams.join(", ")}): weiterer Wechsel nur nach 3 Monaten Wartezeit (10.6.4).` : "",
+          `Zu beachten: Laut Springer-Regelung ist STO 10.6.2 gestrichen, die STO-Fassung vom 05.10.2026 enthält sie noch – abschließende Bewertung durch den 1. Sportwart.`,
+        ];
+        add({ ...base, code: "B4", severity: "hinweis", title: RULES.B4 + (last3 ? " – letzte drei Spieltage" : !inKaderT ? " – ohne Ummeldung" : ""),
+          detail: parts.filter(Boolean).join(" "),
+          penalty: PENALTIES["10.2.7"], sto: `${sameLevel ? "10.6.3" : "10.6.2"} / 10.6.4 / Springer-Regelung` });
       }
     }
     // Nicht im Kader gemeldet (nur wenn Kader der Mannschaft überhaupt erkannt wurde)
@@ -490,7 +517,7 @@ export function analyze(data, settings = {}) {
   }
   for (const [lid, ms] of byLeague) {
     const lg = leagues.get(lid) || {};
-    if (lg.competition === "pokal") continue;
+    if (lg.competition === "pokal" || lg.competition === "relegation") continue;
     const regular = new Map();
     const bySt = new Map();
     for (const m of ms) {
@@ -546,17 +573,46 @@ export function analyze(data, settings = {}) {
     }
   }
 
-  // B3 abgemeldete Mannschaften
+  // Abmeldungen (Meldungen der Startseite) und B3: Sperre von drei Spieltagen in niedrigeren Mannschaften (10.8.2)
+  const regularByLeague = new Map();
+  {
+    const tmp = new Map();
+    for (const m of matches) {
+      if (m.st == null || !m.date || isBye(m)) continue;
+      const k = m.league_id + "|" + m.st;
+      if (!tmp.has(k)) tmp.set(k, []);
+      tmp.get(k).push(m.date);
+    }
+    for (const [k, ds] of tmp) {
+      const [lid, st] = k.split("|").map(Number);
+      if (!regularByLeague.has(lid)) regularByLeague.set(lid, new Map());
+      regularByLeague.get(lid).set(st, mode(ds));
+    }
+  }
+  for (const w of withdrawals) {
+    const t = teamById.get(w.team_id);
+    const lg = leagues.get(w.league_id) || {};
+    add({ code: "WD", severity: "hinweis", teamId: t?.id ?? null, leagueId: w.league_id, date: w.date, extra: w.date + w.club,
+      title: `Mannschaft ${w.kind || "abgemeldet"}`,
+      detail: `${t ? t.name : w.club} (${lg.code || w.league_name}) laut Meldung vom ${fmtD(w.date)}: „${w.text}“` +
+        (t ? "" : " Die Mannschaft ist im Spielplan nicht mehr enthalten und war in früheren Läufen nicht erfasst – Kader und Einsätze liegen nicht vor."),
+      penalty: { sto: "10.8.1", nr: 15, betrag: 100, text: "Abmeldung einer Mannschaft im Laufe der Spielzeit: Bußgeld 100,00 € (Bußgeldkatalog Nr. 15). Die Spiele der Mannschaft werden annulliert." },
+      sto: "10.8.1", withdrawal: w });
+  }
   for (const t of teams.filter((x) => x.withdrawn)) {
-    const lastDate = matches.filter((m) => (m.home_id === t.id || m.away_id === t.id) && m.result).map((m) => m.date).sort().pop() || "";
+    const wd = t.withdrawn_at || matches.filter((m) => (m.home_id === t.id || m.away_id === t.id) && m.result).map((m) => m.date).sort().pop() || "";
     const players = new Set(apps.filter((a) => a.team.id === t.id).map((a) => a.key));
-    for (const t2 of teamKaderKeys.get(t.id) || []) players.add(t2);
+    for (const k of teamKaderKeys.get(t.id) || []) players.add(k);
     for (const a of apps) {
-      if (!players.has(a.key) || a.team.id === t.id || a.team.club !== t.club) continue;
-      if ((a.match.date || "") < lastDate) continue;
-      if (lower(a.team, t)) {
-        add({ ...baseOf(a.match), code: "B3", severity: "hinweis", teamId: a.team.id, opponentId: oppOf(a), playerKey: a.key, player: a.name, title: RULES.B3,
-          detail: `${a.name} (aus ${t.name}, abgemeldet) spielt für ${a.team.name}. Zulässig erst nach drei Spieltagen Sperre.`, penalty: PENALTIES["10.2.7"], sto: "10.8.2" });
+      if (!players.has(a.key) || a.team.id === t.id || a.team.club !== t.club || comp(a.team) !== comp(t)) continue;
+      if ((a.match.date || "") < wd || !lower(a.team, t)) continue;
+      // die ersten drei Spieltage der unteren Liga nach der Abmeldung sind gesperrt
+      const reg = regularByLeague.get(a.team.league_id) || new Map();
+      const blocked = [...reg.entries()].filter(([, d]) => d >= wd).sort((x, y) => x[0] - y[0]).slice(0, 3).map(([st]) => st);
+      if (a.match.st != null && blocked.includes(a.match.st)) {
+        add({ ...baseOf(a.match), code: "B3", severity: "verstoss", teamId: a.team.id, opponentId: oppOf(a), playerKey: a.key, player: a.name, title: RULES.B3,
+          detail: `${a.name} gehörte zu ${t.name} (abgemeldet am ${fmtD(wd)}) und spielt am ${a.match.st}. Spieltag (${fmtD(a.match.date)}) für die niedriger klassifizierte Mannschaft ${a.team.name}. Gesperrt sind dort die Spieltage ${blocked.join(", ")}; in höher oder gleich klassifizierten Mannschaften wäre der Einsatz ohne Sperre zulässig.`,
+          penalty: PENALTIES["10.2.7"], sto: "10.8.2 / 10.2.7" });
       }
     }
   }
@@ -628,7 +684,7 @@ export function analyze(data, settings = {}) {
 }
 
 function isBye(m) {
-  return !!m.bye || !m.home_id || !m.away_id;
+  return !!m.bye || !!m.removed || !m.home_id || !m.away_id;
 }
 
 function scoredGames(r) {

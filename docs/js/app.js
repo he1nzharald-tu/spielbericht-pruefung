@@ -31,13 +31,14 @@ async function loadSeason(slug) {
   const base = `data/${slug}/`;
   const meta = await getJson(base + "meta.json", Date.now());
   const v = meta.generated_at;
-  const [teams, matches, reports, changes] = await Promise.all([
+  const [teams, matches, reports, changes, withdrawals] = await Promise.all([
     getJson(base + "teams.json", v),
     getJson(base + "matches.json", v),
     getJson(base + "reports.json", v),
     getJson(base + "changes.json", v).catch(() => []),
+    getJson(base + "withdrawals.json", v).catch(() => []),
   ]);
-  state.data = { meta, teams, matches, reports, changes };
+  state.data = { meta, teams, matches, reports, changes, withdrawals };
   state.teamsById = new Map(teams.map((t) => [t.id, t]));
   state.leaguesById = new Map(meta.leagues.map((l) => [l.id, l]));
   runAnalysis();
@@ -97,7 +98,7 @@ function fillFilters() {
 
   const lg = $("#f-league");
   const prevL = lg.value;
-  const comps = { kombi: "Kombi", senioren: "Senioren", pokal: "Pokal" };
+  const comps = { kombi: "Kombi", senioren: "Senioren", pokal: "Pokal", relegation: "Relegation" };
   lg.innerHTML = `<option value="">Alle Ligen</option>` +
     Object.entries(comps).map(([c, label]) => `<optgroup label="${label}">` +
       meta.leagues.filter((l) => l.competition === c).map((l) => `<option value="${l.id}">${esc(l.code)} – ${esc(l.name)}</option>`).join("") + `</optgroup>`).join("");
@@ -293,7 +294,7 @@ function renderReports(v) {
       return `<tr>
         <td>${m.st}</td><td>${esc(state.leaguesById.get(m.league_id)?.code)}</td>
         <td>${fmtD(m.date)}${m.time ? " " + m.time : ""}</td>
-        <td><a href="${esc(BASE_URL + m.url)}" target="_blank" rel="noopener">${esc(state.teamsById.get(m.home_id)?.name || "?")} – ${esc(state.teamsById.get(m.away_id)?.name || "?")}</a></td>
+        <td><a href="${esc(BASE_URL + m.url)}" target="_blank" rel="noopener">${esc(state.teamsById.get(m.home_id)?.name || "?")} – ${esc(state.teamsById.get(m.away_id)?.name || "?")}</a>${m.removed ? ` <span class="chip status">gestrichen</span>` : ""}</td>
         <td>${fmtRes(r?.endstand || m.result)}</td>
         <td>${esc(r?.description || (m.memo || []).join("; "))}${r?.protest ? `<br><span class="muted">Protest:</span> ${esc(r.protest)}` : ""}</td>
         <td>${r?.captured_at ? fmtDT(r.captured_at) + "<br><span class='muted'>" + esc(r.captured_by || "") + "</span>" : r ? "–" : "<span class='muted'>nicht geladen</span>"}</td>

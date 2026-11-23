@@ -166,3 +166,51 @@ test("Wertung ohne Partien: Hinweis mit Protest-/Beschreibungstext (Nichtantrete
   assert.equal(f[0].penalty.sto, "10.5.3");
   assert.equal(r.findings.filter((x) => x.matchId === id && ["A1", "A4", "A7"].includes(x.code)).length, 0);
 });
+
+test("Abmeldung: Sperre von drei Spieltagen in niedrigerer Mannschaft (B3) und Hinweis mit Bußgeld (WD)", () => {
+  const teams2 = teams.map((t) => (t.id === 2 ? { ...t, withdrawn: true, withdrawn_at: "2026-11-01" } : t));
+  const matches2 = [...matches];
+  const reports2 = { ...reports };
+  const id = 9001;
+  matches2.push({ id, league_id: 576, st: 8, date: "2026-11-28", time: "16:00", home_id: 3, away_id: 12, result: [4, 4], url: "x" });
+  reports2[String(id)] = report(lineup(["Bert Beta", "Dora Delta", "Emil Eps", "Fritz Zeta"]), lineup(["H A", "H B", "H C", "H D"]), { date: "2026-11-28", raceTab: { "14/1": 30, "8-Ball": 3, "9-Ball": 4, "10-Ball": 3 } });
+  const wd = [{ date: "2026-11-01", league_name: "Kreisliga A", club: "BC Alsdorf", kind: "abgemeldet", text: "der BC Alsdorf hat seine 5. Mannschaft abgemeldet", league_id: 569, team_id: 2 }];
+  const r = analyze({ meta, teams: teams2, matches: matches2, reports: reports2, changes: [], withdrawals: wd }, { today: "2026-11-30" });
+  const b3 = r.findings.filter((f) => f.code === "B3" && f.matchId === id);
+  assert.equal(b3.length, 1);
+  assert.equal(b3[0].severity, "verstoss");
+  const w = r.findings.filter((f) => f.code === "WD");
+  assert.equal(w.length, 1);
+  assert.equal(w[0].penalty.betrag, 100);
+});
+
+test("Fristprüfung nutzt den ersten Erfassungszeitpunkt (Korrektur durch Sportwart)", () => {
+  const reports2 = { ...reports };
+  const m = matches.find((x) => x.id === m1);
+  reports2[String(m1)] = { ...reports[String(m1)], captured_first_at: "2026-09-19T21:00", captured_first_by: "Heim Erfasser",
+    captured_at: "2026-09-25T11:06", captured_by: "Wolfgang Romich", first_fetched_at: "2026-09-19T22:00:00Z",
+    capture_history: [{ at: "2026-09-19T21:00", by: "Heim Erfasser" }, { at: "2026-09-25T11:06", by: "Wolfgang Romich" }] };
+  let r = analyze({ meta, teams, matches, reports: reports2, changes: [] }, { today: "2026-11-23" });
+  assert.equal(r.findings.filter((f) => f.code === "A6" && f.matchId === m1).length, 0, "rechtzeitig erfasst, später korrigiert");
+  reports2[String(m1)] = { ...reports2[String(m1)], captured_first_at: "2026-09-21T09:00", captured_first_by: "Heim Erfasser" };
+  r = analyze({ meta, teams, matches, reports: reports2, changes: [] }, { today: "2026-11-23" });
+  const a6 = r.findings.filter((f) => f.code === "A6" && f.matchId === m1);
+  assert.equal(a6.length, 1);
+  assert.equal(a6[0].severity, "verstoss");
+  assert.match(a6[0].detail, /Später geändert/);
+});
+
+test("Relegation: keine Springer-Prüfung; gestrichene Begegnungen werden ignoriert", () => {
+  const meta2 = { ...meta, leagues: [...meta.leagues, { id: 600, code: "RKL", name: "Relegation Kreisliga", competition: "relegation", level: 4 }] };
+  const teams2 = [...teams, T(60, "BC Alsdorf 3", 600, ["Wer Anders", "Noch Jemand", "Dritter Mann", "Vierte Frau"])];
+  const id = 9100, id2 = 9101;
+  const matches2 = [...matches,
+    { id, league_id: 600, st: 1, date: "2027-06-12", time: "16:00", home_id: 60, away_id: 11, result: [4, 4], url: "r" },
+    { id: id2, league_id: 571, st: 9, date: "2026-12-05", time: "16:00", home_id: 1, away_id: 10, result: [4, 4], url: "g", removed: true }];
+  const reports2 = { ...reports,
+    [String(id)]: report(lineup(["Max Muster", "Wer Anders", "Noch Jemand", "Dritter Mann"]), lineup(["G A", "G B", "G C", "G D"]), { date: "2027-06-12", raceTab: { "14/1": 50, "8-Ball": 3, "9-Ball": 4, "10-Ball": 3 } }),
+    [String(id2)]: report(lineup(["Sabine Sparacio", "Anna Alpha", "Bert Beta", "Carl Gamma"]), DUE4.concat(DUE4), { date: "2026-12-05" }) };
+  const r = analyze({ meta: meta2, teams: teams2, matches: matches2, reports: reports2, changes: [] }, { today: "2027-06-20" });
+  assert.equal(r.findings.filter((f) => f.matchId === id && ["R2", "R6", "R5", "B4"].includes(f.code)).length, 0);
+  assert.equal(r.findings.filter((f) => f.matchId === id2).length, 0);
+});

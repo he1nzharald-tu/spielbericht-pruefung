@@ -75,6 +75,14 @@ jobs:
           if [ -n "$DIAG_PAGES" ]; then ARGS="--diag-pages $DIAG_PAGES"; fi
           python scraper/scrape.py $ARGS
 
+      - name: Push-Benachrichtigung über neue Fälle
+        if: ${{ github.event.inputs.diag_pages == '' && github.event.inputs.sample_reports == '' || github.event_name == 'schedule' }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NOTIFY_LEVEL: ${{ vars.NOTIFY_LEVEL || 'hinweis' }}
+          APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node scripts/notify.mjs
+
       - name: Änderungen speichern
         run: |
           git config user.name "spielbericht-bot"
